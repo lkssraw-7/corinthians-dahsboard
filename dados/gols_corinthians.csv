@@ -1,0 +1,567 @@
+﻿partida_id,rodata,clube,atleta,minuto,tipo_de_gol,ID,temporada,data,adversario,local,resultado,minuto_original,minuto_numerico,intervalo_gol
+4621,2,Corinthians,Carlos Gilberto do Nascimento Silva,80,Gol normal,4621,2014,2014-04-27,Flamengo,Mandante,Vitoria,80,80,76-90
+4621,2,Corinthians,Guilherme dos Santos Torres,9,Gol normal,4621,2014,2014-04-27,Flamengo,Mandante,Vitoria,9,9,0-15
+4635,3,Corinthians,Paolo Guerrero,78,Gol normal,4635,2014,2014-05-04,Chapecoense,Visitante,Vitoria,78,78,76-90
+4643,4,Corinthians,Fagner,49,Gol normal,4643,2014,2014-05-11,Sao Paulo,Visitante,Empate,49,49,46-60
+4661,6,Corinthians,Jadson,59,Pênalti,4661,2014,2014-05-21,Athletico-PR,Mandante,Empate,59,59,46-60
+4671,7,Corinthians,Jadson,38,Gol normal,4671,2014,2014-05-25,Sport,Visitante,Vitoria,38,38,31-45
+4671,7,Corinthians,Romarinho,20,Gol normal,4671,2014,2014-05-25,Sport,Visitante,Vitoria,20,20,16-30
+4671,7,Corinthians,Jadson,55,Pênalti,4671,2014,2014-05-25,Sport,Visitante,Vitoria,55,55,46-60
+4671,7,Corinthians,Romarinho,68,Gol normal,4671,2014,2014-05-25,Sport,Visitante,Vitoria,68,68,61-75
+4682,8,Corinthians,Paolo Guerrero,68,Gol normal,4682,2014,2014-05-28,Cruzeiro,Mandante,Vitoria,68,68,61-75
+4697,28,Corinthians,Jadson,25,Gol normal,4697,2014,2014-06-01,Botafogo-RJ,Mandante,Empate,25,25,16-30
+4713,10,Corinthians,Fagner,10,Gol normal,4713,2014,2014-07-17,Internacional,Mandante,Vitoria,10,10,0-15
+4713,10,Corinthians,Paolo Guerrero,7,Gol normal,4713,2014,2014-07-17,Internacional,Mandante,Vitoria,7,7,0-15
+4733,12,Corinthians,Paolo Guerrero,51,Gol normal,4733,2014,2014-07-27,Palmeiras,Mandante,Vitoria,51,51,46-60
+4733,12,Corinthians,Petros,90+1,Gol normal,4733,2014,2014-07-27,Palmeiras,Mandante,Vitoria,90+1,91,90+
+4751,14,Corinthians,Carlos Gilberto do Nascimento Silva,84,Gol normal,4751,2014,2014-08-10,Santos,Visitante,Vitoria,84,84,76-90
+4758,15,Corinthians,Carlos Gilberto do Nascimento Silva,43,Gol normal,4758,2014,2014-08-16,Bahia,Mandante,Empate,43,43,31-45
+4775,16,Corinthians,Luciano da Rocha Neves,85,Gol normal,4775,2014,2014-08-21,Goias,Mandante,Vitoria,85,85,76-90
+4775,16,Corinthians,Paolo Guerrero,22,Gol normal,4775,2014,2014-08-21,Goias,Mandante,Vitoria,22,22,16-30
+4775,16,Corinthians,Luciano da Rocha Neves,89,Gol normal,4775,2014,2014-08-21,Goias,Mandante,Vitoria,89,89,76-90
+4775,16,Corinthians,Elias Mendes Trindade,65,Gol normal,4775,2014,2014-08-21,Goias,Mandante,Vitoria,65,65,61-75
+4775,16,Corinthians,Luciano da Rocha Neves,78,Gol normal,4775,2014,2014-08-21,Goias,Mandante,Vitoria,78,78,76-90
+4780,17,Corinthians,Paolo Guerrero,62,Gol normal,4780,2014,2014-08-24,Gremio,Visitante,Derrota,62,62,61-75
+4789,18,Corinthians,Romarinho,74,Gol normal,4789,2014,2014-08-31,Fluminense,Mandante,Empate,74,74,61-75
+4815,20,Corinthians,Petros,14,Gol normal,4815,2014,2014-09-11,Atletico-MG,Mandante,Vitoria,14,14,0-15
+4834,22,Corinthians,Malcom Filipe Silva de Oliveira,10,Gol normal,4834,2014,2014-09-18,Chapecoense,Mandante,Empate,10,10,0-15
+4842,23,Corinthians,Fábio Santos,36,Pênalti,4842,2014,2014-09-21,Sao Paulo,Mandante,Vitoria,36,36,31-45
+4842,23,Corinthians,Fábio Santos,66,Pênalti,4842,2014,2014-09-21,Sao Paulo,Mandante,Vitoria,66,66,61-75
+4842,23,Corinthians,Paolo Guerrero,74,Gol normal,4842,2014,2014-09-21,Sao Paulo,Mandante,Vitoria,74,74,61-75
+4873,26,Corinthians,Anderson Martins,25,Gol normal,4873,2014,2014-10-04,Sport,Mandante,Vitoria,25,25,16-30
+4873,26,Corinthians,Paolo Guerrero,73,Gol normal,4873,2014,2014-10-04,Sport,Mandante,Vitoria,73,73,61-75
+4873,26,Corinthians,Luciano da Rocha Neves,90+3,Gol normal,4873,2014,2014-10-04,Sport,Mandante,Vitoria,90+3,93,90+
+4881,27,Corinthians,Luciano da Rocha Neves,73,Gol normal,4881,2014,2014-10-08,Cruzeiro,Visitante,Vitoria,73,73,61-75
+4893,29,Corinthians,Paolo Guerrero,4,Gol normal,4893,2014,2014-10-19,Internacional,Visitante,Vitoria,4,4,0-15
+4893,29,Corinthians,Carlos Gilberto do Nascimento Silva,45+9,Gol normal,4893,2014,2014-10-19,Internacional,Visitante,Vitoria,45+9,54,46-60
+4898,30,Corinthians,Fábio Santos,19,Gol normal,4898,2014,2014-10-22,Vitoria,Mandante,Vitoria,19,19,16-30
+4898,30,Corinthians,Luciano da Rocha Neves,80,Gol normal,4898,2014,2014-10-22,Vitoria,Mandante,Vitoria,80,80,76-90
+4908,31,Corinthians,Danilo Gabriel de Andrade,90+1,Gol normal,4908,2014,2014-10-25,Palmeiras,Visitante,Empate,90+1,91,90+
+4919,32,Corinthians,Elias Mendes Trindade,46,Gol normal,4919,2014,2014-11-01,Coritiba,Mandante,Empate,46,46,46-60
+4919,32,Corinthians,Bruno Henrique Corsini,90+5,Gol normal,4919,2014,2014-11-01,Coritiba,Mandante,Empate,90+5,95,90+
+4934,33,Corinthians,Paolo Guerrero,7,Gol normal,4934,2014,2014-11-09,Santos,Mandante,Vitoria,7,7,0-15
+4949,34,Corinthians,Malcom Filipe Silva de Oliveira,25,Gol normal,4949,2014,2014-11-16,Bahia,Visitante,Vitoria,25,25,16-30
+4949,34,Corinthians,Renato Augusto,84,Gol normal,4949,2014,2014-11-16,Bahia,Visitante,Vitoria,84,84,76-90
+4940,35,Corinthians,Felipe Macedo,45,Gol Contra,4940,2014,2014-11-19,Goias,Visitante,Vitoria,45,45,31-45
+4964,36,Corinthians,Paolo Guerrero,83,Gol normal,4964,2014,2014-11-23,Gremio,Mandante,Vitoria,83,83,76-90
+4972,37,Corinthians,Paolo Guerrero,5,Gol normal,4972,2014,2014-11-30,Fluminense,Visitante,Derrota,5,5,0-15
+4972,37,Corinthians,Danilo Gabriel de Andrade,84,Gol normal,4972,2014,2014-11-30,Fluminense,Visitante,Derrota,84,84,76-90
+4977,38,Corinthians,Elias Mendes Trindade,26,Gol normal,4977,2014,2014-12-06,Criciuma,Mandante,Vitoria,26,26,16-30
+4977,38,Corinthians,Fábio Santos,72,Gol normal,4977,2014,2014-12-06,Criciuma,Mandante,Vitoria,72,72,61-75
+4993,1,Corinthians,Ángel Romero,82,Gol normal,4993,2015,2015-05-10,Cruzeiro,Visitante,Vitoria,82,82,76-90
+4999,2,Corinthians,Fábio Santos,28,Gol normal,4999,2015,2015-05-16,Chapecoense,Mandante,Vitoria,28,28,16-30
+5033,5,Corinthians,Stiven Mendoza,23,Gol normal,5033,2015,2015-06-03,Gremio,Visitante,Derrota,23,23,16-30
+5041,6,Corinthians,Jadson,31,Gol normal,5041,2015,2015-06-06,Joinville,Visitante,Vitoria,31,31,31-45
+5050,7,Corinthians,Jadson,51,Gol normal,5050,2015,2015-06-13,Internacional,Mandante,Vitoria,51,51,46-60
+5050,7,Corinthians,Vágner Love,67,Gol normal,5050,2015,2015-06-13,Internacional,Mandante,Vitoria,67,67,61-75
+5069,9,Corinthians,Jadson,65,Pênalti,5069,2015,2015-06-27,Figueirense,Mandante,Vitoria,65,65,61-75
+5069,9,Corinthians,Vágner Love,55,Gol normal,5069,2015,2015-06-27,Figueirense,Mandante,Vitoria,55,55,46-60
+5084,10,Corinthians,Vágner Love,90+6,Gol normal,5084,2015,2015-07-02,Ponte Preta,Mandante,Vitoria,90+6,96,90+
+5084,10,Corinthians,Jadson,41,Gol normal,5084,2015,2015-07-02,Ponte Preta,Mandante,Vitoria,41,41,31-45
+5105,12,Corinthians,Elias Mendes Trindade,34,Gol normal,5105,2015,2015-07-09,Athletico-PR,Mandante,Vitoria,34,34,31-45
+5105,12,Corinthians,Jadson,77,Gol normal,5105,2015,2015-07-09,Athletico-PR,Mandante,Vitoria,77,77,76-90
+5112,13,Corinthians,Uendel Pereira Gonçalves,45+4,Gol normal,5112,2015,2015-07-12,Flamengo,Visitante,Vitoria,45+4,49,46-60
+5112,13,Corinthians,Jadson,63,Gol normal,5112,2015,2015-07-12,Flamengo,Visitante,Vitoria,63,63,61-75
+5112,13,Corinthians,Elias Mendes Trindade,26,Gol normal,5112,2015,2015-07-12,Flamengo,Visitante,Vitoria,26,26,16-30
+5119,14,Corinthians,Malcom Filipe Silva de Oliveira,42,Gol normal,5119,2015,2015-07-18,Atletico-MG,Mandante,Vitoria,42,42,31-45
+5133,15,Corinthians,Felipe Augusto de Almeida Monteiro,41,Gol normal,5133,2015,2015-07-26,Coritiba,Visitante,Empate,41,41,31-45
+5137,16,Corinthians,Renato Augusto,47,Gol normal,5137,2015,2015-07-29,Vasco,Mandante,Vitoria,47,47,46-60
+5137,16,Corinthians,Carlos Gilberto do Nascimento Silva,61,Gol normal,5137,2015,2015-07-29,Vasco,Mandante,Vitoria,61,61,61-75
+5137,16,Corinthians,Elias Mendes Trindade,77,Gol normal,5137,2015,2015-07-29,Vasco,Mandante,Vitoria,77,77,76-90
+5151,17,Corinthians,Luciano da Rocha Neves,21,Gol normal,5151,2015,2015-08-09,Sao Paulo,Visitante,Empate,21,21,16-30
+5163,18,Corinthians,Jadson,87,Pênalti,5163,2015,2015-08-12,Sport,Mandante,Vitoria,87,87,76-90
+5163,18,Corinthians,Luciano da Rocha Neves,45+2,Gol normal,5163,2015,2015-08-12,Sport,Mandante,Vitoria,45+2,47,46-60
+5163,18,Corinthians,Samuel Xavier,60,Gol Contra,5163,2015,2015-08-12,Sport,Mandante,Vitoria,60,60,46-60
+5163,18,Corinthians,Luciano da Rocha Neves,13,Gol normal,5163,2015,2015-08-12,Sport,Mandante,Vitoria,13,13,0-15
+5171,19,Corinthians,Luciano da Rocha Neves,45+3,Gol normal,5171,2015,2015-08-16,Avai,Visitante,Vitoria,45+3,48,46-60
+5171,19,Corinthians,Luciano da Rocha Neves,87,Gol normal,5171,2015,2015-08-16,Avai,Visitante,Vitoria,87,87,76-90
+5184,20,Corinthians,Vágner Love,48,Gol normal,5184,2015,2015-08-23,Cruzeiro,Mandante,Vitoria,48,48,46-60
+5184,20,Corinthians,Jadson,44,Gol normal,5184,2015,2015-08-23,Cruzeiro,Mandante,Vitoria,44,44,31-45
+5184,20,Corinthians,Vágner Love,15,Gol normal,5184,2015,2015-08-23,Cruzeiro,Mandante,Vitoria,15,15,0-15
+5194,21,Corinthians,Vágner Love,14,Gol normal,5194,2015,2015-08-30,Chapecoense,Visitante,Vitoria,14,14,0-15
+5194,21,Corinthians,Jadson,90,Pênalti,5194,2015,2015-08-30,Chapecoense,Visitante,Vitoria,90,90,76-90
+5194,21,Corinthians,Elias Mendes Trindade,10,Gol normal,5194,2015,2015-08-30,Chapecoense,Visitante,Vitoria,10,10,0-15
+5203,22,Corinthians,Marciel Silva da Silva,5,Gol normal,5203,2015,2015-09-02,Fluminense,Mandante,Vitoria,5,5,0-15
+5203,22,Corinthians,Ralf de Souza Teles,71,Gol normal,5203,2015,2015-09-02,Fluminense,Mandante,Vitoria,71,71,61-75
+5213,23,Corinthians,Guilherme Arana,25,Gol normal,5213,2015,2015-09-06,Palmeiras,Visitante,Empate,25,25,16-30
+5213,23,Corinthians,Vágner Love,79,Gol normal,5213,2015,2015-09-06,Palmeiras,Visitante,Empate,79,79,76-90
+5213,23,Corinthians,Willian José de Souza,38,Gol Contra,5213,2015,2015-09-06,Palmeiras,Visitante,Empate,38,38,31-45
+5223,24,Corinthians,Renato Augusto,66,Gol normal,5223,2015,2015-09-09,Gremio,Mandante,Empate,66,66,61-75
+5230,25,Corinthians,Uendel Pereira Gonçalves,58,Gol normal,5230,2015,2015-09-13,Joinville,Mandante,Vitoria,58,58,46-60
+5230,25,Corinthians,Vágner Love,88,Gol normal,5230,2015,2015-09-13,Joinville,Mandante,Vitoria,88,88,76-90
+5230,25,Corinthians,Malcom Filipe Silva de Oliveira,39,Gol normal,5230,2015,2015-09-13,Joinville,Mandante,Vitoria,39,39,31-45
+5243,26,Corinthians,Malcom Filipe Silva de Oliveira,18,Gol normal,5243,2015,2015-09-16,Internacional,Visitante,Derrota,18,18,16-30
+5251,27,Corinthians,Jadson,88,Gol normal,5251,2015,2015-09-20,Santos,Mandante,Vitoria,88,88,76-90
+5251,27,Corinthians,Jadson,86,Pênalti,5251,2015,2015-09-20,Santos,Mandante,Vitoria,86,86,76-90
+5263,28,Corinthians,Renato Augusto,83,Gol normal,5263,2015,2015-09-27,Figueirense,Visitante,Vitoria,83,83,76-90
+5263,28,Corinthians,Elias Mendes Trindade,15,Gol normal,5263,2015,2015-09-27,Figueirense,Visitante,Vitoria,15,15,0-15
+5263,28,Corinthians,Carlos Gilberto do Nascimento Silva,67,Gol normal,5263,2015,2015-09-27,Figueirense,Visitante,Vitoria,67,67,61-75
+5275,29,Corinthians,Jadson,43,Gol normal,5275,2015,2015-10-04,Ponte Preta,Visitante,Empate,43,43,31-45
+5275,29,Corinthians,Rodrigo Eduardo Costa Marinho,84,Gol normal,5275,2015,2015-10-04,Ponte Preta,Visitante,Empate,84,84,76-90
+5285,30,Corinthians,Edu Dracena,16,Gol normal,5285,2015,2015-10-15,Goias,Mandante,Vitoria,16,16,16-30
+5285,30,Corinthians,Malcom Filipe Silva de Oliveira,26,Gol normal,5285,2015,2015-10-15,Goias,Mandante,Vitoria,26,26,16-30
+5285,30,Corinthians,Rodrigo Eduardo Costa Marinho,88,Gol normal,5285,2015,2015-10-15,Goias,Mandante,Vitoria,88,88,76-90
+5291,31,Corinthians,Renato Augusto,17,Gol normal,5291,2015,2015-10-18,Athletico-PR,Visitante,Vitoria,17,17,16-30
+5291,31,Corinthians,Renato Augusto,45+1,Gol normal,5291,2015,2015-10-18,Athletico-PR,Visitante,Vitoria,45+1,46,46-60
+5291,31,Corinthians,Vágner Love,29,Gol normal,5291,2015,2015-10-18,Athletico-PR,Visitante,Vitoria,29,29,16-30
+5291,31,Corinthians,Vágner Love,62,Gol normal,5291,2015,2015-10-18,Athletico-PR,Visitante,Vitoria,62,62,61-75
+5301,32,Corinthians,Vágner Love,45+2,Gol normal,5301,2015,2015-10-25,Flamengo,Mandante,Vitoria,45+2,47,46-60
+5314,33,Corinthians,Vágner Love,75,Gol normal,5314,2015,2015-11-01,Atletico-MG,Visitante,Vitoria,75,75,61-75
+5314,33,Corinthians,Lucca Borges de Brito,85,Gol normal,5314,2015,2015-11-01,Atletico-MG,Visitante,Vitoria,85,85,76-90
+5314,33,Corinthians,Malcom Filipe Silva de Oliveira,68,Gol normal,5314,2015,2015-11-01,Atletico-MG,Visitante,Vitoria,68,68,61-75
+5318,34,Corinthians,Jadson,16,Pênalti,5318,2015,2015-11-07,Coritiba,Mandante,Vitoria,16,16,16-30
+5318,34,Corinthians,Lucca Borges de Brito,88,Gol normal,5318,2015,2015-11-07,Coritiba,Mandante,Vitoria,88,88,76-90
+5336,35,Corinthians,Vágner Love,82,Gol normal,5336,2015,2015-11-19,Vasco,Visitante,Empate,82,82,76-90
+5342,36,Corinthians,Bruno Henrique Corsini,27,Gol normal,5342,2015,2015-11-22,Sao Paulo,Mandante,Vitoria,27,27,16-30
+5342,36,Corinthians,Lucca Borges de Brito,61,Gol normal,5342,2015,2015-11-22,Sao Paulo,Mandante,Vitoria,61,61,61-75
+5342,36,Corinthians,Cristian Baroni,76,Pênalti,5342,2015,2015-11-22,Sao Paulo,Mandante,Vitoria,76,76,76-90
+5342,36,Corinthians,Ángel Romero,29,Gol normal,5342,2015,2015-11-22,Sao Paulo,Mandante,Vitoria,29,29,16-30
+5342,36,Corinthians,Ángel Romero,64,Gol normal,5342,2015,2015-11-22,Sao Paulo,Mandante,Vitoria,64,64,61-75
+5342,36,Corinthians,Edu Dracena,45+1,Gol normal,5342,2015,2015-11-22,Sao Paulo,Mandante,Vitoria,45+1,46,46-60
+5363,38,Corinthians,Vágner Love,78,Gol normal,5363,2015,2015-12-06,Avai,Mandante,Empate,78,78,76-90
+5382,2,Corinthians,Uendel Pereira Gonçalves,26,Gol normal,5382,2016,2016-05-22,Vitoria,Visitante,Derrota,26,26,16-30
+5382,2,Corinthians,Fagner,39,Gol normal,5382,2016,2016-05-22,Vitoria,Visitante,Derrota,39,39,31-45
+5394,3,Corinthians,Bruno Henrique Corsini,22,Gol normal,5394,2016,2016-05-26,Ponte Preta,Mandante,Vitoria,22,22,16-30
+5394,3,Corinthians,Guilherme Milhomem Gusmão,79,Gol normal,5394,2016,2016-05-26,Ponte Preta,Mandante,Vitoria,79,79,76-90
+5394,3,Corinthians,Kadu,15,Gol Contra,5394,2016,2016-05-26,Ponte Preta,Mandante,Vitoria,15,15,0-15
+5401,4,Corinthians,Lucca Borges de Brito,70,Gol normal,5401,2016,2016-05-29,Sport,Visitante,Vitoria,70,70,61-75
+5401,4,Corinthians,Marquinhos,79,Gol normal,5401,2016,2016-05-29,Sport,Visitante,Vitoria,79,79,76-90
+5408,5,Corinthians,Giovanni Augusto,82,Gol normal,5408,2016,2016-06-01,Santos,Mandante,Vitoria,82,82,76-90
+5419,6,Corinthians,André Felipe Ribeiro de Souza,89,Gol normal,5419,2016,2016-06-04,Coritiba,Mandante,Vitoria,89,89,76-90
+5419,6,Corinthians,Uendel Pereira Gonçalves,90+5,Gol normal,5419,2016,2016-06-04,Coritiba,Mandante,Vitoria,90+5,95,90+
+5452,9,Corinthians,Marquinhos,52,Gol normal,5452,2016,2016-06-19,Botafogo-RJ,Mandante,Vitoria,52,52,46-60
+5452,9,Corinthians,Bruno Henrique Corsini,24,Gol normal,5452,2016,2016-06-19,Botafogo-RJ,Mandante,Vitoria,24,24,16-30
+5452,9,Corinthians,Bruno Henrique Corsini,89,Gol normal,5452,2016,2016-06-19,Botafogo-RJ,Mandante,Vitoria,89,89,76-90
+5462,10,Corinthians,Lucca Borges de Brito,90,Gol normal,5462,2016,2016-06-22,Atletico-MG,Visitante,Derrota,90,90,76-90
+5468,11,Corinthians,Luciano da Rocha Neves,27,Gol normal,5468,2016,2016-06-25,Santa Cruz,Mandante,Vitoria,27,27,16-30
+5468,11,Corinthians,Ángel Romero,37,Gol normal,5468,2016,2016-06-25,Santa Cruz,Mandante,Vitoria,37,37,31-45
+5483,12,Corinthians,Marquinhos,75,Pênalti,5483,2016,2016-06-29,America-MG,Visitante,Vitoria,75,75,61-75
+5483,12,Corinthians,Ángel Romero,10,Gol normal,5483,2016,2016-06-29,America-MG,Visitante,Vitoria,10,10,0-15
+5493,13,Corinthians,Rildo de Andrade Felicissimo,80,Gol normal,5493,2016,2016-07-03,Flamengo,Mandante,Vitoria,80,80,76-90
+5493,13,Corinthians,Ángel Romero,59,Gol normal,5493,2016,2016-07-03,Flamengo,Mandante,Vitoria,59,59,46-60
+5493,13,Corinthians,Ángel Romero,89,Gol normal,5493,2016,2016-07-03,Flamengo,Mandante,Vitoria,89,89,76-90
+5493,13,Corinthians,Guilherme Milhomem Gusmão,78,Gol normal,5493,2016,2016-07-03,Flamengo,Mandante,Vitoria,78,78,76-90
+5497,14,Corinthians,Rodrigo Eduardo Costa Marinho,60,Gol normal,5497,2016,2016-07-09,Chapecoense,Visitante,Vitoria,60,60,46-60
+5497,14,Corinthians,Marquinhos,90+2,Gol normal,5497,2016,2016-07-09,Chapecoense,Visitante,Vitoria,90+2,92,90+
+5514,15,Corinthians,Bruno Henrique Corsini,22,Gol normal,5514,2016,2016-07-17,Sao Paulo,Mandante,Empate,22,22,16-30
+5517,16,Corinthians,Danilo Gabriel de Andrade,84,Gol normal,5517,2016,2016-07-23,Figueirense,Mandante,Empate,84,84,76-90
+5533,17,Corinthians,Elias Mendes Trindade,42,Gol normal,5533,2016,2016-07-31,Internacional,Visitante,Vitoria,42,42,31-45
+5555,19,Corinthians,Giovanni Augusto,2,Gol normal,5555,2016,2016-08-08,Cruzeiro,Mandante,Empate,2,2,0-15
+5576,21,Corinthians,Jonathan Marlone,51,Gol normal,5576,2016,2016-08-22,Vitoria,Mandante,Vitoria,51,51,46-60
+5576,21,Corinthians,Marquinhos,71,Gol normal,5576,2016,2016-08-22,Vitoria,Mandante,Vitoria,71,71,61-75
+5594,23,Corinthians,Rodrigo Eduardo Costa Marinho,47,Gol normal,5594,2016,2016-09-08,Sport,Mandante,Vitoria,47,47,46-60
+5594,23,Corinthians,Léo Príncipe,54,Gol normal,5594,2016,2016-09-08,Sport,Mandante,Vitoria,54,54,46-60
+5594,23,Corinthians,Vilson Xavier de Menezes Júnior,62,Gol normal,5594,2016,2016-09-08,Sport,Mandante,Vitoria,62,62,61-75
+5603,24,Corinthians,Jonathan Marlone,37,Gol normal,5603,2016,2016-09-11,Santos,Visitante,Derrota,37,37,31-45
+5611,25,Corinthians,Jonathan Marlone,15,Gol normal,5611,2016,2016-09-14,Coritiba,Visitante,Empate,15,15,0-15
+5659,30,Corinthians,Jonathan Marlone,48,Gol normal,5659,2016,2016-10-12,Santa Cruz,Visitante,Vitoria,48,48,46-60
+5659,30,Corinthians,Lucca Borges de Brito,90+2,Gol normal,5659,2016,2016-10-12,Santa Cruz,Visitante,Vitoria,90+2,92,90+
+5659,30,Corinthians,Guilherme Milhomem Gusmão,38,Gol normal,5659,2016,2016-10-12,Santa Cruz,Visitante,Vitoria,38,38,31-45
+5659,30,Corinthians,Guilherme Milhomem Gusmão,55,Gol normal,5659,2016,2016-10-12,Santa Cruz,Visitante,Vitoria,55,55,46-60
+5672,31,Corinthians,Rodrigo Eduardo Costa Marinho,39,Gol normal,5672,2016,2016-10-16,America-MG,Mandante,Vitoria,39,39,31-45
+5672,31,Corinthians,Ángel Romero,17,Gol normal,5672,2016,2016-10-16,America-MG,Mandante,Vitoria,17,17,16-30
+5679,32,Corinthians,Guilherme Milhomem Gusmão,6,Gol normal,5679,2016,2016-10-23,Flamengo,Visitante,Empate,6,6,0-15
+5679,32,Corinthians,Rodrigo Eduardo Costa Marinho,45+1,Gol normal,5679,2016,2016-10-23,Flamengo,Visitante,Empate,45+1,46,46-60
+5691,33,Corinthians,Giovanni Augusto,74,Pênalti,5691,2016,2016-10-29,Chapecoense,Mandante,Empate,74,74,61-75
+5712,35,Corinthians,Guilherme Camacho,44,Gol normal,5712,2016,2016-11-16,Figueirense,Visitante,Empate,44,44,31-45
+5726,36,Corinthians,Jonathan Marlone,56,Pênalti,5726,2016,2016-11-21,Internacional,Mandante,Vitoria,56,56,46-60
+5741,38,Corinthians,Guilherme Milhomem Gusmão,8,Gol normal,5741,2016,2016-12-11,Cruzeiro,Visitante,Derrota,8,8,0-15
+5741,38,Corinthians,Jonathan Marlone,55,Gol normal,5741,2016,2016-12-11,Cruzeiro,Visitante,Derrota,55,55,46-60
+5747,1,Corinthians,Jô,22,Gol normal,5747,2017,2017-05-13,Chapecoense,Mandante,Empate,22,22,16-30
+5761,2,Corinthians,Jô,75,Gol normal,5761,2017,2017-05-21,Vitoria,Visitante,Vitoria,75,75,61-75
+5772,3,Corinthians,Rodrigo Eduardo Costa Marinho,27,Gol normal,5772,2017,2017-05-28,Atletico-GO,Visitante,Vitoria,27,27,16-30
+5778,4,Corinthians,Jô,75,Gol normal,5778,2017,2017-06-03,Santos,Mandante,Vitoria,75,75,61-75
+5778,4,Corinthians,Ángel Romero,69,Gol normal,5778,2017,2017-06-03,Santos,Mandante,Vitoria,69,69,61-75
+5790,5,Corinthians,Marquinhos,3,Gol normal,5790,2017,2017-06-07,Vasco,Visitante,Vitoria,3,3,0-15
+5790,5,Corinthians,Clayton da Silveira da Silva,90+2,Gol normal,5790,2017,2017-06-07,Vasco,Visitante,Vitoria,90+2,92,90+
+5790,5,Corinthians,Jô,39,Gol normal,5790,2017,2017-06-07,Vasco,Visitante,Vitoria,39,39,31-45
+5790,5,Corinthians,Maycon de Andrade Barberan,58,Gol normal,5790,2017,2017-06-07,Vasco,Visitante,Vitoria,58,58,46-60
+5790,5,Corinthians,Clayton da Silveira da Silva,84,Gol normal,5790,2017,2017-06-07,Vasco,Visitante,Vitoria,84,84,76-90
+5802,6,Corinthians,Jadson,63,Pênalti,5802,2017,2017-06-11,Sao Paulo,Mandante,Vitoria,63,63,61-75
+5802,6,Corinthians,Ángel Romero,7,Gol normal,5802,2017,2017-06-11,Sao Paulo,Mandante,Vitoria,7,7,0-15
+5802,6,Corinthians,Gabriel Girotto Franco,41,Gol normal,5802,2017,2017-06-11,Sao Paulo,Mandante,Vitoria,41,41,31-45
+5813,7,Corinthians,Fabián Balbuena,43,Gol normal,5813,2017,2017-06-14,Cruzeiro,Mandante,Vitoria,43,43,31-45
+5832,9,Corinthians,Marquinhos,90+3,Gol normal,5832,2017,2017-06-22,Bahia,Mandante,Vitoria,90+3,93,90+
+5832,9,Corinthians,Jô,25,Gol normal,5832,2017,2017-06-22,Bahia,Mandante,Vitoria,25,25,16-30
+5832,9,Corinthians,Fabián Balbuena,79,Gol normal,5832,2017,2017-06-22,Bahia,Mandante,Vitoria,79,79,76-90
+5838,10,Corinthians,Jadson,52,Gol normal,5838,2017,2017-06-25,Gremio,Visitante,Vitoria,52,52,46-60
+5852,11,Corinthians,Jô,79,Gol normal,5852,2017,2017-07-02,Botafogo-RJ,Mandante,Vitoria,79,79,76-90
+5858,12,Corinthians,Jô,46,Gol normal,5858,2017,2017-07-08,Ponte Preta,Mandante,Vitoria,46,46,46-60
+5858,12,Corinthians,Jadson,45+1,Gol normal,5858,2017,2017-07-08,Ponte Preta,Mandante,Vitoria,45+1,46,46-60
+5869,13,Corinthians,Jadson,23,Pênalti,5869,2017,2017-07-12,Palmeiras,Visitante,Vitoria,23,23,16-30
+5869,13,Corinthians,Guilherme Arana,65,Gol normal,5869,2017,2017-07-12,Palmeiras,Visitante,Vitoria,65,65,61-75
+5876,14,Corinthians,Jô,45,Gol normal,5876,2017,2017-07-15,Athletico-PR,Mandante,Empate,45,45,31-45
+5876,14,Corinthians,Jô,51,Gol normal,5876,2017,2017-07-15,Athletico-PR,Mandante,Empate,51,51,46-60
+5901,16,Corinthians,Fabián Balbuena,50,Gol normal,5901,2017,2017-07-23,Fluminense,Visitante,Vitoria,50,50,46-60
+5911,17,Corinthians,Jô,22,Gol normal,5911,2017,2017-07-30,Flamengo,Mandante,Empate,22,22,16-30
+5918,18,Corinthians,Jô,31,Gol normal,5918,2017,2017-08-02,Atletico-MG,Visitante,Vitoria,31,31,31-45
+5918,18,Corinthians,Rodrigo Eduardo Costa Marinho,83,Gol normal,5918,2017,2017-08-02,Atletico-MG,Visitante,Vitoria,83,83,76-90
+5926,19,Corinthians,Rodrigo Eduardo Costa Marinho,46,Gol normal,5926,2017,2017-08-05,Sport,Mandante,Vitoria,46,46,46-60
+5926,19,Corinthians,Pedro Henrique Ribeiro Gonçalves,66,Gol normal,5926,2017,2017-08-05,Sport,Mandante,Vitoria,66,66,61-75
+5926,19,Corinthians,Guilherme Arana,9,Gol normal,5926,2017,2017-08-05,Sport,Mandante,Vitoria,9,9,0-15
+5945,20,Corinthians,Jô,90,Gol normal,5945,2017,2017-08-23,Chapecoense,Visitante,Vitoria,90,90,76-90
+5980,24,Corinthians,Jô,74,Gol normal,5980,2017,2017-09-17,Vasco,Mandante,Vitoria,74,74,61-75
+5988,25,Corinthians,Clayson Henrique da Silva Vieira,78,Gol normal,5988,2017,2017-09-24,Sao Paulo,Visitante,Empate,78,78,76-90
+5999,26,Corinthians,Clayson Henrique da Silva Vieira,84,Pênalti,5999,2017,2017-10-01,Cruzeiro,Visitante,Empate,84,84,76-90
+6018,27,Corinthians,Clayson Henrique da Silva Vieira,89,Gol normal,6018,2017,2017-10-11,Coritiba,Mandante,Vitoria,89,89,76-90
+6018,27,Corinthians,Jô,10,Gol normal,6018,2017,2017-10-11,Coritiba,Mandante,Vitoria,10,10,0-15
+6018,27,Corinthians,Clayson Henrique da Silva Vieira,79,Gol normal,6018,2017,2017-10-11,Coritiba,Mandante,Vitoria,79,79,76-90
+6045,30,Corinthians,Jô,60,Gol normal,6045,2017,2017-10-23,Botafogo-RJ,Visitante,Derrota,60,60,46-60
+6060,32,Corinthians,Ángel Romero,27,Gol normal,6060,2017,2017-11-05,Palmeiras,Mandante,Vitoria,27,27,16-30
+6060,32,Corinthians,Fabián Balbuena,29,Gol normal,6060,2017,2017-11-05,Palmeiras,Mandante,Vitoria,29,29,16-30
+6060,32,Corinthians,Jô,38,Pênalti,6060,2017,2017-11-05,Palmeiras,Mandante,Vitoria,38,38,31-45
+6069,33,Corinthians,Giovanni Augusto,77,Gol normal,6069,2017,2017-11-08,Athletico-PR,Visitante,Vitoria,77,77,76-90
+6077,34,Corinthians,Colin Kâzım-Richards,48,Gol normal,6077,2017,2017-11-11,Avai,Mandante,Vitoria,48,48,46-60
+6090,35,Corinthians,Jô,45,Gol normal,6090,2017,2017-11-15,Fluminense,Mandante,Vitoria,45,45,31-45
+6090,35,Corinthians,Jô,48,Gol normal,6090,2017,2017-11-15,Fluminense,Mandante,Vitoria,48,48,46-60
+6090,35,Corinthians,Jadson,84,Gol normal,6090,2017,2017-11-15,Fluminense,Mandante,Vitoria,84,84,76-90
+6108,37,Corinthians,Jadson,35,Gol normal,6108,2017,2017-11-26,Atletico-MG,Mandante,Empate,35,35,31-45
+6108,37,Corinthians,Marquinhos,58,Gol normal,6108,2017,2017-11-26,Atletico-MG,Mandante,Empate,58,58,46-60
+6132,1,Corinthians,Rodrigo Eduardo Costa Marinho,45+1,Gol normal,6132,2018,2018-04-15,Fluminense,Mandante,Vitoria,45+1,46,46-60
+6132,1,Corinthians,Rodrigo Eduardo Costa Marinho,86,Gol normal,6132,2018,2018-04-15,Fluminense,Mandante,Vitoria,86,86,76-90
+6138,2,Corinthians,Sidcley Ferreira Pereira,27,Gol normal,6138,2018,2018-04-22,Parana,Visitante,Vitoria,27,27,16-30
+6138,2,Corinthians,Clayson Henrique da Silva Vieira,80,Gol normal,6138,2018,2018-04-22,Parana,Visitante,Vitoria,80,80,76-90
+6138,2,Corinthians,Gabriel Girotto Franco,86,Gol normal,6138,2018,2018-04-22,Parana,Visitante,Vitoria,86,86,76-90
+6138,2,Corinthians,Rodrigo Eduardo Costa Marinho,25,Gol normal,6138,2018,2018-04-22,Parana,Visitante,Vitoria,25,25,16-30
+6158,4,Corinthians,Henrique Adriano Buss,40,Gol normal,6158,2018,2018-05-06,Ceara,Mandante,Empate,40,40,31-45
+6170,5,Corinthians,Rodrigo Eduardo Costa Marinho,38,Gol normal,6170,2018,2018-05-13,Palmeiras,Mandante,Vitoria,38,38,31-45
+6183,6,Corinthians,Roger Rodrigues da Silva,55,Gol normal,6183,2018,2018-05-20,Sport,Visitante,Empate,55,55,46-60
+6190,7,Corinthians,Mateus Vital,5,Gol normal,6190,2018,2018-05-27,Internacional,Visitante,Derrota,5,5,0-15
+6204,8,Corinthians,Jadson,50,Gol normal,6204,2018,2018-05-31,America-MG,Mandante,Vitoria,50,50,46-60
+6219,10,Corinthians,Roger Rodrigues da Silva,52,Gol normal,6219,2018,2018-06-06,Santos,Mandante,Empate,52,52,46-60
+6248,13,Corinthians,Rodrigo Eduardo Costa Marinho,3,Gol normal,6248,2018,2018-07-18,Botafogo-RJ,Mandante,Vitoria,3,3,0-15
+6248,13,Corinthians,Ángel Romero,76,Gol normal,6248,2018,2018-07-18,Botafogo-RJ,Mandante,Vitoria,76,76,76-90
+6257,14,Corinthians,Jonathas Cristian de Jesus,90+1,Gol normal,6257,2018,2018-07-21,Sao Paulo,Visitante,Derrota,90+1,91,90+
+6268,15,Corinthians,Ángel Romero,80,Gol normal,6268,2018,2018-07-25,Cruzeiro,Mandante,Vitoria,80,80,76-90
+6268,15,Corinthians,Ángel Romero,62,Gol normal,6268,2018,2018-07-25,Cruzeiro,Mandante,Vitoria,62,62,61-75
+6278,16,Corinthians,Ángel Romero,48,Gol normal,6278,2018,2018-07-29,Vasco,Visitante,Vitoria,48,48,46-60
+6278,16,Corinthians,Jadson,79,Pênalti,6278,2018,2018-07-29,Vasco,Visitante,Vitoria,79,79,76-90
+6278,16,Corinthians,Ángel Romero,57,Gol normal,6278,2018,2018-07-29,Vasco,Visitante,Vitoria,57,57,46-60
+6278,16,Corinthians,Ángel Romero,90+3,Gol normal,6278,2018,2018-07-29,Vasco,Visitante,Vitoria,90+3,93,90+
+6312,18,Corinthians,Marquinhos,6,Gol normal,6312,2018,2018-08-12,Chapecoense,Visitante,Derrota,6,6,0-15
+6327,21,Corinthians,Henrique Adriano Buss,36,Gol normal,6327,2018,2018-08-25,Parana,Mandante,Vitoria,36,36,31-45
+6339,22,Corinthians,Victor,20,Gol Contra,6339,2018,2018-09-01,Atletico-MG,Mandante,Empate,20,20,16-30
+6348,23,Corinthians,Roger Rodrigues da Silva,72,Gol normal,6348,2018,2018-09-05,Ceara,Visitante,Derrota,72,72,61-75
+6374,25,Corinthians,Jadson,59,Gol normal,6374,2018,2018-09-16,Sport,Mandante,Vitoria,59,59,46-60
+6374,25,Corinthians,Danilo Avelar,89,Gol normal,6374,2018,2018-09-16,Sport,Mandante,Vitoria,89,89,76-90
+6380,26,Corinthians,Douglas Augusto Soares Gomes,50,Gol normal,6380,2018,2018-09-23,Internacional,Mandante,Empate,50,50,46-60
+6420,30,Corinthians,Jadson,31,Gol normal,6420,2018,2018-10-21,Vitoria,Visitante,Empate,31,31,31-45
+6420,30,Corinthians,Roger Rodrigues da Silva,90+1,Gol normal,6420,2018,2018-10-21,Vitoria,Visitante,Empate,90+1,91,90+
+6430,31,Corinthians,Danilo Gabriel de Andrade,47,Gol normal,6430,2018,2018-10-27,Bahia,Mandante,Vitoria,47,47,46-60
+6430,31,Corinthians,Danilo Gabriel de Andrade,89,Gol normal,6430,2018,2018-10-27,Bahia,Mandante,Vitoria,89,89,76-90
+6447,33,Corinthians,Ralf de Souza Teles,72,Gol normal,6447,2018,2018-11-10,Sao Paulo,Mandante,Empate,72,72,61-75
+6466,35,Corinthians,Mateus Vital,50,Gol normal,6466,2018,2018-11-17,Vasco,Mandante,Vitoria,50,50,46-60
+6511,1,Corinthians,Clayson Henrique da Silva Vieira,90+5,Gol normal,6511,2019,2019-04-28,Bahia,Visitante,Derrota,90+5,95,90+
+6511,1,Corinthians,Pedrinho,45+2,Gol normal,6511,2019,2019-04-28,Bahia,Visitante,Derrota,45+2,47,46-60
+6518,2,Corinthians,Carlos Augusto Zopolato Neves,55,Gol normal,6518,2019,2019-05-01,Chapecoense,Mandante,Vitoria,55,55,46-60
+6526,3,Corinthians,Mateus Vital,17,Gol normal,6526,2019,2019-05-04,Vasco,Visitante,Empate,17,17,16-30
+6551,5,Corinthians,Vágner Love,14,Gol normal,6551,2019,2019-05-19,Athletico-PR,Visitante,Vitoria,14,14,0-15
+6551,5,Corinthians,Pedrinho,87,Gol normal,6551,2019,2019-05-19,Athletico-PR,Visitante,Vitoria,87,87,76-90
+6563,6,Corinthians,Pedrinho,7,Gol normal,6563,2019,2019-05-26,Sao Paulo,Mandante,Vitoria,7,7,0-15
+6601,10,Corinthians,Vágner Love,78,Gol normal,6601,2019,2019-07-14,CSA,Mandante,Vitoria,78,78,76-90
+6613,11,Corinthians,Clayson Henrique da Silva Vieira,62,Pênalti,6613,2019,2019-07-21,Flamengo,Mandante,Empate,62,62,61-75
+6624,12,Corinthians,Mauro Boselli,67,Gol normal,6624,2019,2019-07-28,Fortaleza,Visitante,Vitoria,67,67,61-75
+6624,12,Corinthians,Pedrinho,71,Gol normal,6624,2019,2019-07-28,Fortaleza,Visitante,Vitoria,71,71,61-75
+6624,12,Corinthians,Danilo Avelar,81,Gol normal,6624,2019,2019-07-28,Fortaleza,Visitante,Vitoria,81,81,76-90
+6631,13,Corinthians,Manoel Messias Silva Carvalho,13,Gol normal,6631,2019,2019-08-04,Palmeiras,Mandante,Empate,13,13,0-15
+6575,7,Corinthians,Júnior Urso,25,Gol normal,6575,2019,2019-08-07,Goias,Mandante,Vitoria,25,25,16-30
+6575,7,Corinthians,Mauro Boselli,87,Pênalti,6575,2019,2019-08-07,Goias,Mandante,Vitoria,87,87,76-90
+6646,15,Corinthians,Mauro Boselli,42,Gol normal,6646,2019,2019-08-17,Botafogo-RJ,Mandante,Vitoria,42,42,31-45
+6646,15,Corinthians,Everaldo,56,Gol normal,6646,2019,2019-08-17,Botafogo-RJ,Mandante,Vitoria,56,56,46-60
+6662,16,Corinthians,Vágner Love,77,Gol normal,6662,2019,2019-08-25,Avai,Visitante,Empate,77,77,76-90
+6674,17,Corinthians,Gustavo,89,Gol normal,6674,2019,2019-09-01,Atletico-MG,Mandante,Vitoria,89,89,76-90
+6677,18,Corinthians,João Lucas Cardoso,23,Gol Contra,6677,2019,2019-09-07,Ceara,Mandante,Empate,23,23,16-30
+6677,18,Corinthians,Vágner Love,37,Gol normal,6677,2019,2019-09-07,Ceara,Mandante,Empate,37,37,31-45
+6698,20,Corinthians,Clayson Henrique da Silva Vieira,75,Gol normal,6698,2019,2019-09-21,Bahia,Mandante,Vitoria,75,75,61-75
+6698,20,Corinthians,Vágner Love,44,Pênalti,6698,2019,2019-09-21,Bahia,Mandante,Vitoria,44,44,31-45
+6717,22,Corinthians,Ralf de Souza Teles,59,Gol normal,6717,2019,2019-09-29,Vasco,Mandante,Vitoria,59,59,46-60
+6715,21,Corinthians,Danilo Avelar,63,Gol normal,6715,2019,2019-10-02,Chapecoense,Visitante,Vitoria,63,63,61-75
+6743,24,Corinthians,Carlos Gilberto do Nascimento Silva,16,Gol normal,6743,2019,2019-10-10,Athletico-PR,Mandante,Empate,16,16,16-30
+6743,24,Corinthians,Mauro Boselli,45+3,Gol normal,6743,2019,2019-10-10,Athletico-PR,Mandante,Empate,45+3,48,46-60
+6761,26,Corinthians,Gustavo,90+7,Pênalti,6761,2019,2019-10-16,Goias,Visitante,Empate,90+7,97,90+
+6761,26,Corinthians,Janderson,11,Gol normal,6761,2019,2019-10-16,Goias,Visitante,Empate,11,11,0-15
+6767,27,Corinthians,Fagner,34,Gol normal,6767,2019,2019-10-19,Cruzeiro,Mandante,Derrota,34,34,31-45
+6791,29,Corinthians,Pedrinho,45,Gol normal,6791,2019,2019-10-30,CSA,Visitante,Derrota,45,45,31-45
+6800,30,Corinthians,Mateus Vital,52,Gol normal,6800,2019,2019-11-03,Flamengo,Visitante,Derrota,52,52,46-60
+6806,31,Corinthians,Mauro Boselli,37,Gol normal,6806,2019,2019-11-06,Fortaleza,Mandante,Vitoria,37,37,31-45
+6806,31,Corinthians,Mauro Boselli,72,Gol normal,6806,2019,2019-11-06,Fortaleza,Mandante,Vitoria,72,72,61-75
+6806,31,Corinthians,Júnior Urso,48,Gol normal,6806,2019,2019-11-06,Fortaleza,Mandante,Vitoria,48,48,46-60
+6817,32,Corinthians,Michel Macedo Rocha Machado,90+2,Gol normal,6817,2019,2019-11-09,Palmeiras,Visitante,Empate,90+2,92,90+
+6851,35,Corinthians,Gustavo,22,Gol normal,6851,2019,2019-11-27,Avai,Mandante,Vitoria,22,22,16-30
+6851,35,Corinthians,Júnior Urso,52,Gol normal,6851,2019,2019-11-27,Avai,Mandante,Vitoria,52,52,46-60
+6851,35,Corinthians,Mauro Boselli,87,Gol normal,6851,2019,2019-11-27,Avai,Mandante,Vitoria,87,87,76-90
+6862,36,Corinthians,Janderson,20,Gol normal,6862,2019,2019-12-01,Atletico-MG,Visitante,Derrota,20,20,16-30
+6867,37,Corinthians,Gustavo,81,Gol normal,6867,2019,2019-12-04,Ceara,Visitante,Vitoria,81,81,76-90
+6876,38,Corinthians,Gustavo,63,Gol normal,6876,2019,2019-12-08,Fluminense,Mandante,Derrota,63,63,61-75
+6897,2,Corinthians,Ángelo Araos,30,Gol normal,6897,2020,2020-08-12,Atletico-MG,Visitante,Derrota,30,30,16-30
+6897,2,Corinthians,Jô,12,Gol normal,6897,2020,2020-08-12,Atletico-MG,Visitante,Derrota,12,12,0-15
+6921,4,Corinthians,Gustavo Mosquito,87,Gol normal,6921,2020,2020-08-19,Coritiba,Mandante,Vitoria,87,87,76-90
+6921,4,Corinthians,Leonardo Natel,38,Gol normal,6921,2020,2020-08-19,Coritiba,Mandante,Vitoria,38,38,31-45
+6921,4,Corinthians,Jô,49,Gol normal,6921,2020,2020-08-19,Coritiba,Mandante,Vitoria,49,49,46-60
+6935,5,Corinthians,Luan Guilherme de Jesus Vieira,76,Gol normal,6935,2020,2020-08-26,Fortaleza,Mandante,Empate,76,76,76-90
+6950,6,Corinthians,Ramiro Moschen Benetti,36,Gol normal,6950,2020,2020-08-30,Sao Paulo,Visitante,Derrota,36,36,31-45
+6958,7,Corinthians,Danilo Avelar,90+1,Gol normal,6958,2020,2020-09-02,Goias,Visitante,Vitoria,90+1,91,90+
+6958,7,Corinthians,Fábio Sanches,28,Gol Contra,6958,2020,2020-09-02,Goias,Visitante,Vitoria,28,28,16-30
+6967,8,Corinthians,Jô,90+3,Gol normal,6967,2020,2020-09-05,Botafogo-RJ,Mandante,Empate,90+3,93,90+
+6967,8,Corinthians,Fagner,12,Pênalti,6967,2020,2020-09-05,Botafogo-RJ,Mandante,Empate,12,12,0-15
+6988,10,Corinthians,Mateus Vital,90+5,Gol normal,6988,2020,2020-09-13,Fluminense,Visitante,Derrota,90+5,95,90+
+6937,11,Corinthians,Rómulo Otero,17,Gol normal,6937,2020,2020-09-16,Bahia,Mandante,Vitoria,17,17,16-30
+6937,11,Corinthians,Roni,34,Gol normal,6937,2020,2020-09-16,Bahia,Mandante,Vitoria,34,34,31-45
+6937,11,Corinthians,Carlos Gilberto do Nascimento Silva,61,Gol normal,6937,2020,2020-09-16,Bahia,Mandante,Vitoria,61,61,61-75
+7016,14,Corinthians,Danilo Avelar,45,Gol normal,7016,2020,2020-10-07,Santos,Mandante,Empate,45,45,31-45
+7034,15,Corinthians,Leonardo Natel,15,Gol normal,7034,2020,2020-10-11,Ceara,Visitante,Derrota,15,15,0-15
+7039,16,Corinthians,Everaldo,90+5,Gol normal,7039,2020,2020-10-14,Athletico-PR,Visitante,Vitoria,90+5,95,90+
+7050,17,Corinthians,Carlos Gilberto do Nascimento Silva,64,Gol normal,7050,2020,2020-10-18,Flamengo,Mandante,Derrota,64,64,61-75
+7056,18,Corinthians,Gustavo Mantuan,23,Gol normal,7056,2020,2020-10-21,Vasco,Visitante,Vitoria,23,23,16-30
+7056,18,Corinthians,Everaldo,90,Gol normal,7056,2020,2020-10-21,Vasco,Visitante,Vitoria,90,90,76-90
+7068,19,Corinthians,Matheus Alvarenga de Oliveira,33,Gol normal,7068,2020,2020-10-31,Internacional,Mandante,Vitoria,33,33,31-45
+7078,20,Corinthians,Fábio Santos,57,Pênalti,7078,2020,2020-11-07,Atletico-GO,Visitante,Empate,57,57,46-60
+7089,21,Corinthians,Matheus Alvarenga de Oliveira,6,Gol normal,7089,2020,2020-11-14,Atletico-MG,Mandante,Derrota,6,6,0-15
+7107,23,Corinthians,Fábio Santos,21,Pênalti,7107,2020,2020-11-25,Coritiba,Visitante,Vitoria,21,21,16-30
+7133,25,Corinthians,Rómulo Otero,25,Gol normal,7133,2020,2020-12-13,Sao Paulo,Mandante,Vitoria,25,25,16-30
+7145,26,Corinthians,Gustavo Mosquito,14,Gol normal,7145,2020,2020-12-21,Goias,Mandante,Vitoria,14,14,0-15
+7145,26,Corinthians,Jô,51,Gol normal,7145,2020,2020-12-21,Goias,Mandante,Vitoria,51,51,46-60
+7150,27,Corinthians,Juan Cazares,34,Gol normal,7150,2020,2020-12-27,Botafogo-RJ,Visitante,Vitoria,34,34,31-45
+7150,27,Corinthians,Mateus Vital,90+5,Gol normal,7150,2020,2020-12-27,Botafogo-RJ,Visitante,Vitoria,90+5,95,90+
+7175,29,Corinthians,Jô,25,Gol normal,7175,2020,2021-01-13,Fluminense,Mandante,Vitoria,25,25,16-30
+7175,29,Corinthians,Luan Guilherme de Jesus Vieira,90+1,Gol normal,7175,2020,2021-01-13,Fluminense,Mandante,Vitoria,90+1,91,90+
+7175,29,Corinthians,Juan Cazares,56,Gol normal,7175,2020,2021-01-13,Fluminense,Mandante,Vitoria,56,56,46-60
+7175,29,Corinthians,Fagner,62,Gol normal,7175,2020,2021-01-13,Fluminense,Mandante,Vitoria,62,62,61-75
+7175,29,Corinthians,Mateus Vital,67,Gol normal,7175,2020,2021-01-13,Fluminense,Mandante,Vitoria,67,67,61-75
+7195,31,Corinthians,Jô,80,Gol normal,7195,2020,2021-01-21,Sport,Mandante,Vitoria,80,80,76-90
+7195,31,Corinthians,Gustavo Mosquito,34,Gol normal,7195,2020,2021-01-21,Sport,Mandante,Vitoria,34,34,31-45
+7195,31,Corinthians,Mateus Vital,47,Gol normal,7195,2020,2021-01-21,Sport,Mandante,Vitoria,47,47,46-60
+7185,30,Corinthians,Gabriel Girotto Franco,71,Gol normal,7185,2020,2021-01-28,Bahia,Visitante,Derrota,71,71,61-75
+7218,34,Corinthians,Leonardo Natel,28,Gol normal,7218,2020,2021-02-03,Ceara,Mandante,Vitoria,28,28,16-30
+7218,34,Corinthians,Fábio Santos,21,Pênalti,7218,2020,2021-02-03,Ceara,Mandante,Vitoria,21,21,16-30
+7234,35,Corinthians,Gustavo Mosquito,56,Gol normal,7234,2020,2021-02-10,Athletico-PR,Mandante,Empate,56,56,46-60
+7234,35,Corinthians,Gabriel Girotto Franco,18,Gol normal,7234,2020,2021-02-10,Athletico-PR,Mandante,Empate,18,18,16-30
+7234,35,Corinthians,Gustavo Mosquito,3,Gol normal,7234,2020,2021-02-10,Athletico-PR,Mandante,Empate,3,3,0-15
+7239,36,Corinthians,Leonardo Natel,20,Gol normal,7239,2020,2021-02-14,Flamengo,Visitante,Derrota,20,20,16-30
+7280,2,Corinthians,Fábio Santos,29,Pênalti,7280,2020,2021-06-06,America-MG,Visitante,Vitoria,29,29,16-30
+7287,3,Corinthians,Gabriel Girotto Franco,55,Gol normal,7287,2020,2021-06-12,Palmeiras,Visitante,Empate,55,55,46-60
+7298,4,Corinthians,Roni,19,Gol normal,7298,2020,2021-06-16,Bragantino,Mandante,Derrota,19,19,16-30
+7322,6,Corinthians,Iago Maidana,45+4,Gol Contra,7322,2020,2021-06-24,Sport,Mandante,Vitoria,45+4,49,46-60
+7322,6,Corinthians,Jô,52,Gol normal,7322,2020,2021-06-24,Sport,Mandante,Vitoria,52,52,46-60
+7327,7,Corinthians,Jô,37,Pênalti,7327,2020,2021-06-27,Fluminense,Visitante,Empate,37,37,31-45
+7348,9,Corinthians,Jô,80,Gol normal,7348,2020,2021-07-03,Internacional,Mandante,Empate,80,80,76-90
+7365,10,Corinthians,Jô,60,Gol normal,7365,2020,2021-07-08,Chapecoense,Visitante,Vitoria,60,60,46-60
+7378,12,Corinthians,Gustavo Mosquito,38,Gol normal,7378,2020,2021-07-17,Atletico-MG,Mandante,Derrota,38,38,31-45
+7395,13,Corinthians,Roni,28,Gol normal,7395,2020,2021-07-26,Cuiaba,Visitante,Vitoria,28,28,16-30
+7395,13,Corinthians,Adson,38,Gol normal,7395,2020,2021-07-26,Cuiaba,Visitante,Vitoria,38,38,31-45
+7399,14,Corinthians,Vitinho,89,Gol normal,7399,2020,2021-08-01,Flamengo,Mandante,Derrota,89,89,76-90
+7420,16,Corinthians,Adson,17,Gol normal,7420,2020,2021-08-15,Ceara,Mandante,Vitoria,17,17,16-30
+7420,16,Corinthians,Adson,30,Gol normal,7420,2020,2021-08-15,Ceara,Mandante,Vitoria,30,30,16-30
+7420,16,Corinthians,Renato Augusto,68,Gol normal,7420,2020,2021-08-15,Ceara,Mandante,Vitoria,68,68,61-75
+7431,17,Corinthians,Roni,55,Gol normal,7431,2020,2021-08-22,Athletico-PR,Visitante,Vitoria,55,55,46-60
+7438,18,Corinthians,Jô,79,Gol normal,7438,2020,2021-08-28,Gremio,Visitante,Vitoria,79,79,76-90
+7449,19,Corinthians,Róger Guedes,85,Gol normal,7449,2020,2021-09-07,Juventude,Mandante,Empate,85,85,76-90
+7463,20,Corinthians,Gabriel Pereira dos Santos,60,Gol normal,7463,2020,2021-09-12,Atletico-GO,Visitante,Empate,60,60,46-60
+7473,21,Corinthians,Giuliano Victor de Paula,17,Gol normal,7473,2020,2021-09-19,America-MG,Mandante,Empate,17,17,16-30
+7477,22,Corinthians,Róger Guedes,20,Gol normal,7477,2020,2021-09-25,Palmeiras,Mandante,Vitoria,20,20,16-30
+7477,22,Corinthians,Róger Guedes,84,Gol normal,7477,2020,2021-09-25,Palmeiras,Mandante,Vitoria,84,84,76-90
+7488,23,Corinthians,Renato Augusto,90,Gol normal,7488,2020,2021-10-02,Bragantino,Visitante,Empate,90,90,76-90
+7488,23,Corinthians,Gustavo Mosquito,90+6,Gol normal,7488,2020,2021-10-02,Bragantino,Visitante,Empate,90+6,96,90+
+7496,24,Corinthians,Jô,69,Gol normal,7496,2020,2021-10-05,Bahia,Mandante,Vitoria,69,69,61-75
+7496,24,Corinthians,Róger Guedes,45+4,Pênalti,7496,2020,2021-10-05,Bahia,Mandante,Vitoria,45+4,49,46-60
+7496,24,Corinthians,Víctor Cantillo,52,Gol normal,7496,2020,2021-10-05,Bahia,Mandante,Vitoria,52,52,46-60
+7522,26,Corinthians,Gabriel Pereira dos Santos,69,Gol normal,7522,2020,2021-10-13,Fluminense,Mandante,Vitoria,69,69,61-75
+7540,28,Corinthians,Fábio Santos,67,Pênalti,7540,2020,2021-10-24,Internacional,Visitante,Empate,67,67,61-75
+7540,28,Corinthians,Giuliano Victor de Paula,61,Gol normal,7540,2020,2021-10-24,Internacional,Visitante,Empate,61,61,61-75
+7565,29,Corinthians,Róger Guedes,90+8,Gol normal,7565,2021,2021-11-01,Chapecoense,Mandante,Vitoria,90+8,98,90+
+7576,30,Corinthians,Víctor Cantillo,87,Gol normal,7576,2021,2021-11-06,Fortaleza,Mandante,Vitoria,87,87,76-90
+7590,32,Corinthians,Giuliano Victor de Paula,3,Gol normal,7590,2021,2021-11-13,Cuiaba,Mandante,Vitoria,3,3,0-15
+7590,32,Corinthians,Renato Augusto,51,Gol normal,7590,2021,2021-11-13,Cuiaba,Mandante,Vitoria,51,51,46-60
+7590,32,Corinthians,Róger Guedes,57,Gol normal,7590,2021,2021-11-13,Cuiaba,Mandante,Vitoria,57,57,46-60
+7552,34,Corinthians,Jô,47,Gol normal,7552,2021,2021-11-21,Santos,Mandante,Vitoria,47,47,46-60
+7552,34,Corinthians,Gabriel Girotto Franco,85,Gol normal,7552,2021,2021-11-21,Santos,Mandante,Vitoria,85,85,76-90
+7609,35,Corinthians,Róger Guedes,84,Gol normal,7609,2021,2021-11-25,Ceara,Visitante,Derrota,84,84,76-90
+7619,36,Corinthians,Fábio Santos,65,Pênalti,7619,2021,2021-11-28,Athletico-PR,Mandante,Vitoria,65,65,61-75
+7627,37,Corinthians,Renato Augusto,86,Gol normal,7627,2021,2021-12-05,Gremio,Mandante,Empate,86,86,76-90
+7650,1,Corinthians,Lucas Piton,44,Gol normal,7650,2022,2022-04-10,Botafogo-RJ,Visitante,Vitoria,44,44,31-45
+7650,1,Corinthians,Paulinho,17,Gol normal,7650,2022,2022-04-10,Botafogo-RJ,Visitante,Vitoria,17,17,16-30
+7650,1,Corinthians,Gustavo Mantuan,26,Gol normal,7650,2022,2022-04-10,Botafogo-RJ,Visitante,Vitoria,26,26,16-30
+7658,2,Corinthians,Róger Guedes,9,Gol normal,7658,2022,2022-04-16,Avai,Mandante,Vitoria,9,9,0-15
+7658,2,Corinthians,Róger Guedes,25,Gol normal,7658,2022,2022-04-16,Avai,Mandante,Vitoria,25,25,16-30
+7658,2,Corinthians,Róger Guedes,55,Gol normal,7658,2022,2022-04-16,Avai,Mandante,Vitoria,55,55,46-60
+7672,4,Corinthians,Matheus Jussa,53,Gol Contra,7672,2022,2022-05-01,Fortaleza,Mandante,Vitoria,53,53,46-60
+7691,5,Corinthians,Renato Augusto,54,Gol normal,7691,2022,2022-05-08,Bragantino,Visitante,Vitoria,54,54,46-60
+7708,6,Corinthians,Jô,64,Gol normal,7708,2022,2022-05-14,Internacional,Visitante,Empate,64,64,61-75
+7708,6,Corinthians,Raul Gustavo Pereira Bicalho,30,Gol normal,7708,2022,2022-05-14,Internacional,Visitante,Empate,30,30,16-30
+7703,7,Corinthians,Adson,80,Gol normal,7703,2022,2022-05-22,Sao Paulo,Mandante,Empate,80,80,76-90
+7722,8,Corinthians,Gustavo Mosquito,82,Gol normal,7722,2022,2022-05-29,America-MG,Mandante,Empate,82,82,76-90
+7730,9,Corinthians,Gustavo Mantuan,33,Gol normal,7730,2022,2022-06-04,Atletico-GO,Visitante,Vitoria,33,33,31-45
+7746,11,Corinthians,Adson,2,Gol normal,7746,2022,2022-06-11,Juventude,Mandante,Vitoria,2,2,0-15
+7746,11,Corinthians,Gustavo Mantuan,84,Gol normal,7746,2022,2022-06-11,Juventude,Mandante,Vitoria,84,84,76-90
+7761,12,Corinthians,Róger Guedes,5,Gol normal,7761,2022,2022-06-15,Athletico-PR,Visitante,Empate,5,5,0-15
+7770,13,Corinthians,Fábio Santos,34,Pênalti,7770,2022,2022-06-19,Goias,Mandante,Vitoria,34,34,31-45
+7800,16,Corinthians,Rodinei Marcelo De Almeida,52,Gol Contra,7800,2022,2022-07-10,Flamengo,Mandante,Vitoria,52,52,46-60
+7809,17,Corinthians,Róger Guedes,4,Gol normal,7809,2022,2022-07-16,Ceara,Visitante,Derrota,4,4,0-15
+7823,18,Corinthians,Raul Gustavo Pereira Bicalho,85,Gol normal,7823,2022,2022-07-20,Coritiba,Mandante,Vitoria,85,85,76-90
+7823,18,Corinthians,Róger Guedes,36,Gol normal,7823,2022,2022-07-20,Coritiba,Mandante,Vitoria,36,36,31-45
+7823,18,Corinthians,Adson,67,Gol normal,7823,2022,2022-07-20,Coritiba,Mandante,Vitoria,67,67,61-75
+7832,19,Corinthians,Fábio Santos,80,Gol normal,7832,2022,2022-07-24,Atletico-MG,Visitante,Vitoria,80,80,76-90
+7832,19,Corinthians,Fábio Santos,86,Pênalti,7832,2022,2022-07-24,Atletico-MG,Visitante,Vitoria,86,86,76-90
+7838,20,Corinthians,Gustavo Mosquito,27,Gol normal,7838,2022,2022-07-30,Botafogo-RJ,Mandante,Vitoria,27,27,16-30
+7848,21,Corinthians,Fabián Balbuena,77,Gol normal,7848,2022,2022-08-06,Avai,Visitante,Empate,77,77,76-90
+7885,24,Corinthians,Gustavo Mosquito,31,Gol normal,7885,2022,2022-08-29,Bragantino,Mandante,Vitoria,31,31,31-45
+7891,25,Corinthians,Fabián Balbuena,13,Gol normal,7891,2022,2022-09-04,Internacional,Mandante,Empate,13,13,0-15
+7891,25,Corinthians,Yuri Alberto,19,Gol normal,7891,2022,2022-09-04,Internacional,Mandante,Empate,19,19,16-30
+7903,26,Corinthians,Yuri Alberto,14,Gol normal,7903,2022,2022-09-11,Sao Paulo,Visitante,Empate,14,14,0-15
+7919,28,Corinthians,Yuri Alberto,88,Gol normal,7919,2022,2022-09-28,Atletico-GO,Mandante,Vitoria,88,88,76-90
+7919,28,Corinthians,Róger Guedes,12,Gol normal,7919,2022,2022-09-28,Atletico-GO,Mandante,Vitoria,12,12,0-15
+7933,29,Corinthians,Yuri Alberto,33,Gol normal,7933,2022,2022-10-01,Cuiaba,Mandante,Vitoria,33,33,31-45
+7933,29,Corinthians,Róger Guedes,45+4,Gol normal,7933,2022,2022-10-01,Cuiaba,Mandante,Vitoria,45+4,49,46-60
+7936,30,Corinthians,Giuliano Victor de Paula,24,Gol normal,7936,2022,2022-10-04,Juventude,Visitante,Empate,24,24,16-30
+7936,30,Corinthians,Yuri Alberto,54,Gol normal,7936,2022,2022-10-04,Juventude,Visitante,Empate,54,54,46-60
+7947,31,Corinthians,Fabián Balbuena,6,Gol normal,7947,2022,2022-10-08,Athletico-PR,Mandante,Vitoria,6,6,0-15
+7947,31,Corinthians,Róger Guedes,22,Pênalti,7947,2022,2022-10-08,Athletico-PR,Mandante,Vitoria,22,22,16-30
+7968,33,Corinthians,Róger Guedes,89,Gol normal,7968,2022,2022-10-22,Santos,Visitante,Vitoria,89,89,76-90
+7995,35,Corinthians,Du Queiroz,42,Gol normal,7995,2022,2022-11-02,Flamengo,Visitante,Vitoria,42,42,31-45
+7995,35,Corinthians,Yuri Alberto,75,Gol normal,7995,2022,2022-11-02,Flamengo,Visitante,Vitoria,75,75,61-75
+8000,36,Corinthians,Yuri Alberto,90,Gol normal,8000,2022,2022-11-05,Ceara,Mandante,Vitoria,90,90,76-90
+8007,37,Corinthians,Du Queiroz,30,Gol normal,8007,2022,2022-11-09,Coritiba,Visitante,Empate,30,30,16-30
+8007,37,Corinthians,Yuri Alberto,48,Gol normal,8007,2022,2022-11-09,Coritiba,Visitante,Empate,48,48,46-60
+8033,1,Corinthians,Róger Guedes,87,Gol normal,8033,2023,2023-04-16,Cruzeiro,Mandante,Vitoria,87,87,76-90
+8033,1,Corinthians,Matheus Araújo,68,Gol normal,8033,2023,2023-04-16,Cruzeiro,Mandante,Vitoria,68,68,61-75
+8044,2,Corinthians,Róger Guedes,17,Gol normal,8044,2023,2023-04-23,Goias,Visitante,Derrota,17,17,16-30
+8048,3,Corinthians,Joaquín Piquerez,76,Gol Contra,8048,2023,2023-04-29,Palmeiras,Visitante,Derrota,76,76,76-90
+8065,4,Corinthians,Yuri Alberto,88,Gol normal,8065,2023,2023-05-08,Fortaleza,Mandante,Empate,88,88,76-90
+8082,6,Corinthians,Róger Guedes,45+5,Pênalti,8082,2023,2023-05-14,Sao Paulo,Mandante,Empate,45+5,50,46-60
+8101,8,Corinthians,Róger Guedes,90+2,Gol normal,8101,2023,2023-05-28,Fluminense,Mandante,Vitoria,90+2,92,90+
+8101,8,Corinthians,Róger Guedes,59,Gol normal,8101,2023,2023-05-28,Fluminense,Mandante,Vitoria,59,59,46-60
+8118,10,Corinthians,Ruan Oliveira,81,Gol normal,8118,2023,2023-06-10,Cuiaba,Mandante,Empate,81,81,76-90
+8128,11,Corinthians,Yuri Alberto,19,Gol normal,8128,2023,2023-06-21,Santos,Visitante,Vitoria,19,19,16-30
+8128,11,Corinthians,Ruan Oliveira,28,Gol normal,8128,2023,2023-06-21,Santos,Visitante,Vitoria,28,28,16-30
+8158,14,Corinthians,Róger Guedes,40,Gol normal,8158,2023,2023-07-08,Atletico-MG,Visitante,Vitoria,40,40,31-45
+8189,17,Corinthians,Yuri Alberto,62,Gol normal,8189,2023,2023-07-29,Vasco,Mandante,Vitoria,62,62,61-75
+8189,17,Corinthians,Róger Guedes,73,Pênalti,8189,2023,2023-07-29,Vasco,Mandante,Vitoria,73,73,61-75
+8189,17,Corinthians,Maycon de Andrade Barberan,19,Gol normal,8189,2023,2023-07-29,Vasco,Mandante,Vitoria,19,19,16-30
+8198,18,Corinthians,Fábio Santos,86,Pênalti,8198,2023,2023-08-05,Internacional,Visitante,Empate,86,86,76-90
+8198,18,Corinthians,Renato Augusto,13,Gol normal,8198,2023,2023-08-05,Internacional,Visitante,Empate,13,13,0-15
+8209,19,Corinthians,Carlos Gilberto do Nascimento Silva,51,Gol normal,8209,2023,2023-08-13,Coritiba,Mandante,Vitoria,51,51,46-60
+8209,19,Corinthians,Yuri Alberto,54,Gol normal,8209,2023,2023-08-13,Coritiba,Mandante,Vitoria,54,54,46-60
+8209,19,Corinthians,Wesley Gassova,67,Gol normal,8209,2023,2023-08-13,Coritiba,Mandante,Vitoria,67,67,61-75
+8220,20,Corinthians,Gustavo Mosquito,90+8,Gol normal,8220,2023,2023-08-19,Cruzeiro,Visitante,Empate,90+8,98,90+
+8227,21,Corinthians,Maycon de Andrade Barberan,82,Gol normal,8227,2023,2023-08-26,Goias,Mandante,Empate,82,82,76-90
+8249,23,Corinthians,Pedro Henrique Silva dos Santos,33,Gol normal,8249,2023,2023-09-14,Fortaleza,Visitante,Derrota,33,33,31-45
+8174,15,Corinthians,Yuri Alberto,45+6,Gol normal,8174,2023,2023-09-18,Gremio,Mandante,Empate,45+6,51,46-60
+8174,15,Corinthians,Fábio Santos,45,Pênalti,8174,2023,2023-09-18,Gremio,Mandante,Empate,45,45,31-45
+8174,15,Corinthians,Giuliano Victor de Paula,67,Gol normal,8174,2023,2023-09-18,Gremio,Mandante,Empate,67,67,61-75
+8174,15,Corinthians,Lucas Veríssimo,45+4,Gol normal,8174,2023,2023-09-18,Gremio,Mandante,Empate,45+4,49,46-60
+8264,24,Corinthians,Carlos Gilberto do Nascimento Silva,59,Gol normal,8264,2023,2023-09-22,Botafogo-RJ,Mandante,Vitoria,59,59,46-60
+8268,25,Corinthians,Ángel Romero,3,Gol normal,8268,2023,2023-09-30,Sao Paulo,Visitante,Derrota,3,3,0-15
+8278,26,Corinthians,Fábio Santos,79,Pênalti,8278,2023,2023-10-07,Flamengo,Mandante,Empate,79,79,76-90
+8295,27,Corinthians,Yuri Alberto,10,Gol normal,8295,2023,2023-10-19,Fluminense,Visitante,Empate,10,10,0-15
+8295,27,Corinthians,Yuri Alberto,27,Gol normal,8295,2023,2023-10-19,Fluminense,Visitante,Empate,27,27,16-30
+8295,27,Corinthians,Fábio Santos,32,Pênalti,8295,2023,2023-10-19,Fluminense,Visitante,Empate,32,32,31-45
+8305,28,Corinthians,Giuliano Victor de Paula,90+9,Gol normal,8305,2023,2023-10-22,America-MG,Mandante,Empate,90+9,99,90+
+8312,29,Corinthians,Ángel Romero,77,Gol normal,8312,2023,2023-10-25,Cuiaba,Visitante,Vitoria,77,77,76-90
+8322,30,Corinthians,Jean Lucas Oliveira,57,Gol Contra,8322,2023,2023-10-29,Santos,Mandante,Empate,57,57,46-60
+8328,31,Corinthians,Yuri Alberto,64,Gol normal,8328,2023,2023-11-01,Athletico-PR,Mandante,Vitoria,64,64,61-75
+8352,33,Corinthians,Ángel Romero,23,Gol normal,8352,2023,2023-11-09,Atletico-MG,Mandante,Empate,23,23,16-30
+8360,34,Corinthians,Ángel Romero,32,Gol normal,8360,2023,2023-11-12,Gremio,Visitante,Vitoria,32,32,31-45
+8366,35,Corinthians,Renato Augusto,67,Gol normal,8366,2023,2023-11-24,Bahia,Mandante,Derrota,67,67,61-75
+8376,36,Corinthians,Ángel Romero,13,Gol normal,8376,2023,2023-11-28,Vasco,Visitante,Vitoria,13,13,0-15
+8376,36,Corinthians,Ángel Romero,45,Gol normal,8376,2023,2023-11-28,Vasco,Visitante,Vitoria,45,45,31-45
+8376,36,Corinthians,Gabriel Moscardo,61,Gol normal,8376,2023,2023-11-28,Vasco,Visitante,Vitoria,61,61,61-75
+8376,36,Corinthians,Giovane,90+4,Gol normal,8376,2023,2023-11-28,Vasco,Visitante,Vitoria,90+4,94,90+
+8386,37,Corinthians,Ángel Romero,57,Gol normal,8386,2023,2023-12-02,Internacional,Mandante,Derrota,57,57,46-60
+8398,38,Corinthians,Fausto Vera,11,Gol normal,8398,2023,2023-12-06,Coritiba,Visitante,Vitoria,11,11,0-15
+8398,38,Corinthians,Ángel Romero,21,Gol normal,8398,2023,2023-12-06,Coritiba,Visitante,Vitoria,21,21,16-30
+8440,4,Corinthians,Cacá,47,Gol normal,8440,2024,2024-04-28,Fluminense,Mandante,Vitoria,47,47,46-60
+8440,4,Corinthians,Wesley Gassova Ribeiro Teixeira,40,Gol normal,8440,2024,2024-04-28,Fluminense,Mandante,Vitoria,40,40,31-45
+8440,4,Corinthians,Wesley Gassova Ribeiro Teixeira,45+2,Gol normal,8440,2024,2024-04-28,Fluminense,Mandante,Vitoria,45+2,47,46-60
+8476,8,Corinthians,Yuri Alberto,15,Gol normal,8476,2024,2024-06-11,Atletico-GO,Visitante,Empate,15,15,0-15
+8476,8,Corinthians,Yuri Alberto,62,Gol normal,8476,2024,2024-06-11,Atletico-GO,Visitante,Empate,62,62,61-75
+8488,9,Corinthians,Igor Coronado,31,Gol normal,8488,2024,2024-06-16,Sao Paulo,Mandante,Empate,31,31,31-45
+8488,9,Corinthians,Gustavo Mosquito,45+3,Gol normal,8488,2024,2024-06-16,Sao Paulo,Mandante,Empate,45+3,48,46-60
+8511,11,Corinthians,Cacá,90+2,Gol normal,8511,2024,2024-06-23,Athletico-PR,Visitante,Empate,90+2,92,90+
+8519,12,Corinthians,Matheus Bidu,86,Gol normal,8519,2024,2024-06-26,Cuiaba,Mandante,Empate,86,86,76-90
+8545,14,Corinthians,Rodrigo Garro,26,Gol normal,8545,2024,2024-07-04,Vitoria,Mandante,Vitoria,26,26,16-30
+8545,14,Corinthians,Rodrigo Garro,43,Gol normal,8545,2024,2024-07-04,Vitoria,Mandante,Vitoria,43,43,31-45
+8545,14,Corinthians,Giovane Santana do Nascimento,90+5,Gol normal,8545,2024,2024-07-04,Vitoria,Mandante,Vitoria,90+5,95,90+
+8569,17,Corinthians,Ángel Romero,54,Gol normal,8569,2024,2024-07-16,Criciuma,Mandante,Vitoria,54,54,46-60
+8569,17,Corinthians,Cacá,62,Gol normal,8569,2024,2024-07-16,Criciuma,Mandante,Vitoria,62,62,61-75
+8581,18,Corinthians,Ángel Romero,37,Gol normal,8581,2024,2024-07-21,Bahia,Visitante,Vitoria,37,37,31-45
+8591,19,Corinthians,Rodrigo Garro,87,Gol normal,8591,2024,2024-07-25,Gremio,Mandante,Empate,87,87,76-90
+8591,19,Corinthians,Yuri Alberto,25,Pênalti,8591,2024,2024-07-25,Gremio,Mandante,Empate,25,25,16-30
+8605,20,Corinthians,Yuri Alberto,39,Gol normal,8605,2024,2024-07-28,Atletico-MG,Visitante,Derrota,39,39,31-45
+8611,21,Corinthians,Pedro Henrique Konzen,48,Gol normal,8611,2024,2024-08-04,Juventude,Mandante,Empate,48,48,46-60
+8619,22,Corinthians,Talles Magno,90+4,Gol normal,8619,2024,2024-08-10,Bragantino,Mandante,Empate,90+4,94,90+
+8650,25,Corinthians,Talles Magno,26,Gol normal,8650,2024,2024-09-01,Flamengo,Mandante,Vitoria,26,26,16-30
+8650,25,Corinthians,Ángel Romero,60,Gol normal,8650,2024,2024-09-01,Flamengo,Mandante,Vitoria,60,60,46-60
+8658,26,Corinthians,Rodrigo Garro,63,Pênalti,8658,2024,2024-09-14,Botafogo-RJ,Visitante,Derrota,63,63,61-75
+8666,27,Corinthians,Ángel Romero,45+4,Gol normal,8666,2024,2024-09-21,Atletico-GO,Mandante,Vitoria,45+4,49,46-60
+8666,27,Corinthians,Ángel Romero,55,Gol normal,8666,2024,2024-09-21,Atletico-GO,Mandante,Vitoria,55,55,46-60
+8666,27,Corinthians,Rodrigo Garro,83,Gol normal,8666,2024,2024-09-21,Atletico-GO,Mandante,Vitoria,83,83,76-90
+8679,28,Corinthians,Yuri Alberto,83,Gol normal,8679,2024,2024-09-29,Sao Paulo,Visitante,Derrota,83,83,76-90
+8694,29,Corinthians,Yuri Alberto,3,Gol normal,8694,2024,2024-10-05,Internacional,Mandante,Empate,3,3,0-15
+8694,29,Corinthians,Yuri Alberto,73,Pênalti,8694,2024,2024-10-05,Internacional,Mandante,Empate,73,73,61-75
+8698,30,Corinthians,Memphis Depay,55,Gol normal,8698,2024,2024-10-17,Athletico-PR,Mandante,Vitoria,55,55,46-60
+8698,30,Corinthians,Rodrigo Garro,66,Gol normal,8698,2024,2024-10-17,Athletico-PR,Mandante,Vitoria,66,66,61-75
+8698,30,Corinthians,Matheuzinho,5,Gol normal,8698,2024,2024-10-17,Athletico-PR,Mandante,Vitoria,5,5,0-15
+8698,30,Corinthians,Yuri Alberto,78,Gol normal,8698,2024,2024-10-17,Athletico-PR,Mandante,Vitoria,78,78,76-90
+8698,30,Corinthians,Cacá,18,Gol normal,8698,2024,2024-10-17,Athletico-PR,Mandante,Vitoria,18,18,16-30
+8714,31,Corinthians,Memphis Depay,44,Pênalti,8714,2024,2024-10-28,Cuiaba,Visitante,Vitoria,44,44,31-45
+8720,32,Corinthians,Rodrigo Garro,41,Gol normal,8720,2024,2024-11-04,Palmeiras,Mandante,Vitoria,41,41,31-45
+8720,32,Corinthians,Yuri Alberto,56,Gol normal,8720,2024,2024-11-04,Palmeiras,Mandante,Vitoria,56,56,46-60
+8728,33,Corinthians,Yuri Alberto,24,Gol normal,8728,2024,2024-11-09,Vitoria,Visitante,Vitoria,24,24,16-30
+8728,33,Corinthians,Memphis Depay,69,Gol normal,8728,2024,2024-11-09,Vitoria,Visitante,Vitoria,69,69,61-75
+8736,34,Corinthians,Memphis Depay,11,Gol normal,8736,2024,2024-11-20,Cruzeiro,Mandante,Vitoria,11,11,0-15
+8736,34,Corinthians,Yuri Alberto,16,Gol normal,8736,2024,2024-11-20,Cruzeiro,Mandante,Vitoria,16,16,16-30
+8750,35,Corinthians,Gustavo Henrique Vernes,11,Gol normal,8750,2024,2024-11-24,Vasco,Mandante,Vitoria,11,11,0-15
+8750,35,Corinthians,Rodrigo Garro,15,Gol normal,8750,2024,2024-11-24,Vasco,Mandante,Vitoria,15,15,0-15
+8750,35,Corinthians,Rodrigo Garro,24,Gol normal,8750,2024,2024-11-24,Vasco,Mandante,Vitoria,24,24,16-30
+8758,36,Corinthians,Matheus Bidu,65,Gol normal,8758,2024,2024-11-30,Criciuma,Visitante,Vitoria,65,65,61-75
+8758,36,Corinthians,Yuri Alberto,83,Gol normal,8758,2024,2024-11-30,Criciuma,Visitante,Vitoria,83,83,76-90
+8758,36,Corinthians,Yuri Alberto,90+4,Gol normal,8758,2024,2024-11-30,Criciuma,Visitante,Vitoria,90+4,94,90+
+8758,36,Corinthians,Rodrigo Garro,62,Gol normal,8758,2024,2024-11-30,Criciuma,Visitante,Vitoria,62,62,61-75
+8766,37,Corinthians,Memphis Depay,61,Gol normal,8766,2024,2024-12-03,Bahia,Mandante,Vitoria,61,61,61-75
+8766,37,Corinthians,Yuri Alberto,45+4,Gol normal,8766,2024,2024-12-03,Bahia,Mandante,Vitoria,45+4,49,46-60
+8766,37,Corinthians,Memphis Depay,12,Gol normal,8766,2024,2024-12-03,Bahia,Mandante,Vitoria,12,12,0-15
+8785,38,Corinthians,Yuri Alberto,45+1,Pênalti,8785,2024,2024-12-08,Gremio,Visitante,Vitoria,45+1,46,46-60
+8785,38,Corinthians,Charles Rigon Matos,88,Gol normal,8785,2024,2024-12-08,Gremio,Visitante,Vitoria,88,88,76-90
+8785,38,Corinthians,Memphis Depay,90+3,Gol normal,8785,2024,2024-12-08,Gremio,Visitante,Vitoria,90+3,93,90+
+8794,1,Corinthians,Héctor José Hernández Marrero,90,Gol normal,8794,2025,2025-03-30,Bahia,Visitante,Empate,90,90,76-90
+8797,2,Corinthians,João Victor,90+1,Gol Contra,8797,2025,2025-04-05,Vasco,Mandante,Vitoria,90+1,91,90+
+8797,2,Corinthians,Yuri Alberto,12,Gol normal,8797,2025,2025-04-05,Vasco,Mandante,Vitoria,12,12,0-15
+8797,2,Corinthians,Memphis Depay,27,Gol normal,8797,2025,2025-04-05,Vasco,Mandante,Vitoria,27,27,16-30
+8826,5,Corinthians,Memphis Depay,46,Gol normal,8826,2025,2025-04-19,Sport,Mandante,Vitoria,46,46,46-60
+8826,5,Corinthians,Memphis Depay,62,Gol normal,8826,2025,2025-04-19,Sport,Mandante,Vitoria,62,62,61-75
+8848,7,Corinthians,Yuri Alberto,90+4,Pênalti,8848,2025,2025-05-03,Internacional,Mandante,Vitoria,90+4,94,90+
+8848,7,Corinthians,Yuri Alberto,64,Gol normal,8848,2025,2025-05-03,Internacional,Mandante,Vitoria,64,64,61-75
+8848,7,Corinthians,Igor Coronado,90+13,Gol normal,8848,2025,2025-05-03,Internacional,Mandante,Vitoria,90+13,103,90+
+8848,7,Corinthians,Yuri Alberto,25,Gol normal,8848,2025,2025-05-03,Internacional,Mandante,Vitoria,25,25,16-30
+8859,8,Corinthians,Cacá,45+7,Gol normal,8859,2025,2025-05-10,Mirassol,Visitante,Derrota,45+7,52,46-60
+8869,9,Corinthians,Yuri Alberto,66,Gol normal,8869,2025,2025-05-18,Santos,Mandante,Vitoria,66,66,61-75
+8899,12,Corinthians,Breno Bidon,36,Gol normal,8899,2025,2025-06-12,Gremio,Visitante,Empate,36,36,31-45
+8910,13,Corinthians,Cacá,52,Gol normal,8910,2025,2025-07-13,Bragantino,Mandante,Derrota,52,52,46-60
+8917,14,Corinthians,Talles Magno,71,Gol normal,8917,2025,2025-07-16,Ceara,Visitante,Vitoria,71,71,61-75
+8947,17,Corinthians,Memphis Depay,83,Gol normal,8947,2025,2025-07-26,Botafogo-RJ,Visitante,Empate,83,83,76-90
+8959,18,Corinthians,André Carrillo,90+4,Gol normal,8959,2025,2025-08-03,Fortaleza,Mandante,Empate,90+4,94,90+
+8975,19,Corinthians,Matheuzinho,90+1,Gol normal,8975,2025,2025-08-11,Juventude,Visitante,Derrota,90+1,91,90+
+8980,20,Corinthians,Gui Negão,31,Gol normal,8980,2025,2025-08-16,Bahia,Mandante,Derrota,31,31,31-45
+8990,21,Corinthians,Maycon de Andrade Barberan,21,Gol normal,8990,2025,2025-08-24,Vasco,Visitante,Vitoria,21,21,16-30
+8990,21,Corinthians,Gui Negão,69,Gol normal,8990,2025,2025-08-24,Vasco,Visitante,Vitoria,69,69,61-75
+8990,21,Corinthians,Gustavo Henrique Vernes,85,Gol normal,8990,2025,2025-08-24,Vasco,Visitante,Vitoria,85,85,76-90
+9001,22,Corinthians,Joaquín Piquerez,26,Gol Contra,9001,2025,2025-08-31,Palmeiras,Mandante,Empate,26,26,16-30
+9009,23,Corinthians,Matheuzinho,73,Gol normal,9009,2025,2025-09-13,Fluminense,Visitante,Vitoria,73,73,61-75
+9034,25,Corinthians,Yuri Alberto,47,Gol normal,9034,2025,2025-09-28,Flamengo,Mandante,Derrota,47,47,46-60
+9040,26,Corinthians,Gui Negão,10,Gol normal,9040,2025,2025-10-01,Internacional,Visitante,Empate,10,10,0-15
+9049,27,Corinthians,Yuri Alberto,72,Gol normal,9049,2025,2025-10-04,Mirassol,Mandante,Vitoria,72,72,61-75
+9049,27,Corinthians,André Luiz Santos Dias,90+5,Gol normal,9049,2025,2025-10-04,Mirassol,Mandante,Vitoria,90+5,95,90+
+9049,27,Corinthians,Maycon de Andrade Barberan,18,Pênalti,9049,2025,2025-10-04,Mirassol,Mandante,Vitoria,18,18,16-30
+9060,28,Corinthians,Raniele,58,Gol normal,9060,2025,2025-10-15,Santos,Visitante,Derrota,58,58,46-60
+9066,29,Corinthians,Maycon de Andrade Barberan,49,Gol normal,9066,2025,2025-10-18,Atletico-MG,Mandante,Vitoria,49,49,46-60
+9076,30,Corinthians,Charles Rigon Matos,87,Gol normal,9076,2025,2025-10-25,Vitoria,Visitante,Vitoria,87,87,76-90
+9092,31,Corinthians,Gustavo Henrique Vernes,16,Gol normal,9092,2025,2025-11-02,Gremio,Mandante,Vitoria,16,16,16-30
+9092,31,Corinthians,Memphis Depay,80,Pênalti,9092,2025,2025-11-02,Gremio,Mandante,Vitoria,80,80,76-90
+9098,32,Corinthians,Yuri Alberto,66,Gol normal,9098,2025,2025-11-05,Bragantino,Visitante,Derrota,66,66,61-75
+9132,34,Corinthians,Memphis Depay,84,Gol normal,9132,2025,2025-11-20,Sao Paulo,Mandante,Vitoria,84,84,76-90
+9132,34,Corinthians,Yuri Alberto,89,Gol normal,9132,2025,2025-11-20,Sao Paulo,Mandante,Vitoria,89,89,76-90
+9132,34,Corinthians,Yuri Alberto,31,Pênalti,9132,2025,2025-11-20,Sao Paulo,Mandante,Vitoria,31,31,31-45
+9155,36,Corinthians,Raniele,7,Gol normal,9155,2025,2025-11-30,Botafogo-RJ,Mandante,Empate,7,7,0-15
+9155,36,Corinthians,Gustavo Henrique Vernes,82,Gol normal,9155,2025,2025-11-30,Botafogo-RJ,Mandante,Empate,82,82,76-90
+9120,37,Corinthians,André Luiz Santos Dias,70,Gol normal,9120,2025,2025-12-03,Fortaleza,Visitante,Derrota,70,70,61-75
+9159,38,Corinthians,José Andrés Martínez,23,Gol normal,9159,2025,2025-12-07,Juventude,Mandante,Empate,23,23,16-30

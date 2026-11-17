@@ -1,0 +1,857 @@
+﻿ID,temporada,rodata,data,hora,adversario,local,arena,gols_marcados,gols_sofridos,saldo_gols,resultado,pontos,tecnico,formacao,arrecadacao,chutes,chutes_no_alvo,posse_de_bola,precisao_passes,passes,faltas,cartao_amarelo,cartao_vermelho,impedimentos,escanteios,estatisticas_disponiveis,aproveitamneto_partida,precisao_finalizacao,conversao_chutes,conversao_no_alvo
+12,2003,1,2003-03-30,18:00,Atletico-MG,Mandante, Pacaembu,0,3,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+18,2003,2,2003-04-06,16:00,Figueirense,Visitante, Orlando Scarpelli,3,3,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+40,2003,3,2003-04-12,18:00,Paysandu,Mandante, Pacaembu,6,1,5,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+32,2003,4,2003-04-16,21:40,Vasco,Visitante, São Januário,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+53,2003,5,2003-04-20,16:00,Internacional,Visitante, Beira Rio,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+65,2003,6,2003-04-27,16:00,Flamengo,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+76,2003,7,2003-05-04,16:00,Fortaleza,Visitante, Castelão,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+88,2003,8,2003-05-10,18:00,Criciuma,Mandante, Pacaembu,3,0,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+103,2003,9,2003-05-18,16:00,Cruzeiro,Visitante, Mineirão,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+111,2003,10,2003-05-24,16:00,Juventude,Mandante, Pacaembu,3,0,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+131,2003,11,2003-06-01,18:00,Vitoria,Mandante, Pacaembu,4,0,4,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+141,2003,12,2003-06-08,16:00,Sao Caetano,Visitante, Anacleto Campanella,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+148,2003,13,2003-06-15,16:00,Sao Paulo,Mandante, Morumbi,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+163,2003,14,2003-06-22,16:00,Ponte Preta,Visitante, Moisés Lucarelli,3,3,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+173,2003,15,2003-06-29,16:00,Fluminense,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+187,2003,16,2003-07-06,16:00,Athletico-PR,Visitante, Arena da Baixada,1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+194,2003,17,2003-07-09,16:00,Santos,Mandante, Morumbi,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+210,2003,18,2003-07-13,16:00,Coritiba,Mandante, Morumbi,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+225,2003,19,2003-07-16,21:40,Goias,Visitante, Serra Dourada,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+230,2003,20,2003-07-19,16:00,Guarani,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+247,2003,21,2003-07-23,21:40,Bahia,Visitante, Fonte Nova,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+262,2003,22,2003-07-27,16:00,Gremio,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+270,2003,23,2003-08-03,16:00,Parana,Visitante, Arena da Baixada,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+286,2003,24,2003-08-07,20:30,Figueirense,Mandante, Pacaembu,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+296,2003,25,2003-08-10,16:00,Atletico-MG,Visitante, Mineirão,3,2,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+307,2003,26,2003-08-17,16:00,Paysandu,Visitante, Mangueirão,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+321,2003,27,2003-08-20,21:40,Vasco,Mandante, Pacaembu,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+335,2003,28,2003-08-24,18:00,Internacional,Mandante, Pacaembu,3,1,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+344,2003,29,2003-08-31,16:00,Flamengo,Visitante, Maracanã,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+352,2003,30,2003-09-13,18:00,Fortaleza,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+367,2003,31,2003-09-21,16:00,Criciuma,Visitante, Heriberto Hulse,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+381,2003,32,2003-09-24,21:40,Cruzeiro,Mandante, Pacaembu,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+392,2003,33,2003-09-28,16:00,Juventude,Visitante, Alfredo Jaconi,1,6,-5,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+402,2003,34,2003-10-05,16:00,Vitoria,Visitante, Barradão,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+411,2003,35,2003-10-08,20:30,Sao Caetano,Mandante, Pacaembu,0,3,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+426,2003,36,2003-10-12,16:00,Sao Paulo,Visitante, Morumbi,0,3,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+443,2003,37,2003-10-19,18:00,Ponte Preta,Mandante, Pacaembu,3,0,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+449,2003,38,2003-10-22,21:40,Fluminense,Visitante, Maracanã,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+465,2003,39,2003-10-26,16:00,Athletico-PR,Mandante, Pacaembu,2,3,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+474,2003,40,2003-11-02,16:00,Santos,Visitante, Vila Belmiro,1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+486,2003,41,2003-11-05,21:40,Coritiba,Visitante, Couto Pereira,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+503,2003,42,2003-11-09,18:00,Goias,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+515,2003,43,2003-11-23,18:00,Guarani,Visitante, Brinco de Ouro,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+527,2003,44,2003-11-30,18:00,Bahia,Mandante, Pacaembu,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+532,2003,45,2003-12-06,18:00,Parana,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+546,2003,46,2003-12-14,16:00,Gremio,Visitante, Olímpico,0,3,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+559,2004,1,2004-04-21,21:45,Ponte Preta,Visitante, Moisés Lucarelli,2,3,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+571,2004,2,2004-04-25,16:00,Paysandu,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+582,2004,3,2004-04-28,21:45,Gremio,Visitante, Olímpico,0,4,-4,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+596,2004,4,2004-05-02,16:00,Palmeiras,Mandante, Morumbi,0,4,-4,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+608,2004,5,2004-05-09,16:00,Atletico-MG,Visitante,  Independência,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+624,2004,6,2004-05-16,19:00,Guarani,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+635,2004,7,2004-05-23,18:00,Athletico-PR,Mandante, Pacaembu,0,5,-5,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+644,2004,8,2004-05-30,16:00,Sao Paulo,Visitante, Morumbi,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+653,2004,9,2004-06-13,16:00,Goias,Visitante, Serra Dourada,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+666,2004,10,2004-06-20,16:00,Flamengo,Mandante,  Mj José Levi Sobrinho,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+678,2004,11,2004-06-27,16:00,Juventude,Visitante, Alfredo Jaconi,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+694,2004,12,2004-07-04,16:00,Santos,Mandante, Pacaembu,2,3,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+708,2004,13,2004-07-07,21:45,Coritiba,Visitante, Couto Pereira,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+716,2004,14,2004-07-10,18:00,Parana,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+722,2004,15,2004-07-13,20:30,Criciuma,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+736,2004,16,2004-07-17,16:00,Vitoria,Visitante, Barradão,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+746,2004,17,2004-07-20,20:30,Internacional,Mandante, Pacaembu,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+757,2004,18,2004-07-24,16:00,Fluminense,Visitante, Maracanã,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+770,2004,19,2004-07-28,20:30,Cruzeiro,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+786,2004,20,2004-08-01,16:00,Sao Caetano,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+799,2004,21,2004-08-04,21:45,Vasco,Visitante, São Januário,3,1,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+810,2004,22,2004-08-08,16:00,Botafogo-RJ,Mandante, Pacaembu,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+822,2004,23,2004-08-11,21:45,Figueirense,Visitante, Orlando Scarpelli,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+832,2004,24,2004-08-14,18:00,Ponte Preta,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+848,2004,25,2004-08-18,21:50,Paysandu,Visitante, Mangueirão,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+854,2004,26,2004-08-21,16:00,Gremio,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+871,2004,27,2004-08-29,16:00,Palmeiras,Visitante, Morumbi,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+882,2004,28,2004-09-01,21:50,Atletico-MG,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+897,2004,29,2004-09-08,21:50,Guarani,Visitante, Brinco de Ouro,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+908,2004,30,2004-09-12,16:00,Athletico-PR,Visitante, Arena da Baixada,1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+918,2004,31,2004-09-19,16:00,Sao Paulo,Mandante, Morumbi,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+933,2004,32,2004-09-26,16:00,Goias,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+948,2004,33,2004-09-29,21:50,Flamengo,Visitante, Maracanã,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+960,2004,34,2004-10-02,20:30,Juventude,Mandante, Pacaembu,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+967,2004,35,2004-10-06,21:50,Santos,Visitante, Vila Belmiro,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+973,2004,36,2004-10-16,16:00,Coritiba,Mandante, Pacaembu,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+995,2004,37,2004-10-24,18:00,Parana,Visitante, Pinheirão,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1007,2004,38,2004-10-27,21:50,Criciuma,Visitante, Heriberto Hulse,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1015,2004,39,2004-10-30,20:30,Vitoria,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1026,2004,40,2004-11-07,16:00,Internacional,Visitante, Beira Rio,0,3,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1036,2004,41,2004-11-13,18:10,Fluminense,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1052,2004,42,2004-11-21,16:00,Cruzeiro,Visitante, Mineirão,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1065,2004,43,2004-11-28,16:00,Sao Caetano,Visitante, Anacleto Campanella,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1074,2004,44,2004-12-04,18:10,Vasco,Mandante, Pacaembu,3,1,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1087,2004,45,2004-12-12,16:00,Botafogo-RJ,Visitante,  Caio Martins,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1100,2004,46,2004-12-19,16:00,Figueirense,Mandante, Pacaembu,5,2,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1112,2005,1,2005-04-24,16:00,Juventude,Mandante, Pacaembu,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1124,2005,2,2005-05-01,16:00,Botafogo-RJ,Visitante,  Luso Brasileiro*(PF),1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1133,2005,3,2005-05-08,16:00,Sao Paulo,Mandante, Pacaembu,1,5,-4,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1144,2005,4,2005-05-15,16:00,Athletico-PR,Visitante, Arena da Baixada,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1158,2005,5,2005-05-22,18:10,Figueirense,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1166,2005,6,2005-05-29,16:00,Atletico-MG,Visitante, Mineirão,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1179,2005,7,2005-06-12,16:00,Flamengo,Mandante,  Wilson de Barros*(PF),4,2,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1183,2005,8,2005-06-18,16:00,Brasiliense,Visitante,  Mané Garrincha,4,2,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1198,2005,9,2005-06-26,16:00,Fluminense,Mandante,  Wilson de Barros*(PF),0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1207,2005,10,2005-07-03,16:00,Fortaleza,Visitante, Castelão,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1220,2005,11,2005-07-10,16:00,Palmeiras,Mandante, Morumbi,3,1,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1229,2005,12,2005-07-16,18:10,Parana,Visitante,  Willie Davids,3,2,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1247,2005,13,2005-07-21,20:30,Paysandu,Mandante, Pacaembu,3,2,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1252,2005,14,2005-07-24,16:00,Vasco,Visitante, São Januário,3,2,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1262,2005,15,2005-07-27,20:30,Cruzeiro,Mandante, Pacaembu,4,3,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1283,2005,17,2005-08-03,20:30,Coritiba,Mandante, Pacaembu,3,0,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1293,2005,18,2005-08-06,16:00,Sao Caetano,Mandante, Pacaembu,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1307,2005,19,2005-08-10,21:45,Internacional,Visitante, Beira Rio,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1317,2005,20,2005-08-14,16:00,Ponte Preta,Visitante, Moisés Lucarelli,5,3,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1328,2005,21,2005-08-21,16:00,Goias,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1342,2005,22,2005-08-24,21:45,Juventude,Visitante, Alfredo Jaconi,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1353,2005,23,2005-08-28,16:00,Botafogo-RJ,Mandante, Pacaembu,3,3,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1375,2005,25,2005-09-11,16:00,Athletico-PR,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1387,2005,26,2005-09-18,16:00,Figueirense,Visitante, Orlando Scarpelli,3,2,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1400,2005,27,2005-09-22,20:30,Atletico-MG,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1409,2005,28,2005-09-25,16:00,Flamengo,Visitante,  Luso Brasileiro,3,1,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1421,2005,29,2005-10-02,16:00,Brasiliense,Mandante, Pacaembu,3,2,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1433,2005,30,2005-10-05,21:50,Fluminense,Visitante,  Raulino de Oliveira,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1436,2005,31,2005-10-08,16:00,Fortaleza,Mandante, Pacaembu,3,0,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1280,2005,16,2005-10-13,20:30,Santos,Visitante, Vila Belmiro,3,2,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1452,2005,32,2005-10-16,16:00,Palmeiras,Visitante, Morumbi,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1460,2005,33,2005-10-22,16:00,Parana,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1368,2005,24,2005-10-24,20:30,Sao Paulo,Visitante, Morumbi,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1476,2005,34,2005-10-27,20:30,Paysandu,Visitante, Mangueirão,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1484,2005,35,2005-10-30,16:00,Vasco,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1493,2005,36,2005-11-02,21:45,Cruzeiro,Visitante, Mineirão,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1505,2005,37,2005-11-06,16:00,Santos,Mandante, Pacaembu,7,1,6,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1518,2005,38,2005-11-13,16:00,Coritiba,Visitante, Couto Pereira,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1527,2005,39,2005-11-16,21:45,Sao Caetano,Visitante, Anacleto Campanella,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1538,2005,40,2005-11-20,16:00,Internacional,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1552,2005,41,2005-11-27,16:00,Ponte Preta,Mandante, Pacaembu,3,1,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1566,2005,42,2005-12-04,16:00,Goias,Visitante, Serra Dourada,2,3,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1570,2006,1,2006-04-16,16:00,Gremio,Visitante, Olímpico,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1577,2006,2,2006-04-22,16:00,Sao Caetano,Mandante, Pacaembu,3,0,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1590,2006,3,2006-04-30,16:00,Ponte Preta,Visitante, Moisés Lucarelli,2,3,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1603,2006,4,2006-05-07,16:00,Sao Paulo,Mandante,Teixeirão,1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1615,2006,5,2006-05-14,18:10,Parana,Visitante,  Willie Davids,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1623,2006,6,2006-05-21,16:00,Vasco,Visitante, São Januário,4,2,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1636,2006,7,2006-05-25,20:30,Internacional,Mandante, Morumbi,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1640,2006,8,2006-05-28,16:00,Santos,Visitante, Vila Belmiro,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1656,2006,9,2006-06-01,20:30,Goias,Mandante, Morumbi,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1660,2006,10,2006-06-04,16:00,Flamengo,Mandante, Morumbi,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1673,2006,11,2006-07-12,21:45,Cruzeiro,Visitante, Mineirão,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1680,2006,12,2006-07-16,16:00,Palmeiras,Visitante, Morumbi,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1689,2006,13,2006-07-22,18:10,Fortaleza,Mandante, Morumbi,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1701,2006,14,2006-07-30,16:00,Santa Cruz,Visitante,  Arruda,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1709,2006,15,2006-08-05,18:10,Athletico-PR,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1719,2006,16,2006-08-12,18:10,Figueirense,Mandante, Pacaembu,1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1732,2006,17,2006-08-16,22:00,Fluminense,Visitante, Maracanã,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1746,2006,18,2006-08-20,18:10,Botafogo-RJ,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1752,2006,19,2006-08-23,22:00,Juventude,Visitante, Alfredo Jaconi,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1761,2006,20,2006-08-27,16:00,Gremio,Mandante, Pacaembu,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1772,2006,21,2006-08-30,22:00,Sao Caetano,Visitante, Anacleto Campanella,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1786,2006,22,2006-09-03,18:10,Ponte Preta,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1791,2006,23,2006-09-10,16:00,Sao Paulo,Visitante, Morumbi,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1799,2006,24,2006-09-16,18:10,Parana,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1814,2006,25,2006-09-20,22:00,Vasco,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1822,2006,26,2006-09-24,16:00,Internacional,Visitante, Beira Rio,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1835,2006,27,2006-10-05,20:30,Santos,Mandante, Pacaembu,0,3,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1844,2006,28,2006-10-08,18:10,Goias,Visitante, Serra Dourada,1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1852,2006,29,2006-10-15,16:00,Flamengo,Visitante, Maracanã,0,3,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+1864,2006,30,2006-10-22,18:10,Cruzeiro,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1867,2006,31,2006-10-25,22:00,Palmeiras,Mandante, Morumbi,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1881,2006,32,2006-11-01,21:45,Fortaleza,Visitante, Castelão,4,0,4,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1894,2006,33,2006-11-05,18:10,Santa Cruz,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1902,2006,34,2006-11-08,21:45,Athletico-PR,Visitante,  Kyocera Arena,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1911,2006,35,2006-11-12,16:00,Figueirense,Visitante, Orlando Scarpelli,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1919,2006,36,2006-11-18,18:10,Fluminense,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1927,2006,37,2006-11-26,16:00,Botafogo-RJ,Visitante, Maracanã,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1944,2006,38,2006-12-03,16:00,Juventude,Mandante, Pacaembu,5,3,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1954,2007,1,2007-05-13,18:10,Juventude,Mandante, Morumbi,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1960,2007,2,2007-05-20,16:00,Cruzeiro,Visitante, Mineirão,3,0,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+1968,2007,3,2007-05-26,18:10,Atletico-MG,Mandante, Morumbi,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1980,2007,4,2007-06-03,16:00,Santos,Visitante, Vila Belmiro,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+1992,2007,5,2007-06-10,16:00,America-RN,Visitante,Machadão,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2009,2007,6,2007-06-16,18:10,Parana,Mandante, Morumbi,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2035,2007,8,2007-06-30,18:10,Palmeiras,Mandante, Morumbi,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2044,2007,9,2007-07-04,16:00,Sport,Visitante,Ilha do Retiro,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2049,2007,10,2007-07-07,16:00,Fluminense,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2075,2007,11,2007-07-14,20:30,Sao Paulo,Mandante, Morumbi,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2001,2007,12,2007-07-18,21:45,Internacional,Visitante, Beira Rio,0,3,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2080,2007,13,2007-07-22,16:00,Nautico,Mandante, Morumbi,0,3,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2092,2007,14,2007-07-25,21:45,Figueirense,Visitante, Orlando Scarpelli,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2100,2007,15,2007-07-29,16:00,Flamengo,Mandante, Morumbi,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2112,2007,16,2007-08-01,21:45,Athletico-PR,Visitante,  Kyocera Arena,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2119,2007,17,2007-08-04,18:10,Goias,Mandante, Morumbi,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2133,2007,18,2007-08-09,20:30,Vasco,Visitante, São Januário,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2140,2007,19,2007-08-12,16:00,Gremio,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2025,2007,7,2007-08-15,21:45,Botafogo-RJ,Visitante, Maracanã,3,2,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2152,2007,20,2007-08-19,16:00,Juventude,Visitante, Alfredo Jaconi,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2157,2007,21,2007-08-25,18:10,Cruzeiro,Mandante, Pacaembu,0,3,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2172,2007,22,2007-08-29,21:45,Atletico-MG,Visitante, Mineirão,2,5,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2180,2007,23,2007-09-02,16:00,Santos,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2187,2007,24,2007-09-05,19:30,America-RN,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2202,2007,25,2007-09-09,19:00,Parana,Visitante,  Durival de Brito,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2210,2007,26,2007-09-16,16:00,Botafogo-RJ,Mandante, Pacaembu,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2222,2007,27,2007-09-23,16:00,Palmeiras,Visitante, Morumbi,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2228,2007,28,2007-09-29,18:10,Sport,Mandante, Pacaembu,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2063,2007,29,2007-10-03,21:45,Fluminense,Visitante, Maracanã,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2240,2007,30,2007-10-07,16:00,Sao Paulo,Visitante, Morumbi,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2250,2007,31,2007-10-13,16:00,Internacional,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2260,2007,32,2007-10-21,16:00,Nautico,Visitante,Aflitos,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2273,2007,33,2007-10-28,17:00,Figueirense,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2282,2007,34,2007-10-31,21:45,Flamengo,Visitante, Maracanã,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2292,2007,35,2007-11-04,17:00,Athletico-PR,Mandante, Pacaembu,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2300,2007,36,2007-11-11,16:00,Goias,Visitante, Serra Dourada,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2316,2007,37,2007-11-28,21:45,Vasco,Mandante, Pacaembu,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2322,2007,38,2007-12-02,16:00,Gremio,Visitante, Olímpico,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2710,2009,1,2009-05-10,16:00,Internacional,Mandante, Pacaembu,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2724,2009,2,2009-05-17,18:30,Botafogo-RJ,Visitante,Engenhão,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2727,2009,3,2009-05-23,18:30,Barueri,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2741,2009,4,2009-05-31,16:00,Santos,Visitante, Vila Belmiro,1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2760,2009,6,2009-05-31,16:00,Goias,Visitante, Serra Dourada,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2749,2009,5,2009-06-06,21:00,Coritiba,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2773,2009,7,2009-06-21,18:30,Sao Paulo,Mandante, Pacaembu,3,1,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2777,2009,8,2009-06-27,16:10,Athletico-PR,Visitante, Arena da Baixada,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2796,2009,9,2009-07-08,21:50,Fluminense,Mandante, Pacaembu,4,2,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2802,2009,10,2009-07-12,16:00,Gremio,Visitante, Olímpico,0,3,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2814,2009,11,2009-07-16,21:00,Sport,Mandante, Pacaembu,4,3,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2823,2009,12,2009-07-19,16:00,Cruzeiro,Visitante, Mineirão,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2836,2009,13,2009-07-23,21:00,Vitoria,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2841,2009,14,2009-07-26,16:00,Palmeiras,Mandante,Eduardo José Farah,0,3,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2852,2009,15,2009-07-29,21:50,Santo Andre,Visitante,Teixeirão,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2860,2009,16,2009-08-02,16:00,Avai,Mandante, Pacaembu,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2870,2009,17,2009-08-05,21:50,Nautico,Visitante,Aflitos,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2880,2009,18,2009-08-09,16:00,Flamengo,Visitante, Maracanã,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2892,2009,19,2009-08-16,16:00,Atletico-MG,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2903,2009,20,2009-08-19,21:50,Internacional,Visitante, Beira Rio,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2910,2009,21,2009-08-23,16:00,Botafogo-RJ,Mandante, Pacaembu,3,3,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2917,2009,22,2009-08-26,21:50,Barueri,Visitante,Arena Barueri,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2927,2009,23,2009-09-02,21:50,Santos,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+2946,2009,24,2009-09-16,21:50,Coritiba,Visitante, Couto Pereira,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2955,2009,25,2009-09-20,18:30,Goias,Mandante, Pacaembu,1,4,-3,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2960,2009,26,2009-09-27,16:00,Sao Paulo,Visitante, Morumbi,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2969,2009,27,2009-10-03,18:30,Athletico-PR,Mandante, Pacaembu,1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+2982,2009,28,2009-10-07,21:50,Fluminense,Visitante, Maracanã,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+2987,2009,29,2009-10-10,16:10,Gremio,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3000,2009,30,2009-10-18,16:00,Sport,Visitante,Ilha do Retiro,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3014,2009,31,2009-10-25,18:30,Cruzeiro,Mandante, Pacaembu,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3021,2009,32,2009-10-28,21:50,Vitoria,Visitante, Barradão,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3030,2009,33,2009-11-01,16:00,Palmeiras,Visitante,Eduardo José Farah,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3043,2009,34,2009-11-08,16:00,Santo Andre,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3052,2009,35,2009-11-15,17:00,Avai,Visitante,  Ressacada,1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3058,2009,36,2009-11-21,19:30,Nautico,Mandante, Pacaembu,2,3,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3068,2009,37,2009-11-29,17:00,Flamengo,Mandante, Brinco de Ouro,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3077,2009,38,2009-12-05,19:30,Atletico-MG,Visitante, Mineirão,3,0,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3093,2010,1,2010-05-09,16:00,Athletico-PR,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3102,2010,2,2010-05-16,18:30,Gremio,Visitante, Olímpico,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3112,2010,3,2010-05-23,16:00,Fluminense,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3133,2010,5,2010-05-23,16:00,Santos,Mandante, Pacaembu,4,2,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3121,2010,4,2010-05-26,21:50,Gremio Prudente,Visitante,  Prudentão,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3146,2010,6,2010-06-03,21:00,Internacional,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3153,2010,7,2010-06-06,16:00,Botafogo-RJ,Visitante,Engenhão,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3161,2010,8,2010-07-14,21:50,Ceara,Visitante, Castelão,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3171,2010,9,2010-07-18,16:00,Atletico-MG,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3181,2010,10,2010-07-21,21:50,Atletico-GO,Visitante, Serra Dourada,1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3195,2010,11,2010-07-25,18:30,Guarani,Mandante, Pacaembu,3,1,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3200,2010,12,2010-08-01,16:00,Palmeiras,Visitante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3209,2010,13,2010-08-08,16:00,Flamengo,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3224,2010,14,2010-08-15,16:00,Avai,Visitante,  Ressacada,2,3,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3236,2010,15,2010-08-22,18:30,Sao Paulo,Mandante, Pacaembu,3,0,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3242,2010,16,2010-08-25,22:00,Cruzeiro,Visitante,Parque do Sabiá,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3251,2010,17,2010-08-29,16:00,Vitoria,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3268,2010,19,2010-09-04,18:30,Goias,Mandante, Pacaembu,5,1,4,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3283,2010,20,2010-09-08,22:00,Athletico-PR,Visitante, Arena da Baixada,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3288,2010,21,2010-09-11,18:30,Gremio,Mandante, Pacaembu,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3301,2010,22,2010-09-15,22:00,Fluminense,Visitante,Engenhão,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3307,2010,23,2010-09-18,18:00,Gremio Prudente,Mandante, Pacaembu,3,0,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3324,2010,24,2010-09-22,22:00,Santos,Visitante, Vila Belmiro,3,2,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3332,2010,25,2010-09-26,16:00,Internacional,Visitante, Beira Rio,2,3,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3345,2010,26,2010-09-29,22:00,Botafogo-RJ,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3349,2010,27,2010-10-02,16:00,Ceara,Mandante, Pacaembu,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3363,2010,28,2010-10-06,21:50,Atletico-MG,Visitante,Arena do Jacaré,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3371,2010,29,2010-10-10,16:00,Atletico-GO,Mandante, Pacaembu,3,4,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3266,2010,18,2010-10-13,22:00,Vasco,Visitante, São Januário,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3380,2010,30,2010-10-17,16:00,Guarani,Visitante, Brinco de Ouro,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3389,2010,31,2010-10-24,16:00,Palmeiras,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3397,2010,32,2010-10-27,22:00,Flamengo,Visitante,Engenhão,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3413,2010,33,2010-11-03,21:50,Avai,Mandante, Pacaembu,4,0,4,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3420,2010,34,2010-11-07,17:00,Sao Paulo,Visitante, Morumbi,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3428,2010,35,2010-11-13,19:30,Cruzeiro,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3443,2010,36,2010-11-21,17:00,Vitoria,Visitante, Barradão,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3448,2010,37,2010-11-28,17:00,Vasco,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3460,2010,38,2010-12-05,17:00,Goias,Visitante, Serra Dourada,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3472,2011,1,2011-05-22,16:00,Gremio,Visitante, Olímpico,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3481,2011,2,2011-05-29,16:00,Coritiba,Mandante,Fonte Luminosa,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3491,2011,3,2011-06-05,16:00,Flamengo,Visitante,Engenhão,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3502,2011,4,2011-06-12,16:00,Fluminense,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3521,2011,6,2011-06-26,16:00,Sao Paulo,Mandante, Pacaembu,5,0,5,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3531,2011,7,2011-06-29,21:50,Bahia,Visitante,Pituaçu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3540,2011,8,2011-07-06,21:50,Vasco,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3553,2011,9,2011-07-10,16:00,Atletico-GO,Visitante, Serra Dourada,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3557,2011,12,2011-07-14,21:00,Internacional,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3576,2011,10,2011-07-20,21:50,Botafogo-RJ,Visitante, São Januário,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3582,2011,11,2011-07-24,16:00,Cruzeiro,Mandante, Pacaembu,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3593,2011,13,2011-07-31,16:00,Avai,Visitante,  Ressacada,2,3,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3597,2011,14,2011-08-03,19:30,America-MG,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3612,2011,15,2011-08-07,16:00,Athletico-PR,Visitante, Arena da Baixada,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3516,2011,5,2011-08-10,21:50,Santos,Visitante, Vila Belmiro,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3621,2011,16,2011-08-14,16:00,Ceara,Mandante, Pacaembu,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3633,2011,17,2011-08-17,21:50,Atletico-MG,Visitante,  Ipatingão,3,2,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3639,2011,18,2011-08-20,18:00,Figueirense,Mandante, Pacaembu,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3651,2011,19,2011-08-28,16:00,Palmeiras,Visitante,  Prudentão,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3657,2011,20,2011-08-31,18:00,Gremio,Mandante, Pacaembu,3,2,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3672,2011,21,2011-09-04,16:00,Coritiba,Visitante, Couto Pereira,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3686,2011,22,2011-09-08,21:50,Flamengo,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3691,2011,23,2011-09-11,16:00,Fluminense,Visitante,Engenhão,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3701,2011,24,2011-09-18,16:00,Santos,Mandante, Pacaembu,1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3711,2011,25,2011-09-21,21:50,Sao Paulo,Visitante, Morumbi,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3722,2011,26,2011-09-25,16:00,Bahia,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3731,2011,27,2011-10-02,16:00,Vasco,Visitante, São Januário,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3744,2011,28,2011-10-09,18:00,Atletico-GO,Mandante, Pacaembu,3,0,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3752,2011,29,2011-10-12,21:50,Botafogo-RJ,Mandante, Pacaembu,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3761,2011,30,2011-10-16,16:00,Cruzeiro,Visitante,Arena do Jacaré,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3771,2011,31,2011-10-23,16:00,Internacional,Visitante, Beira Rio,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3782,2011,32,2011-10-30,16:00,Avai,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3791,2011,33,2011-11-06,17:00,America-MG,Visitante,Parque do Sabiá,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3803,2011,34,2011-11-13,17:00,Athletico-PR,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3813,2011,35,2011-11-16,21:50,Ceara,Visitante, Presidente Vargas,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3821,2011,36,2011-11-20,17:00,Atletico-MG,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3828,2011,37,2011-11-27,17:00,Figueirense,Visitante, Orlando Scarpelli,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3837,2011,38,2011-12-04,17:00,Palmeiras,Mandante, Pacaembu,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3850,2012,1,2012-05-20,16:00,Fluminense,Mandante, Pacaembu,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3862,2012,2,2012-05-27,16:00,Atletico-MG,Visitante,  Independência,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3875,2012,3,2012-06-07,21:00,Figueirense,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3880,2012,4,2012-06-10,17:00,Gremio,Visitante, Olímpico,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3896,2012,5,2012-06-17,18:30,Ponte Preta,Visitante, Moisés Lucarelli,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3900,2012,6,2012-06-24,16:00,Palmeiras,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3926,2012,8,2012-07-08,18:30,Sport,Visitante,Ilha do Retiro,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3916,2012,7,2012-07-11,19:30,Botafogo-RJ,Mandante, Pacaembu,1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+3927,2012,9,2012-07-14,18:30,Nautico,Mandante, Pacaembu,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3943,2012,10,2012-07-18,21:50,Flamengo,Visitante,Engenhão,3,0,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3949,2012,11,2012-07-21,21:00,Portuguesa,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3961,2012,12,2012-07-25,21:50,Cruzeiro,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+3973,2012,13,2012-07-29,16:00,Bahia,Visitante,Pituaçu,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3980,2012,14,2012-08-05,16:00,Vasco,Visitante, São Januário,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+3990,2012,15,2012-08-08,20:30,Atletico-GO,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4003,2012,16,2012-08-12,16:00,Coritiba,Visitante, Couto Pereira,2,1,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4015,2012,17,2012-08-16,21:00,Internacional,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4020,2012,18,2012-08-19,16:00,Santos,Visitante, Vila Belmiro,2,3,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4032,2012,19,2012-08-26,16:00,Sao Paulo,Mandante, Pacaembu,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4042,2012,20,2012-08-29,22:00,Fluminense,Visitante,Engenhão,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4051,2012,21,2012-09-02,16:00,Atletico-MG,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4062,2012,22,2012-09-05,22:00,Figueirense,Visitante, Orlando Scarpelli,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4069,2012,23,2012-09-08,21:00,Gremio,Mandante, Pacaembu,3,1,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4079,2012,24,2012-09-12,19:30,Ponte Preta,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4090,2012,25,2012-09-16,16:00,Palmeiras,Visitante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4100,2012,26,2012-09-23,16:00,Botafogo-RJ,Visitante,Engenhão,2,2,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4113,2012,27,2012-09-30,16:00,Sport,Mandante, Pacaembu,3,0,3,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4123,2012,28,2012-10-06,16:20,Nautico,Visitante,Aflitos,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4133,2012,29,2012-10-10,22:00,Flamengo,Mandante, Pacaembu,3,2,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4139,2012,30,2012-10-13,21:00,Portuguesa,Visitante,Canindé,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4151,2012,31,2012-10-17,22:00,Cruzeiro,Visitante,  Independência,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4159,2012,32,2012-10-20,18:30,Bahia,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4171,2012,33,2012-10-27,16:20,Vasco,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4183,2012,34,2012-11-04,17:00,Atletico-GO,Visitante,  Boca do Jacaré,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4189,2012,35,2012-11-10,21:00,Coritiba,Mandante, Pacaembu,5,1,4,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4204,2012,36,2012-11-18,19:30,Internacional,Visitante, Beira Rio,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4208,2012,37,2012-11-24,19:30,Santos,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4222,2012,38,2012-12-02,17:00,Sao Paulo,Visitante, Pacaembu,1,3,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4229,2013,1,2013-05-25,21:00,Botafogo-RJ,Mandante, Pacaembu,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4243,2013,2,2013-05-29,22:00,Goias,Visitante, Serra Dourada,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4252,2013,3,2013-06-01,21:00,Ponte Preta,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4265,2013,4,2013-06-05,22:00,Cruzeiro,Visitante,Arena do Jacaré,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4269,2013,5,2013-06-08,18:30,Portuguesa,Mandante, Pacaembu,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4281,2013,6,2013-07-07,16:00,Bahia,Visitante, Fonte Nova,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4291,2013,7,2013-07-14,16:00,Atletico-MG,Mandante, Pacaembu,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4301,2013,8,2013-07-21,16:00,Athletico-PR,Visitante,Vila Capanema,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4311,2013,9,2013-07-28,16:00,Sao Paulo,Mandante, Pacaembu,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4322,2013,10,2013-07-31,21:50,Gremio,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4333,2013,11,2013-08-04,16:00,Criciuma,Visitante, Heriberto Hulse,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4344,2013,12,2013-08-07,21:50,Santos,Visitante, Vila Belmiro,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4350,2013,13,2013-08-11,16:00,Vitoria,Mandante, Pacaembu,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4364,2013,14,2013-08-14,21:50,Fluminense,Visitante, Maracanã,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4373,2013,15,2013-08-18,16:00,Coritiba,Mandante, Pacaembu,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4381,2013,16,2013-08-25,16:00,Vasco,Visitante,  Mané Garrincha,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4394,2013,17,2013-09-01,16:00,Flamengo,Mandante, Pacaembu,4,0,4,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4401,2013,18,2013-09-04,21:50,Internacional,Visitante,Estádio do Vale,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4413,2013,19,2013-09-08,16:00,Nautico,Mandante, Pacaembu,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4421,2013,20,2013-09-11,21:50,Botafogo-RJ,Visitante, Maracanã,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4432,2013,21,2013-09-15,16:00,Goias,Mandante, Pacaembu,1,2,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4442,2013,22,2013-09-18,21:50,Ponte Preta,Visitante, Moisés Lucarelli,0,2,-2,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4453,2013,23,2013-09-22,16:00,Cruzeiro,Mandante, Pacaembu,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4462,2013,24,2013-09-29,16:00,Portuguesa,Visitante,Morenão,0,4,-4,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4474,2013,25,2013-10-02,21:50,Bahia,Mandante,Romildão,2,0,2,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4479,2013,26,2013-10-06,16:00,Atletico-MG,Visitante,  Independência,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4491,2013,27,2013-10-09,21:50,Athletico-PR,Mandante,Romildão,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4503,2013,28,2013-10-13,16:00,Sao Paulo,Visitante, Morumbi,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4514,2013,29,2013-10-16,21:50,Gremio,Visitante,Arena do Grêmio,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4519,2013,30,2013-10-19,21:00,Criciuma,Mandante,Novelli Júnior,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4530,2013,31,2013-10-27,17:00,Santos,Mandante,Fonte Luminosa,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4543,2013,32,2013-11-03,18:00,Vitoria,Visitante, Barradão,1,1,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4554,2013,33,2013-11-10,20:30,Fluminense,Mandante,Fonte Luminosa,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4561,2013,34,2013-11-13,22:50,Coritiba,Visitante, Couto Pereira,1,0,1,Vitoria,3,,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4569,2013,35,2013-11-17,18:00,Vasco,Mandante, Pacaembu,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4581,2013,36,2013-11-24,18:00,Flamengo,Visitante, Maracanã,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4588,2013,37,2013-11-30,22:00,Internacional,Mandante, Pacaembu,0,0,0,Empate,1,,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4598,2013,38,2013-12-07,20:30,Nautico,Visitante,Arena Pernambuco,0,1,-1,Derrota,0,,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4613,2014,1,2014-04-20,16:02,Atletico-MG,Visitante,Estádio Municipal Parque do Sabiá,0,0,0,Empate,1,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4621,2014,2,2014-04-27,16:02,Flamengo,Mandante,Estádio Municipal Paulo Machado de Carvalho,2,0,2,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4635,2014,3,2014-05-04,18:28,Chapecoense,Visitante,Arena Condá,1,0,1,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4643,2014,4,2014-05-11,16:02,Sao Paulo,Visitante,Arena Barueri,1,1,0,Empate,1,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4650,2014,5,2014-05-18,16:02,Figueirense,Mandante,Neo Química Arena,0,1,-1,Derrota,0,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4661,2014,6,2014-05-21,22:03,Athletico-PR,Mandante,Estádio Dr. Oswaldo Teixeira Duarte,1,1,0,Empate,1,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4671,2014,7,2014-05-25,16:00,Sport,Visitante,Adelmar da Costa Carvalho,4,1,3,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4682,2014,8,2014-05-28,21:59,Cruzeiro,Mandante,Estádio Dr. Oswaldo Teixeira Duarte,1,0,1,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4697,2014,28,2014-06-01,16:03,Botafogo-RJ,Mandante,Neo Química Arena,1,1,0,Empate,1,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4713,2014,10,2014-07-17,19:37,Internacional,Mandante,Neo Química Arena,2,1,1,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4723,2014,11,2014-07-20,16:04,Vitoria,Visitante, Barradão,0,0,0,Empate,1,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4733,2014,12,2014-07-27,15:59,Palmeiras,Mandante,Neo Química Arena,2,0,2,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4742,2014,13,2014-08-03,16:01,Coritiba,Visitante, Couto Pereira,0,0,0,Empate,1,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4751,2014,14,2014-08-10,16:02,Santos,Visitante,Estádio Urbano Caldeira,1,0,1,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4758,2014,15,2014-08-16,20:58,Bahia,Mandante,Neo Química Arena,1,1,0,Empate,1,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4775,2014,16,2014-08-21,19:30,Goias,Mandante,Neo Química Arena,5,2,3,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4780,2014,17,2014-08-24,15:58,Gremio,Visitante,Arena do Grêmio,1,2,-1,Derrota,0,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4789,2014,18,2014-08-31,16:02,Fluminense,Mandante,Neo Química Arena,1,1,0,Empate,1,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4801,2014,19,2014-09-07,15:59,Criciuma,Visitante,Estádio Heriberto Hülse,0,0,0,Empate,1,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4815,2014,20,2014-09-11,19:32,Atletico-MG,Mandante,Neo Química Arena,1,0,1,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4822,2014,21,2014-09-14,15:59,Flamengo,Visitante, Maracanã,0,1,-1,Derrota,0,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4834,2014,22,2014-09-18,19:27,Chapecoense,Mandante,Neo Química Arena,1,1,0,Empate,1,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4842,2014,23,2014-09-21,16:00,Sao Paulo,Mandante,Neo Química Arena,3,2,1,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4852,2014,24,2014-09-24,22:00,Figueirense,Visitante, Orlando Scarpelli,0,1,-1,Derrota,0,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4861,2014,25,2014-09-28,16:00,Athletico-PR,Visitante,Estádio Joaquim Américo Guimarães,0,1,-1,Derrota,0,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4873,2014,26,2014-10-04,18:31,Sport,Mandante,Neo Química Arena,3,0,3,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4881,2014,27,2014-10-08,22:00,Cruzeiro,Visitante, Mineirão,1,0,1,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4696,2014,9,2014-10-11,18:33,Botafogo-RJ,Visitante,Arena da Amazônia,0,1,-1,Derrota,0,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4893,2014,29,2014-10-19,16:01,Internacional,Visitante,Estádio José Pinheiro Borda,2,1,1,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4898,2014,30,2014-10-22,19:30,Vitoria,Mandante,Arena Pantanal,2,1,1,Vitoria,3,L. Venker de Menezes,4-2-3-1,,11,0,46.0,,399,18,1,0,0,7,True,100.0,0.0,18.181818181818183,
+4908,2014,31,2014-10-25,16:21,Palmeiras,Visitante,Estádio Municipal Paulo Machado de Carvalho,1,1,0,Empate,1,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4919,2014,32,2014-11-01,20:59,Coritiba,Mandante,Neo Química Arena,2,2,0,Empate,1,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+4934,2014,33,2014-11-09,19:30,Santos,Mandante,Neo Química Arena,1,0,1,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4949,2014,34,2014-11-16,17:03,Bahia,Visitante,Itaipava Arena Fonte Nova,2,1,1,Vitoria,3,L. Venker de Menezes,4-2-3-1,,13,0,49.0,,447,20,2,0,0,3,True,100.0,0.0,15.384615384615385,
+4940,2014,35,2014-11-19,21:00,Goias,Visitante, Mangueirão,1,0,1,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4964,2014,36,2014-11-23,19:31,Gremio,Mandante,Neo Química Arena,1,0,1,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4972,2014,37,2014-11-30,16:59,Fluminense,Visitante, Maracanã,2,5,-3,Derrota,0,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+4977,2014,38,2014-12-06,16:33,Criciuma,Mandante,Neo Química Arena,2,1,1,Vitoria,3,L. Venker de Menezes,,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+4993,2015,1,2015-05-10,15:59,Cruzeiro,Visitante,Arena Pantanal,1,0,1,Vitoria,3,A. Bacchi,4-2-3-1,,11,0,44.0,,391,15,1,0,2,4,True,100.0,0.0,9.090909090909092,
+4999,2015,2,2015-05-16,21:02,Chapecoense,Mandante,Estádio Doutor Adhemar de Barros,1,0,1,Vitoria,3,A. Bacchi,4-2-3-1,,13,0,46.0,,437,16,2,0,1,7,True,100.0,0.0,7.6923076923076925,
+5013,2015,3,2015-05-24,16:00,Fluminense,Visitante, Maracanã,0,0,0,Empate,1,A. Bacchi,4-2-3-1,,7,2,58.0,,500,6,2,0,3,6,True,33.33333333333333,28.57142857142857,0.0,0.0
+5023,2015,4,2015-05-31,16:03,Palmeiras,Mandante,Neo Química Arena,0,2,-2,Derrota,0,A. Bacchi,4-2-3-1,,9,0,54.0,,477,21,5,0,4,2,True,0.0,0.0,0.0,
+5033,2015,5,2015-06-03,21:59,Gremio,Visitante,Arena do Grêmio,1,3,-2,Derrota,0,A. Bacchi,4-2-3-1,,20,0,62.0,,627,10,3,0,0,5,True,0.0,0.0,5.0,
+5041,2015,6,2015-06-06,21:58,Joinville,Visitante,Arena Joinville,1,0,1,Vitoria,3,A. Bacchi,4-2-3-1,,13,0,49.0,,430,9,1,0,0,5,True,100.0,0.0,7.6923076923076925,
+5050,2015,7,2015-06-13,16:30,Internacional,Mandante,Neo Química Arena,2,1,1,Vitoria,3,A. Bacchi,4-2-3-1,,13,0,48.0,,392,10,0,0,4,4,True,100.0,0.0,15.384615384615385,
+5060,2015,8,2015-06-20,16:33,Santos,Visitante,Estádio Urbano Caldeira,0,1,-1,Derrota,0,A. Bacchi,4-2-3-1,,10,0,59.0,,502,17,3,1,1,7,True,0.0,0.0,0.0,
+5069,2015,9,2015-06-27,21:00,Figueirense,Mandante,Neo Química Arena,2,1,1,Vitoria,3,A. Bacchi,4-1-4-1,,13,0,52.0,,473,10,0,0,1,7,True,100.0,0.0,15.384615384615385,
+5084,2015,10,2015-07-02,19:33,Ponte Preta,Mandante,Neo Química Arena,2,0,2,Vitoria,3,A. Bacchi,4-2-3-1,,17,0,46.0,,468,5,1,0,0,5,True,100.0,0.0,11.76470588235294,
+5091,2015,11,2015-07-05,15:59,Goias,Visitante,Estádio do Governo do Estado de Goiás (Serra Dourada),0,0,0,Empate,1,A. Bacchi,4-2-3-1,,14,0,62.0,,605,12,2,0,1,7,True,33.33333333333333,0.0,0.0,
+5105,2015,12,2015-07-09,19:29,Athletico-PR,Mandante,Neo Química Arena,2,0,2,Vitoria,3,A. Bacchi,4-2-3-1,,8,0,47.0,,453,6,1,0,1,3,True,100.0,0.0,25.0,
+5112,2015,13,2015-07-12,16:00,Flamengo,Visitante, Maracanã,3,0,3,Vitoria,3,A. Bacchi,4-2-3-1,,8,0,40.0,,394,15,2,0,1,1,True,100.0,0.0,37.5,
+5119,2015,14,2015-07-18,21:05,Atletico-MG,Mandante,Neo Química Arena,1,0,1,Vitoria,3,A. Bacchi,4-2-3-1,,8,0,44.0,,392,12,1,0,4,2,True,100.0,0.0,12.5,
+5133,2015,15,2015-07-26,16:01,Coritiba,Visitante, Couto Pereira,1,1,0,Empate,1,A. Bacchi,4-2-3-1,,8,0,46.0,,405,18,3,0,0,5,True,33.33333333333333,0.0,12.5,
+5137,2015,16,2015-07-29,21:59,Vasco,Mandante,Neo Química Arena,3,0,3,Vitoria,3,A. Bacchi,4-2-3-1,,20,0,60.0,,552,7,0,0,0,3,True,100.0,0.0,15.0,
+5151,2015,17,2015-08-09,16:03,Sao Paulo,Visitante, Morumbi,1,1,0,Empate,1,A. Bacchi,4-2-3-1,,10,0,41.0,,354,16,1,1,4,5,True,33.33333333333333,0.0,10.0,
+5163,2015,18,2015-08-12,22:00,Sport,Mandante,Neo Química Arena,4,3,1,Vitoria,3,A. Bacchi,4-2-3-1,,15,0,57.0,,491,11,2,0,2,9,True,100.0,0.0,26.666666666666668,
+5171,2015,19,2015-08-16,16:03,Avai,Visitante,  Ressacada,2,1,1,Vitoria,3,A. Bacchi,4-1-4-1,,10,0,64.0,,546,8,1,0,1,0,True,100.0,0.0,20.0,
+5184,2015,20,2015-08-23,16:01,Cruzeiro,Mandante,Neo Química Arena,3,0,3,Vitoria,3,A. Bacchi,4-1-4-1,,16,0,39.0,,387,12,2,0,0,3,True,100.0,0.0,18.75,
+5194,2015,21,2015-08-30,16:01,Chapecoense,Visitante,Arena Condá,3,1,2,Vitoria,3,A. Bacchi,4-1-4-1,,15,0,52.0,,429,11,3,0,1,5,True,100.0,0.0,20.0,
+5203,2015,22,2015-09-02,22:00,Fluminense,Mandante,Neo Química Arena,2,0,2,Vitoria,3,A. Bacchi,4-2-3-1,,14,8,60.0,,520,12,0,0,0,8,True,100.0,57.14285714285714,14.285714285714285,25.0
+5213,2015,23,2015-09-06,15:59,Palmeiras,Visitante,Allianz Parque,3,3,0,Empate,1,A. Bacchi,4-1-4-1,,7,0,51.0,,351,14,3,0,2,1,True,33.33333333333333,0.0,42.857142857142854,
+5223,2015,24,2015-09-09,22:00,Gremio,Mandante,Neo Química Arena,1,1,0,Empate,1,A. Bacchi,4-1-4-1,,14,0,56.0,,604,7,0,0,0,4,True,33.33333333333333,0.0,7.142857142857142,
+5230,2015,25,2015-09-13,11:00,Joinville,Mandante,Neo Química Arena,3,0,3,Vitoria,3,A. Bacchi,4-1-4-1,,13,0,69.0,,595,10,0,0,2,8,True,100.0,0.0,23.076923076923077,
+5243,2015,26,2015-09-16,21:59,Internacional,Visitante,Estádio José Pinheiro Borda,1,2,-1,Derrota,0,A. Bacchi,4-1-4-1,,14,0,56.0,,425,12,1,0,1,6,True,0.0,0.0,7.142857142857142,
+5251,2015,27,2015-09-20,11:04,Santos,Mandante,Neo Química Arena,2,0,2,Vitoria,3,A. Bacchi,4-1-4-1,,14,0,57.0,,464,8,2,0,2,9,True,100.0,0.0,14.285714285714285,
+5263,2015,28,2015-09-27,16:00,Figueirense,Visitante, Orlando Scarpelli,3,1,2,Vitoria,3,A. Bacchi,4-1-4-1,,14,0,47.0,,367,14,3,0,0,4,True,100.0,0.0,21.428571428571427,
+5275,2015,29,2015-10-04,16:02,Ponte Preta,Visitante, Moisés Lucarelli,2,2,0,Empate,1,A. Bacchi,4-1-4-1,,13,0,58.0,,445,15,4,0,1,7,True,33.33333333333333,0.0,15.384615384615385,
+5285,2015,30,2015-10-15,19:30,Goias,Mandante,Neo Química Arena,3,0,3,Vitoria,3,A. Bacchi,4-1-4-1,,17,0,63.0,,620,9,1,0,3,6,True,100.0,0.0,17.647058823529413,
+5291,2015,31,2015-10-18,16:00,Athletico-PR,Visitante,Estádio Joaquim Américo Guimarães,4,1,3,Vitoria,3,A. Bacchi,4-2-3-1,,12,0,44.0,,389,12,1,0,1,5,True,100.0,0.0,33.33333333333333,
+5301,2015,32,2015-10-25,17:01,Flamengo,Mandante,Neo Química Arena,1,0,1,Vitoria,3,A. Bacchi,4-1-4-1,,8,0,56.0,,509,19,3,0,1,1,True,100.0,0.0,12.5,
+5314,2015,33,2015-11-01,17:00,Atletico-MG,Visitante,Estádio Raimundo Sampaio,3,0,3,Vitoria,3,A. Bacchi,4-1-4-1,,9,0,41.0,,363,15,0,0,1,2,True,100.0,0.0,33.33333333333333,
+5318,2015,34,2015-11-07,19:29,Coritiba,Mandante,Neo Química Arena,2,1,1,Vitoria,3,A. Bacchi,4-1-4-1,,10,0,67.0,,698,5,0,0,1,6,True,100.0,0.0,20.0,
+5336,2015,35,2015-11-19,22:01,Vasco,Visitante,Estádio Vasco da Gama,1,1,0,Empate,1,A. Bacchi,4-1-4-1,,14,0,60.0,,442,15,3,0,0,6,True,33.33333333333333,0.0,7.142857142857142,
+5342,2015,36,2015-11-22,17:00,Sao Paulo,Mandante,Neo Química Arena,6,1,5,Vitoria,3,A. Bacchi,4-1-4-1,,13,0,51.0,,459,10,2,0,0,3,True,100.0,0.0,46.15384615384615,
+5350,2015,37,2015-11-29,17:01,Sport,Visitante,Arena de Pernambuco,0,2,-2,Derrota,0,A. Bacchi,4-2-3-1,,8,0,55.0,,484,17,3,0,2,4,True,0.0,0.0,0.0,
+5363,2015,38,2015-12-06,17:02,Avai,Mandante,Neo Química Arena,1,1,0,Empate,1,A. Bacchi,4-1-4-1,,14,0,78.0,,761,11,2,0,2,4,True,33.33333333333333,0.0,7.142857142857142,
+5374,2016,1,2016-05-15,16:04,Gremio,Mandante,Neo Química Arena,0,0,0,Empate,1,A. Bacchi,4-1-4-1,,15,0,61.0,,579,12,1,0,2,10,True,33.33333333333333,0.0,0.0,
+5382,2016,2,2016-05-22,15:59,Vitoria,Visitante, Barradão,2,3,-1,Derrota,0,A. Bacchi,4-1-4-1,,13,0,66.0,,529,24,4,0,3,5,True,0.0,0.0,15.384615384615385,
+5394,2016,3,2016-05-26,11:01,Ponte Preta,Mandante,Neo Química Arena,3,0,3,Vitoria,3,A. Bacchi,4-2-3-1,,14,0,58.0,,562,23,3,0,0,5,True,100.0,0.0,21.428571428571427,
+5401,2016,4,2016-05-29,11:03,Sport,Visitante,Adelmar da Costa Carvalho,2,0,2,Vitoria,3,A. Bacchi,4-2-3-1,,12,0,44.0,,479,12,1,0,0,1,True,100.0,0.0,16.666666666666664,
+5408,2016,5,2016-06-01,21:02,Santos,Mandante,Neo Química Arena,1,0,1,Vitoria,3,A. Bacchi,4-2-3-1,,14,0,67.0,,648,14,0,0,0,7,True,100.0,0.0,7.142857142857142,
+5419,2016,6,2016-06-04,20:34,Coritiba,Mandante,Neo Química Arena,2,1,1,Vitoria,3,A. Bacchi,4-2-3-1,,20,0,76.0,,718,13,2,0,1,11,True,100.0,0.0,10.0,
+5434,2016,7,2016-06-12,16:01,Palmeiras,Visitante,Allianz Parque,0,1,-1,Derrota,0,A. Bacchi,4-2-3-1,,8,0,49.0,,373,18,4,0,2,2,True,0.0,0.0,0.0,
+5446,2016,8,2016-06-16,19:59,Fluminense,Visitante,Estádio Nacional de Brasília,0,1,-1,Derrota,0,F. Carille,4-2-3-1,,16,0,57.0,,547,7,0,1,1,9,True,0.0,0.0,0.0,
+5452,2016,9,2016-06-19,15:59,Botafogo-RJ,Mandante,Neo Química Arena,3,1,2,Vitoria,3,F. Carille,4-2-3-1,,12,0,61.0,,562,15,2,0,1,4,True,100.0,0.0,25.0,
+5462,2016,10,2016-06-22,21:45,Atletico-MG,Visitante, Mineirão,1,2,-1,Derrota,0,C. Borges dos Santos,4-2-3-1,,10,0,51.0,,479,11,1,0,2,2,True,0.0,0.0,10.0,
+5468,2016,11,2016-06-25,20:59,Santa Cruz,Mandante,Neo Química Arena,2,1,1,Vitoria,3,C. Borges dos Santos,4-2-3-1,,18,0,62.0,,537,14,3,0,2,12,True,100.0,0.0,11.11111111111111,
+5483,2016,12,2016-06-29,21:44,America-MG,Visitante,Estádio Raimundo Sampaio,2,0,2,Vitoria,3,C. Borges dos Santos,4-2-3-1,,8,0,41.0,,381,13,1,0,2,4,True,100.0,0.0,25.0,
+5493,2016,13,2016-07-03,15:59,Flamengo,Mandante,Neo Química Arena,4,0,4,Vitoria,3,C. Borges dos Santos,4-2-3-1,,17,0,49.0,,450,15,2,0,1,6,True,100.0,0.0,23.52941176470588,
+5497,2016,14,2016-07-09,16:31,Chapecoense,Visitante,Arena Condá,2,0,2,Vitoria,3,C. Borges dos Santos,4-2-3-1,,12,0,61.0,,522,13,1,0,3,5,True,100.0,0.0,16.666666666666664,
+5514,2016,15,2016-07-17,16:00,Sao Paulo,Mandante,Neo Química Arena,1,1,0,Empate,1,C. Borges dos Santos,4-2-3-1,,8,0,56.0,,459,11,3,0,0,4,True,33.33333333333333,0.0,12.5,
+5517,2016,16,2016-07-23,16:01,Figueirense,Mandante,Neo Química Arena,1,1,0,Empate,1,C. Borges dos Santos,4-2-3-1,,18,0,69.0,,545,15,2,0,0,7,True,33.33333333333333,0.0,5.555555555555555,
+5533,2016,17,2016-07-31,16:02,Internacional,Visitante,Estádio José Pinheiro Borda,1,0,1,Vitoria,3,C. Borges dos Santos,4-2-3-1,,13,0,45.0,,381,19,2,0,2,8,True,100.0,0.0,7.6923076923076925,
+5540,2016,18,2016-08-03,21:47,Athletico-PR,Visitante,Estádio Joaquim Américo Guimarães,0,2,-2,Derrota,0,C. Borges dos Santos,4-2-2-2,,12,3,56.0,,536,12,0,0,4,6,True,0.0,25.0,0.0,0.0
+5555,2016,19,2016-08-08,21:02,Cruzeiro,Mandante,Estádio Municipal Paulo Machado de Carvalho,1,1,0,Empate,1,C. Borges dos Santos,4-2-2-2,,11,0,54.0,,485,15,4,0,2,6,True,33.33333333333333,0.0,9.090909090909092,
+5560,2016,20,2016-08-14,11:01,Gremio,Visitante,Arena do Grêmio,0,3,-3,Derrota,0,C. Borges dos Santos,4-2-2-2,,26,0,61.0,,509,14,1,0,0,10,True,0.0,0.0,0.0,
+5576,2016,21,2016-08-22,20:02,Vitoria,Mandante,Neo Química Arena,2,1,1,Vitoria,3,C. Borges dos Santos,4-1-4-1,,17,0,56.0,,484,15,2,0,1,8,True,100.0,0.0,11.76470588235294,
+5577,2016,22,2016-08-27,16:03,Ponte Preta,Visitante, Moisés Lucarelli,0,2,-2,Derrota,0,C. Borges dos Santos,4-1-4-1,,2,0,48.0,,458,8,1,1,0,0,True,0.0,0.0,0.0,
+5594,2016,23,2016-09-08,19:32,Sport,Mandante,Neo Química Arena,3,0,3,Vitoria,3,C. Borges dos Santos,4-1-4-1,,9,0,51.0,,447,15,2,0,1,2,True,100.0,0.0,33.33333333333333,
+5603,2016,24,2016-09-11,16:01,Santos,Visitante,Estádio Urbano Caldeira,1,2,-1,Derrota,0,C. Borges dos Santos,4-1-4-1,,11,0,48.0,,384,17,1,0,1,3,True,0.0,0.0,9.090909090909092,
+5611,2016,25,2016-09-14,21:46,Coritiba,Visitante, Couto Pereira,1,1,0,Empate,1,C. Borges dos Santos,4-1-4-1,,13,0,59.0,,526,12,1,0,5,5,True,33.33333333333333,0.0,7.6923076923076925,
+5617,2016,26,2016-09-17,16:02,Palmeiras,Mandante,Neo Química Arena,0,2,-2,Derrota,0,C. Borges dos Santos,4-1-4-1,,12,0,67.0,,635,16,1,1,0,9,True,0.0,0.0,0.0,
+5633,2016,27,2016-09-25,16:00,Fluminense,Mandante,Neo Química Arena,0,1,-1,Derrota,0,F. Carille,4-1-4-1,,21,0,57.0,,498,19,4,0,0,4,True,0.0,0.0,0.0,
+5641,2016,28,2016-10-01,16:30,Botafogo-RJ,Visitante,Luso-Brasileiro,0,2,-2,Derrota,0,F. Carille,4-1-4-1,,6,0,57.0,,495,16,4,0,0,8,True,0.0,0.0,0.0,
+5649,2016,29,2016-10-05,21:00,Atletico-MG,Mandante,Neo Química Arena,0,0,0,Empate,1,F. Carille,4-1-4-1,,19,0,60.0,,446,16,0,0,0,13,True,33.33333333333333,0.0,0.0,
+5659,2016,30,2016-10-12,21:44,Santa Cruz,Visitante,Arena Pantanal,4,2,2,Vitoria,3,F. Carille,4-1-4-1,,10,0,55.0,,518,7,2,0,1,4,True,100.0,0.0,40.0,
+5672,2016,31,2016-10-16,18:31,America-MG,Mandante,Neo Química Arena,2,0,2,Vitoria,3,O. de Oliveira Filho,4-1-4-1,,8,0,61.0,,609,11,2,0,4,4,True,100.0,0.0,25.0,
+5679,2016,32,2016-10-23,17:00,Flamengo,Visitante, Maracanã,2,2,0,Empate,1,O. de Oliveira Filho,4-1-4-1,,10,0,36.0,,278,19,3,1,1,2,True,33.33333333333333,0.0,20.0,
+5691,2016,33,2016-10-29,16:31,Chapecoense,Mandante,Neo Química Arena,1,1,0,Empate,1,O. de Oliveira Filho,4-1-4-1,,11,0,56.0,,488,11,1,0,1,7,True,33.33333333333333,0.0,9.090909090909092,
+5698,2016,34,2016-11-05,19:31,Sao Paulo,Visitante, Morumbi,0,4,-4,Derrota,0,O. de Oliveira Filho,4-1-4-1,,5,0,58.0,,508,19,4,0,0,4,True,0.0,0.0,0.0,
+5712,2016,35,2016-11-16,21:45,Figueirense,Visitante, Orlando Scarpelli,1,1,0,Empate,1,O. de Oliveira Filho,4-1-4-1,,12,0,52.0,,355,15,2,1,1,3,True,33.33333333333333,0.0,8.333333333333332,
+5726,2016,36,2016-11-21,20:00,Internacional,Mandante,Neo Química Arena,1,0,1,Vitoria,3,O. de Oliveira Filho,4-1-4-1,,16,0,59.0,,481,22,2,0,1,10,True,100.0,0.0,6.25,
+5729,2016,37,2016-11-26,20:59,Athletico-PR,Mandante,Neo Química Arena,0,0,0,Empate,1,O. de Oliveira Filho,4-1-4-1,,22,0,57.0,,470,6,3,0,2,12,True,33.33333333333333,0.0,0.0,
+5741,2016,38,2016-12-11,17:01,Cruzeiro,Visitante, Mineirão,2,3,-1,Derrota,0,O. de Oliveira Filho,4-1-4-1,,4,0,54.0,,501,22,4,0,2,5,True,0.0,0.0,50.0,
+5747,2017,1,2017-05-13,19:02,Chapecoense,Mandante,Neo Química Arena,1,1,0,Empate,1,F. Carille,4-1-4-1,,5,2,67.0,,638,10,2,0,1,1,True,33.33333333333333,40.0,20.0,50.0
+5761,2017,2,2017-05-21,16:00,Vitoria,Visitante,Itaipava Arena Fonte Nova,1,0,1,Vitoria,3,F. Carille,4-1-4-1,,12,4,53.0,,473,6,1,0,2,4,True,100.0,33.33333333333333,8.333333333333332,25.0
+5772,2017,3,2017-05-28,16:00,Atletico-GO,Visitante,Estádio do Governo do Estado de Goiás (Serra Dourada),1,0,1,Vitoria,3,F. Carille,4-1-4-1,,15,8,52.0,,430,11,0,0,5,9,True,100.0,53.333333333333336,6.666666666666667,12.5
+5778,2017,4,2017-06-03,19:01,Santos,Mandante,Neo Química Arena,2,0,2,Vitoria,3,F. Carille,4-2-3-1,,19,4,51.0,,442,11,0,0,2,9,True,100.0,21.052631578947366,10.526315789473683,50.0
+5790,2017,5,2017-06-07,21:44,Vasco,Visitante,Estádio Vasco da Gama,5,2,3,Vitoria,3,F. Carille,4-2-3-1,,10,6,42.0,,357,14,3,0,3,1,True,100.0,60.0,50.0,83.33333333333334
+5802,2017,6,2017-06-11,16:00,Sao Paulo,Mandante,Neo Química Arena,3,2,1,Vitoria,3,F. Carille,4-2-3-1,,11,6,56.0,,492,11,1,0,2,3,True,100.0,54.54545454545454,27.27272727272727,50.0
+5813,2017,7,2017-06-14,21:47,Cruzeiro,Mandante,Neo Química Arena,1,0,1,Vitoria,3,F. Carille,4-2-3-1,,7,3,53.0,,533,9,0,0,6,6,True,100.0,42.857142857142854,14.285714285714285,33.33333333333333
+5819,2017,8,2017-06-18,11:03,Coritiba,Visitante, Couto Pereira,0,0,0,Empate,1,F. Carille,4-2-3-1,,5,0,55.0,,434,13,3,0,5,4,True,33.33333333333333,0.0,0.0,
+5832,2017,9,2017-06-22,19:31,Bahia,Mandante,Neo Química Arena,3,0,3,Vitoria,3,F. Carille,4-2-3-1,,16,5,48.0,,434,15,2,1,2,5,True,100.0,31.25,18.75,60.0
+5838,2017,10,2017-06-25,16:00,Gremio,Visitante,Arena do Grêmio,1,0,1,Vitoria,3,F. Carille,4-2-3-1,,5,3,43.0,,448,16,5,0,0,2,True,100.0,60.0,20.0,33.33333333333333
+5852,2017,11,2017-07-02,16:00,Botafogo-RJ,Mandante,Neo Química Arena,1,0,1,Vitoria,3,F. Carille,4-2-3-1,,19,9,67.0,,645,14,3,0,2,10,True,100.0,47.368421052631575,5.263157894736842,11.11111111111111
+5858,2017,12,2017-07-08,19:01,Ponte Preta,Mandante,Neo Química Arena,2,0,2,Vitoria,3,F. Carille,4-2-3-1,,13,8,48.0,,498,17,2,0,1,2,True,100.0,61.53846153846154,15.384615384615385,25.0
+5869,2017,13,2017-07-12,21:46,Palmeiras,Visitante,Allianz Parque,2,0,2,Vitoria,3,F. Carille,4-2-3-1,,3,2,38.0,,332,14,4,0,5,1,True,100.0,66.66666666666666,66.66666666666666,100.0
+5876,2017,14,2017-07-15,19:01,Athletico-PR,Mandante,Neo Química Arena,2,2,0,Empate,1,F. Carille,4-2-3-1,,19,9,63.0,,621,5,0,0,1,8,True,33.33333333333333,47.368421052631575,10.526315789473683,22.22222222222222
+5888,2017,15,2017-07-19,21:01,Avai,Visitante,  Ressacada,0,0,0,Empate,1,F. Carille,4-2-3-1,,22,7,73.0,,704,10,3,0,1,11,True,33.33333333333333,31.818181818181817,0.0,0.0
+5901,2017,16,2017-07-23,16:00,Fluminense,Visitante, Maracanã,1,0,1,Vitoria,3,F. Carille,4-2-3-1,,12,1,45.0,,412,13,2,0,3,6,True,100.0,8.333333333333332,8.333333333333332,100.0
+5911,2017,17,2017-07-30,16:04,Flamengo,Mandante,Neo Química Arena,1,1,0,Empate,1,F. Carille,4-2-3-1,,9,3,40.0,,388,9,0,0,1,2,True,33.33333333333333,33.33333333333333,11.11111111111111,33.33333333333333
+5918,2017,18,2017-08-02,20:59,Atletico-MG,Visitante, Mineirão,2,0,2,Vitoria,3,F. Carille,4-2-3-1,,12,4,42.0,,415,12,1,0,6,4,True,100.0,33.33333333333333,16.666666666666664,50.0
+5926,2017,19,2017-08-05,19:02,Sport,Mandante,Neo Química Arena,3,1,2,Vitoria,3,F. Carille,4-2-3-1,,10,4,44.0,,454,2,1,0,1,3,True,100.0,40.0,30.0,75.0
+5946,2017,21,2017-08-19,16:01,Vitoria,Mandante,Neo Química Arena,0,1,-1,Derrota,0,F. Carille,4-2-3-1,,16,4,73.0,,737,9,1,0,5,9,True,0.0,25.0,0.0,0.0
+5945,2017,20,2017-08-23,19:32,Chapecoense,Visitante,Arena Condá,1,0,1,Vitoria,3,F. Carille,4-2-3-1,,7,2,66.0,,567,7,4,0,2,3,True,100.0,28.57142857142857,14.285714285714285,50.0
+5957,2017,22,2017-08-26,19:00,Atletico-GO,Mandante,Neo Química Arena,0,1,-1,Derrota,0,F. Carille,4-2-3-1,,31,7,68.0,,591,15,1,0,0,11,True,0.0,22.58064516129032,0.0,0.0
+5970,2017,23,2017-09-10,16:02,Santos,Visitante,Estádio Urbano Caldeira,0,2,-2,Derrota,0,F. Carille,4-2-3-1,,14,4,56.0,,463,17,5,0,3,5,True,0.0,28.57142857142857,0.0,0.0
+5980,2017,24,2017-09-17,16:02,Vasco,Mandante,Neo Química Arena,1,0,1,Vitoria,3,F. Carille,4-2-3-1,,16,3,58.0,,558,15,1,0,3,7,True,100.0,18.75,6.25,33.33333333333333
+5988,2017,25,2017-09-24,11:00,Sao Paulo,Visitante, Morumbi,1,1,0,Empate,1,F. Carille,4-2-3-1,,11,2,52.0,,511,12,4,0,2,4,True,33.33333333333333,18.181818181818183,9.090909090909092,50.0
+5999,2017,26,2017-10-01,16:00,Cruzeiro,Visitante, Mineirão,1,1,0,Empate,1,F. Carille,4-2-3-1,,10,5,58.0,,574,14,4,0,3,5,True,33.33333333333333,50.0,10.0,20.0
+6018,2017,27,2017-10-11,21:00,Coritiba,Mandante,Neo Química Arena,3,1,2,Vitoria,3,F. Carille,4-2-3-1,,16,5,58.0,,539,8,1,0,1,10,True,100.0,31.25,18.75,60.0
+6014,2017,28,2017-10-15,19:00,Bahia,Visitante,Itaipava Arena Fonte Nova,0,2,-2,Derrota,0,F. Carille,4-2-3-1,,8,3,53.0,,515,16,2,0,2,4,True,0.0,37.5,0.0,0.0
+6031,2017,29,2017-10-18,21:46,Gremio,Mandante,Neo Química Arena,0,0,0,Empate,1,F. Carille,4-2-3-1,,7,0,55.0,,557,13,1,0,1,2,True,33.33333333333333,0.0,0.0,
+6045,2017,30,2017-10-23,20:00,Botafogo-RJ,Visitante,Estádio Nilton Santos,1,2,-1,Derrota,0,F. Carille,4-2-3-1,,8,3,62.0,,629,14,2,0,0,2,True,0.0,37.5,12.5,33.33333333333333
+6049,2017,31,2017-10-29,17:01,Ponte Preta,Visitante, Moisés Lucarelli,0,1,-1,Derrota,0,F. Carille,4-2-3-1,,19,7,68.0,,567,12,1,0,1,8,True,0.0,36.84210526315789,0.0,0.0
+6060,2017,32,2017-11-05,17:02,Palmeiras,Mandante,Neo Química Arena,3,2,1,Vitoria,3,F. Carille,4-2-3-1,,13,8,39.0,,250,21,6,0,2,6,True,100.0,61.53846153846154,23.076923076923077,37.5
+6069,2017,33,2017-11-08,21:01,Athletico-PR,Visitante,Estádio Joaquim Américo Guimarães,1,0,1,Vitoria,3,F. Carille,4-2-3-1,,7,3,38.0,,347,11,1,0,0,2,True,100.0,42.857142857142854,14.285714285714285,33.33333333333333
+6077,2017,34,2017-11-11,19:00,Avai,Mandante,Neo Química Arena,1,0,1,Vitoria,3,F. Carille,4-2-3-1,,17,5,66.0,,651,15,3,0,0,7,True,100.0,29.411764705882355,5.88235294117647,20.0
+6090,2017,35,2017-11-15,21:45,Fluminense,Mandante,Neo Química Arena,3,1,2,Vitoria,3,F. Carille,4-2-3-1,,14,4,63.0,,503,12,1,0,0,3,True,100.0,28.57142857142857,21.428571428571427,75.0
+6097,2017,36,2017-11-19,17:00,Flamengo,Visitante,Luso-Brasileiro,0,3,-3,Derrota,0,F. Carille,4-2-3-1,,14,6,51.0,,438,16,4,0,0,8,True,0.0,42.857142857142854,0.0,0.0
+6108,2017,37,2017-11-26,17:02,Atletico-MG,Mandante,Neo Química Arena,2,2,0,Empate,1,F. Carille,4-2-3-1,,19,5,58.0,,508,15,4,0,0,7,True,33.33333333333333,26.31578947368421,10.526315789473683,40.0
+6119,2017,38,2017-12-03,17:04,Sport,Visitante,Adelmar da Costa Carvalho,0,1,-1,Derrota,0,F. Carille,4-2-3-1,,9,4,53.0,,504,18,2,0,1,0,True,0.0,44.44444444444444,0.0,0.0
+6132,2018,1,2018-04-15,16:02,Fluminense,Mandante,Neo Química Arena,2,1,1,Vitoria,3,F. Carille,4-2-4-0,,11,2,65.0,84.0,515,14,0,0,0,6,True,100.0,18.181818181818183,18.181818181818183,100.0
+6138,2018,2,2018-04-22,11:00,Parana,Visitante,Vila Capanema,4,0,4,Vitoria,3,F. Carille,4-2-4-0,,9,4,52.0,82.0,467,16,1,0,1,2,True,100.0,44.44444444444444,44.44444444444444,100.0
+6151,2018,3,2018-04-29,16:00,Atletico-MG,Visitante,Estádio Raimundo Sampaio,0,1,-1,Derrota,0,F. Carille,4-2-4-0,,5,1,42.0,80.0,413,15,3,0,0,0,True,0.0,20.0,0.0,0.0
+6158,2018,4,2018-05-06,11:03,Ceara,Mandante,Neo Química Arena,1,1,0,Empate,1,F. Carille,4-2-3-1,,14,4,62.0,89.0,585,12,2,0,2,12,True,33.33333333333333,28.57142857142857,7.142857142857142,25.0
+6170,2018,5,2018-05-13,16:01,Palmeiras,Mandante,Neo Química Arena,1,0,1,Vitoria,3,F. Carille,4-2-4-0,,11,5,53.0,79.0,409,15,2,0,0,10,True,100.0,45.45454545454545,9.090909090909092,20.0
+6183,2018,6,2018-05-20,16:00,Sport,Visitante,Arena de Pernambuco,1,1,0,Empate,1,F. Carille,4-2-3-1,,5,2,56.0,88.0,562,17,3,0,2,5,True,33.33333333333333,40.0,20.0,50.0
+6190,2018,7,2018-05-27,16:00,Internacional,Visitante,Estádio José Pinheiro Borda,1,2,-1,Derrota,0,O. Loss,4-2-3-1,,4,2,45.0,81.0,437,10,1,0,0,2,True,0.0,50.0,25.0,50.0
+6204,2018,8,2018-05-31,18:00,America-MG,Mandante,Neo Química Arena,1,0,1,Vitoria,3,O. Loss,4-2-4-0,,12,3,60.0,88.0,619,14,2,0,2,1,True,100.0,25.0,8.333333333333332,33.33333333333333
+6210,2018,9,2018-06-03,16:00,Flamengo,Visitante, Maracanã,0,1,-1,Derrota,0,O. Loss,4-2-4-0,,15,2,47.0,85.0,417,18,1,0,0,7,True,0.0,13.333333333333334,0.0,0.0
+6219,2018,10,2018-06-06,21:01,Santos,Mandante,Neo Química Arena,1,1,0,Empate,1,O. Loss,4-3-3,,14,4,51.0,87.0,425,12,3,0,2,8,True,33.33333333333333,28.57142857142857,7.142857142857142,25.0
+6229,2018,11,2018-06-09,21:01,Vitoria,Mandante,Neo Química Arena,0,0,0,Empate,1,O. Loss,4-2-3-1,,18,2,64.0,82.0,499,14,2,0,4,10,True,33.33333333333333,11.11111111111111,0.0,0.0
+6243,2018,12,2018-06-13,21:44,Bahia,Visitante,Itaipava Arena Fonte Nova,0,1,-1,Derrota,0,O. Loss,4-2-3-1,,11,2,60.0,84.0,510,11,1,0,2,8,True,0.0,18.181818181818183,0.0,0.0
+6248,2018,13,2018-07-18,21:46,Botafogo-RJ,Mandante,Neo Química Arena,2,0,2,Vitoria,3,O. Loss,4-2-3-1,,8,3,49.0,82.0,424,19,2,0,0,3,True,100.0,37.5,25.0,66.66666666666666
+6257,2018,14,2018-07-21,21:02,Sao Paulo,Visitante, Morumbi,1,3,-2,Derrota,0,O. Loss,4-2-3-1,,12,3,54.0,84.0,377,21,7,0,0,7,True,0.0,25.0,8.333333333333332,33.33333333333333
+6268,2018,15,2018-07-25,21:46,Cruzeiro,Mandante,Neo Química Arena,2,0,2,Vitoria,3,O. Loss,4-2-3-1,,12,4,46.0,84.0,494,9,0,0,1,3,True,100.0,33.33333333333333,16.666666666666664,50.0
+6278,2018,16,2018-07-29,11:00,Vasco,Visitante,Estádio Nacional de Brasília,4,1,3,Vitoria,3,O. Loss,4-2-3-1,,10,5,48.0,83.0,472,11,0,0,4,2,True,100.0,50.0,40.0,80.0
+6288,2018,17,2018-08-04,21:00,Athletico-PR,Mandante,Neo Química Arena,0,0,0,Empate,1,O. Loss,4-2-3-1,,10,4,57.0,86.0,537,8,2,0,1,2,True,33.33333333333333,40.0,0.0,0.0
+6312,2018,18,2018-08-12,16:00,Chapecoense,Visitante,Arena Condá,1,2,-1,Derrota,0,O. Loss,4-2-3-1,,13,5,59.0,82.0,460,20,2,0,1,5,True,0.0,38.46153846153847,7.6923076923076925,20.0
+6317,2018,19,2018-08-18,19:01,Gremio,Mandante,Neo Química Arena,0,1,-1,Derrota,0,O. Loss,4-2-3-1,,9,3,59.0,85.0,649,8,1,0,0,5,True,0.0,33.33333333333333,0.0,0.0
+6301,2018,20,2018-08-22,21:44,Fluminense,Visitante, Maracanã,0,1,-1,Derrota,0,O. Loss,4-2-4-0,,4,1,55.0,82.0,550,8,2,1,0,3,True,0.0,25.0,0.0,0.0
+6327,2018,21,2018-08-25,19:00,Parana,Mandante,Neo Química Arena,1,0,1,Vitoria,3,O. Loss,4-2-3-1,,17,7,62.0,80.0,458,18,3,0,2,8,True,100.0,41.17647058823529,5.88235294117647,14.285714285714285
+6339,2018,22,2018-09-01,21:00,Atletico-MG,Mandante,Neo Química Arena,1,1,0,Empate,1,O. Loss,4-2-3-1,,7,1,56.0,80.0,522,16,1,0,0,6,True,33.33333333333333,14.285714285714285,14.285714285714285,100.0
+6348,2018,23,2018-09-05,20:00,Ceara,Visitante,Arena Castelão,1,2,-1,Derrota,0,O. Loss,4-2-3-1,,11,3,69.0,90.0,611,19,2,0,1,4,True,0.0,27.27272727272727,9.090909090909092,33.33333333333333
+6360,2018,24,2018-09-09,16:00,Palmeiras,Visitante,Allianz Parque,0,1,-1,Derrota,0,J. Ribeiro Ventura,4-2-3-1,,4,0,45.0,71.0,348,16,3,0,0,3,True,0.0,0.0,0.0,
+6374,2018,25,2018-09-16,19:00,Sport,Mandante,Neo Química Arena,2,1,1,Vitoria,3,J. Ribeiro Ventura,4-2-3-1,,14,5,70.0,87.0,634,16,2,0,4,5,True,100.0,35.714285714285715,14.285714285714285,40.0
+6380,2018,26,2018-09-23,16:02,Internacional,Mandante,Neo Química Arena,1,1,0,Empate,1,J. Ribeiro Ventura,4-2-4-0,,9,5,55.0,86.0,580,13,0,0,1,2,True,33.33333333333333,55.55555555555556,11.11111111111111,20.0
+6387,2018,27,2018-09-29,19:00,America-MG,Visitante,Estádio Raimundo Sampaio,0,0,0,Empate,1,J. Ribeiro Ventura,4-2-3-1,,16,7,61.0,91.0,707,4,1,0,3,5,True,33.33333333333333,43.75,0.0,0.0
+6397,2018,28,2018-10-05,21:00,Flamengo,Mandante,Neo Química Arena,0,3,-3,Derrota,0,J. Ribeiro Ventura,4-2-4-0,,11,3,54.0,85.0,504,9,2,0,1,4,True,0.0,27.27272727272727,0.0,0.0
+6407,2018,29,2018-10-13,19:00,Santos,Visitante,Estádio Municipal Paulo Machado de Carvalho,0,1,-1,Derrota,0,J. Ribeiro Ventura,4-2-3-1,,8,2,56.0,82.0,466,19,3,0,1,2,True,0.0,25.0,0.0,0.0
+6420,2018,30,2018-10-21,16:00,Vitoria,Visitante, Barradão,2,2,0,Empate,1,J. Ribeiro Ventura,4-2-3-1,,9,4,57.0,81.0,502,23,4,0,1,5,True,33.33333333333333,44.44444444444444,22.22222222222222,50.0
+6430,2018,31,2018-10-27,19:01,Bahia,Mandante,Neo Química Arena,2,1,1,Vitoria,3,J. Ribeiro Ventura,4-2-3-1,,14,3,55.0,80.0,429,11,3,0,2,5,True,100.0,21.428571428571427,14.285714285714285,66.66666666666666
+6442,2018,32,2018-11-04,16:59,Botafogo-RJ,Visitante,Estádio Nilton Santos,0,1,-1,Derrota,0,J. Ribeiro Ventura,4-2-3-1,,9,5,61.0,79.0,439,19,2,0,1,3,True,0.0,55.55555555555556,0.0,0.0
+6447,2018,33,2018-11-10,17:02,Sao Paulo,Mandante,Neo Química Arena,1,1,0,Empate,1,J. Ribeiro Ventura,4-1-4-1,,15,5,47.0,75.0,346,10,0,1,1,7,True,33.33333333333333,33.33333333333333,6.666666666666667,20.0
+6461,2018,34,2018-11-14,21:45,Cruzeiro,Visitante, Mineirão,0,1,-1,Derrota,0,J. Ribeiro Ventura,4-2-3-1,,14,5,53.0,87.0,513,6,1,1,1,10,True,0.0,35.714285714285715,0.0,0.0
+6466,2018,35,2018-11-17,18:59,Vasco,Mandante,Neo Química Arena,1,0,1,Vitoria,3,J. Ribeiro Ventura,4-2-3-1,,12,2,43.0,71.0,339,22,2,0,3,5,True,100.0,16.666666666666664,8.333333333333332,50.0
+6478,2018,36,2018-11-21,21:45,Athletico-PR,Visitante,Estádio Joaquim Américo Guimarães,0,1,-1,Derrota,0,J. Ribeiro Ventura,4-2-3-1,,10,1,51.0,82.0,444,14,4,0,0,5,True,0.0,10.0,0.0,0.0
+6493,2018,37,2018-11-25,19:01,Chapecoense,Mandante,Neo Química Arena,0,0,0,Empate,1,J. Ribeiro Ventura,4-2-3-1,,12,1,68.0,84.0,581,13,2,0,0,9,True,33.33333333333333,8.333333333333332,0.0,0.0
+6499,2018,38,2018-12-02,17:04,Gremio,Visitante,Arena do Grêmio,0,1,-1,Derrota,0,J. Ribeiro Ventura,4-2-3-1,,3,1,47.0,85.0,507,15,4,0,0,5,True,0.0,33.33333333333333,0.0,0.0
+6511,2019,1,2019-04-28,16:01,Bahia,Visitante,Itaipava Arena Fonte Nova,2,3,-1,Derrota,0,F. Carille,4-1-4-1,,9,3,57.0,78.0,474,5,4,0,0,4,True,0.0,33.33333333333333,22.22222222222222,66.66666666666666
+6518,2019,2,2019-05-01,16:01,Chapecoense,Mandante,Neo Química Arena,1,0,1,Vitoria,3,F. Carille,4-1-4-1,,12,4,52.0,81.0,424,14,2,0,1,7,True,100.0,33.33333333333333,8.333333333333332,25.0
+6526,2019,3,2019-05-04,19:01,Vasco,Visitante,Arena da Amazônia,1,1,0,Empate,1,F. Carille,4-1-4-1,,11,2,54.0,84.0,411,8,1,0,0,2,True,33.33333333333333,18.181818181818183,9.090909090909092,50.0
+6537,2019,4,2019-05-11,19:01,Gremio,Mandante,Neo Química Arena,0,0,0,Empate,1,F. Carille,4-1-4-1,,11,4,48.0,81.0,474,13,2,0,0,3,True,33.33333333333333,36.36363636363637,0.0,0.0
+6551,2019,5,2019-05-19,16:00,Athletico-PR,Visitante,Estádio Joaquim Américo Guimarães,2,0,2,Vitoria,3,F. Carille,4-2-3-1,,4,2,37.0,81.0,362,12,4,0,1,3,True,100.0,50.0,50.0,100.0
+6563,2019,6,2019-05-26,19:01,Sao Paulo,Mandante,Neo Química Arena,1,0,1,Vitoria,3,F. Carille,4-1-4-1,,13,5,40.0,75.0,296,16,3,0,1,3,True,100.0,38.46153846153847,7.6923076923076925,20.0
+6579,2019,8,2019-06-08,19:00,Cruzeiro,Visitante, Mineirão,0,0,0,Empate,1,F. Carille,4-1-4-1,,5,1,55.0,86.0,538,13,1,0,1,5,True,33.33333333333333,20.0,0.0,0.0
+6590,2019,9,2019-06-12,21:31,Santos,Visitante,Estádio Urbano Caldeira,0,1,-1,Derrota,0,F. Carille,4-1-4-1,,2,0,47.0,76.0,413,13,4,0,1,3,True,0.0,0.0,0.0,
+6601,2019,10,2019-07-14,16:03,CSA,Mandante,Neo Química Arena,1,0,1,Vitoria,3,F. Carille,4-1-4-1,,27,8,67.0,88.0,549,2,2,0,1,16,True,100.0,29.629629629629626,3.7037037037037033,12.5
+6613,2019,11,2019-07-21,16:01,Flamengo,Mandante,Neo Química Arena,1,1,0,Empate,1,F. Carille,4-1-4-1,,14,3,44.0,79.0,318,20,1,0,2,4,True,33.33333333333333,21.428571428571427,7.142857142857142,33.33333333333333
+6624,2019,12,2019-07-28,19:00,Fortaleza,Visitante,Arena Castelão,3,1,2,Vitoria,3,F. Carille,4-1-4-1,,14,5,52.0,87.0,450,16,1,0,1,1,True,100.0,35.714285714285715,21.428571428571427,60.0
+6631,2019,13,2019-08-04,19:00,Palmeiras,Mandante,Neo Química Arena,1,1,0,Empate,1,F. Carille,4-1-4-1,,9,7,50.0,79.0,371,11,1,0,1,3,True,33.33333333333333,77.77777777777779,11.11111111111111,14.285714285714285
+6575,2019,7,2019-08-07,19:15,Goias,Mandante,Neo Química Arena,2,0,2,Vitoria,3,F. Carille,4-1-4-1,,19,6,64.0,89.0,575,13,1,0,0,6,True,100.0,31.57894736842105,10.526315789473683,33.33333333333333
+6640,2019,14,2019-08-11,11:00,Internacional,Visitante,Estádio José Pinheiro Borda,0,0,0,Empate,1,F. Carille,4-1-4-1,,8,1,44.0,78.0,447,8,2,0,0,3,True,33.33333333333333,12.5,0.0,0.0
+6646,2019,15,2019-08-17,17:00,Botafogo-RJ,Mandante,Neo Química Arena,2,0,2,Vitoria,3,F. Carille,4-1-4-1,,18,9,43.0,87.0,393,17,2,0,2,7,True,100.0,50.0,11.11111111111111,22.22222222222222
+6662,2019,16,2019-08-25,19:01,Avai,Visitante,  Ressacada,1,1,0,Empate,1,F. Carille,4-1-4-1,,8,4,52.0,78.0,420,15,1,1,2,2,True,33.33333333333333,50.0,12.5,25.0
+6674,2019,17,2019-09-01,19:01,Atletico-MG,Mandante,Neo Química Arena,1,0,1,Vitoria,3,F. Carille,4-1-4-1,,14,5,45.0,86.0,484,9,0,0,0,10,True,100.0,35.714285714285715,7.142857142857142,20.0
+6677,2019,18,2019-09-07,11:01,Ceara,Mandante,Neo Química Arena,2,2,0,Empate,1,F. Carille,4-1-4-1,,13,2,61.0,86.0,508,9,1,0,2,5,True,33.33333333333333,15.384615384615385,15.384615384615385,100.0
+6694,2019,19,2019-09-15,16:00,Fluminense,Visitante,Estádio Nacional de Brasília,0,1,-1,Derrota,0,F. Carille,4-1-4-1,,13,3,51.0,88.0,439,12,1,0,1,6,True,0.0,23.076923076923077,0.0,0.0
+6698,2019,20,2019-09-21,19:03,Bahia,Mandante,Neo Química Arena,2,1,1,Vitoria,3,F. Carille,4-1-4-1,,15,3,49.0,83.0,396,12,2,0,2,4,True,100.0,20.0,13.333333333333334,66.66666666666666
+6717,2019,22,2019-09-29,11:03,Vasco,Mandante,Neo Química Arena,1,0,1,Vitoria,3,F. Carille,4-1-4-1,,10,7,55.0,81.0,455,16,3,0,2,5,True,100.0,70.0,10.0,14.285714285714285
+6715,2019,21,2019-10-02,19:16,Chapecoense,Visitante,Arena Condá,1,0,1,Vitoria,3,F. Carille,4-1-4-1,,12,2,45.0,75.0,336,15,2,0,2,7,True,100.0,16.666666666666664,8.333333333333332,50.0
+6728,2019,23,2019-10-05,19:00,Gremio,Visitante,Arena do Grêmio,0,0,0,Empate,1,F. Carille,4-4-1-1,,13,2,35.0,81.0,338,12,2,0,0,5,True,33.33333333333333,15.384615384615385,0.0,0.0
+6743,2019,24,2019-10-10,15:24,Athletico-PR,Mandante,Neo Química Arena,2,2,0,Empate,1,F. Carille,4-2-3-1,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+6753,2019,25,2019-10-13,18:02,Sao Paulo,Visitante, Morumbi,0,1,-1,Derrota,0,F. Carille,4-1-4-1,,3,2,45.0,85.0,467,10,1,0,0,1,True,0.0,66.66666666666666,0.0,0.0
+6761,2019,26,2019-10-16,21:31,Goias,Visitante,Estádio do Governo do Estado de Goiás (Serra Dourada),2,2,0,Empate,1,F. Carille,4-1-4-1,,17,5,56.0,84.0,411,16,4,0,0,5,True,33.33333333333333,29.411764705882355,11.76470588235294,40.0
+6767,2019,27,2019-10-19,19:01,Cruzeiro,Mandante,Neo Química Arena,1,2,-1,Derrota,0,F. Carille,4-1-4-1,,13,4,55.0,85.0,463,15,3,0,0,4,True,0.0,30.76923076923077,7.6923076923076925,25.0
+6776,2019,28,2019-10-26,17:01,Santos,Mandante,Neo Química Arena,0,0,0,Empate,1,F. Carille,4-1-4-1,,14,5,36.0,72.0,285,20,3,0,0,4,True,33.33333333333333,35.714285714285715,0.0,0.0
+6791,2019,29,2019-10-30,21:32,CSA,Visitante,Estádio Rei Pelé,1,2,-1,Derrota,0,F. Carille,4-1-4-1,,12,2,56.0,85.0,469,10,2,0,2,3,True,0.0,16.666666666666664,8.333333333333332,50.0
+6800,2019,30,2019-11-03,16:00,Flamengo,Visitante, Maracanã,1,4,-3,Derrota,0,F. Carille,4-4-2,,7,4,31.0,72.0,293,10,1,0,2,2,True,0.0,57.14285714285714,14.285714285714285,25.0
+6806,2019,31,2019-11-06,19:30,Fortaleza,Mandante,Neo Química Arena,3,2,1,Vitoria,3,Coelho,4-2-3-1,,15,6,59.0,88.0,559,18,2,0,1,2,True,100.0,40.0,20.0,50.0
+6817,2019,32,2019-11-09,19:00,Palmeiras,Visitante,Estádio Municipal Paulo Machado de Carvalho,1,1,0,Empate,1,Coelho,4-4-1-1,,7,2,54.0,79.0,394,18,1,0,0,2,True,33.33333333333333,28.57142857142857,14.285714285714285,50.0
+6842,2019,33,2019-11-17,18:00,Internacional,Mandante,Neo Química Arena,0,0,0,Empate,1,Coelho,4-4-1-1,,14,3,49.0,77.0,411,9,0,0,2,5,True,33.33333333333333,21.428571428571427,0.0,0.0
+6831,2019,34,2019-11-24,18:00,Botafogo-RJ,Visitante,Estádio Nilton Santos,0,1,-1,Derrota,0,Coelho,4-1-2-1-2,,25,5,72.0,88.0,597,19,2,0,2,8,True,0.0,20.0,0.0,0.0
+6851,2019,35,2019-11-27,21:30,Avai,Mandante,Neo Química Arena,3,0,3,Vitoria,3,Coelho,4-1-4-1,,32,9,65.0,86.0,503,15,0,0,2,7,True,100.0,28.125,9.375,33.33333333333333
+6862,2019,36,2019-12-01,18:00,Atletico-MG,Visitante,Estádio Raimundo Sampaio,1,2,-1,Derrota,0,Coelho,4-1-4-1,,13,4,59.0,81.0,394,8,1,0,3,5,True,0.0,30.76923076923077,7.6923076923076925,25.0
+6867,2019,37,2019-12-04,19:31,Ceara,Visitante,Arena Castelão,1,0,1,Vitoria,3,Coelho,4-1-4-1,,19,3,64.0,86.0,479,14,4,0,0,6,True,100.0,15.789473684210526,5.263157894736842,33.33333333333333
+6876,2019,38,2019-12-08,16:00,Fluminense,Mandante,Neo Química Arena,1,2,-1,Derrota,0,Coelho,4-4-2,,16,3,60.0,83.0,538,21,1,0,0,3,True,0.0,18.75,6.25,33.33333333333333
+6897,2020,2,2020-08-12,19:16,Atletico-MG,Visitante, Mineirão,2,3,-1,Derrota,0,T. Retzalff Nunes,4-2-3-1,,8,5,44.0,74.0,426,11,1,0,1,4,True,0.0,62.5,25.0,40.0
+6906,2020,3,2020-08-15,19:00,Gremio,Visitante,Arena do Grêmio,0,0,0,Empate,1,T. Retzalff Nunes,4-2-3-1,,5,2,53.0,88.0,571,14,3,0,0,5,True,33.33333333333333,40.0,0.0,0.0
+6921,2020,4,2020-08-19,21:30,Coritiba,Mandante,Neo Química Arena,3,1,2,Vitoria,3,T. Retzalff Nunes,4-2-3-1,,23,13,64.0,91.0,591,15,2,0,0,10,True,100.0,56.52173913043478,13.043478260869565,23.076923076923077
+6935,2020,5,2020-08-26,21:30,Fortaleza,Mandante,Neo Química Arena,1,1,0,Empate,1,T. Retzalff Nunes,4-2-3-1,,21,7,60.0,85.0,584,14,0,0,0,5,True,33.33333333333333,33.33333333333333,4.761904761904762,14.285714285714285
+6950,2020,6,2020-08-30,11:00,Sao Paulo,Visitante, Morumbi,1,2,-1,Derrota,0,T. Retzalff Nunes,4-2-3-1,,7,5,46.0,80.0,388,22,0,0,1,4,True,0.0,71.42857142857143,14.285714285714285,20.0
+6958,2020,7,2020-09-02,19:16,Goias,Visitante,Estádio da Serrinha,2,1,1,Vitoria,3,T. Retzalff Nunes,4-2-3-1,,11,4,54.0,87.0,511,12,3,0,0,6,True,100.0,36.36363636363637,18.181818181818183,50.0
+6967,2020,8,2020-09-05,19:00,Botafogo-RJ,Mandante,Neo Química Arena,2,2,0,Empate,1,T. Retzalff Nunes,4-2-3-1,,15,6,61.0,87.0,545,18,3,0,1,12,True,33.33333333333333,40.0,13.333333333333334,33.33333333333333
+6983,2020,9,2020-09-10,19:14,Palmeiras,Mandante,Neo Química Arena,0,2,-2,Derrota,0,T. Retzalff Nunes,4-2-3-1,,10,4,55.0,90.0,517,13,2,2,1,5,True,0.0,40.0,0.0,0.0
+6988,2020,10,2020-09-13,16:00,Fluminense,Visitante, Maracanã,1,2,-1,Derrota,0,Coelho,4-1-4-1,,9,3,52.0,84.0,378,15,4,0,2,8,True,0.0,33.33333333333333,11.11111111111111,33.33333333333333
+6937,2020,11,2020-09-16,21:32,Bahia,Mandante,Neo Química Arena,3,2,1,Vitoria,3,Coelho,4-2-3-1,,11,5,33.0,72.0,277,15,3,0,1,4,True,100.0,45.45454545454545,27.27272727272727,60.0
+6996,2020,12,2020-09-23,21:30,Sport,Visitante,Adelmar da Costa Carvalho,0,1,-1,Derrota,0,Coelho,4-2-3-1,,16,2,53.0,86.0,486,15,4,0,2,8,True,0.0,12.5,0.0,0.0
+6892,2020,1,2020-09-30,21:30,Atletico-GO,Mandante,Neo Química Arena,0,0,0,Empate,1,Coelho,4-4-2,,12,4,54.0,83.0,461,18,2,0,4,4,True,33.33333333333333,33.33333333333333,0.0,0.0
+7008,2020,13,2020-10-03,21:01,Bragantino,Visitante,Nabizão,0,0,0,Empate,1,Coelho,4-2-3-1,,12,4,60.0,86.0,555,13,2,0,1,8,True,33.33333333333333,33.33333333333333,0.0,0.0
+7016,2020,14,2020-10-07,18:59,Santos,Mandante,Neo Química Arena,1,1,0,Empate,1,Coelho,4-4-2,,13,4,62.0,85.0,558,19,2,0,0,6,True,33.33333333333333,30.76923076923077,7.6923076923076925,25.0
+7034,2020,15,2020-10-11,20:29,Ceara,Visitante,Arena Castelão,1,2,-1,Derrota,0,Coelho,4-4-2,,10,3,61.0,80.0,475,10,1,1,1,6,True,0.0,30.0,10.0,33.33333333333333
+7039,2020,16,2020-10-14,21:30,Athletico-PR,Visitante,Estádio Joaquim Américo Guimarães,1,0,1,Vitoria,3,V. Carmo Mancini,4-3-3,,13,6,38.0,77.0,332,14,3,1,1,2,True,100.0,46.15384615384615,7.6923076923076925,16.666666666666664
+7050,2020,17,2020-10-18,16:01,Flamengo,Mandante,Neo Química Arena,1,5,-4,Derrota,0,V. Carmo Mancini,4-2-3-1,,19,7,38.0,76.0,314,14,4,0,1,10,True,0.0,36.84210526315789,5.263157894736842,14.285714285714285
+7056,2020,18,2020-10-21,21:30,Vasco,Visitante,Estádio Vasco da Gama,2,1,1,Vitoria,3,V. Carmo Mancini,4-1-4-1,,12,4,36.0,69.0,313,18,2,0,2,6,True,100.0,33.33333333333333,16.666666666666664,50.0
+7068,2020,19,2020-10-31,19:00,Internacional,Mandante,Neo Química Arena,1,0,1,Vitoria,3,V. Carmo Mancini,4-2-3-1,,8,3,34.0,64.0,314,16,4,0,2,2,True,100.0,37.5,12.5,33.33333333333333
+7078,2020,20,2020-11-07,21:00,Atletico-GO,Visitante,Estádio Olímpico Pedro Ludovico Teixeira,1,1,0,Empate,1,V. Carmo Mancini,4-2-3-1,,6,2,55.0,75.0,421,25,4,0,2,3,True,33.33333333333333,33.33333333333333,16.666666666666664,50.0
+7089,2020,21,2020-11-14,19:01,Atletico-MG,Mandante,Neo Química Arena,1,2,-1,Derrota,0,V. Carmo Mancini,4-4-2,,8,1,33.0,62.0,269,29,3,0,2,6,True,0.0,12.5,12.5,100.0
+7104,2020,22,2020-11-22,20:30,Gremio,Mandante,Neo Química Arena,0,0,0,Empate,1,V. Carmo Mancini,4-2-3-1,,7,1,32.0,74.0,300,12,1,2,3,4,True,33.33333333333333,14.285714285714285,0.0,0.0
+7107,2020,23,2020-11-25,21:31,Coritiba,Visitante, Couto Pereira,1,0,1,Vitoria,3,V. Carmo Mancini,4-2-3-1,,11,2,47.0,78.0,418,25,2,0,2,3,True,100.0,18.181818181818183,9.090909090909092,50.0
+7116,2020,24,2020-12-02,21:30,Fortaleza,Visitante,Arena Castelão,0,0,0,Empate,1,V. Carmo Mancini,4-2-3-1,,9,4,55.0,81.0,412,15,2,1,0,4,True,33.33333333333333,44.44444444444444,0.0,0.0
+7133,2020,25,2020-12-13,18:15,Sao Paulo,Mandante,Neo Química Arena,1,0,1,Vitoria,3,V. Carmo Mancini,4-2-3-1,,14,5,38.0,70.0,313,12,0,0,0,4,True,100.0,35.714285714285715,7.142857142857142,20.0
+7145,2020,26,2020-12-21,20:02,Goias,Mandante,Neo Química Arena,2,1,1,Vitoria,3,V. Carmo Mancini,4-2-3-1,,19,6,64.0,84.0,537,11,1,0,5,12,True,100.0,31.57894736842105,10.526315789473683,33.33333333333333
+7150,2020,27,2020-12-27,16:00,Botafogo-RJ,Visitante,Estádio Nilton Santos,2,0,2,Vitoria,3,V. Carmo Mancini,4-2-3-1,,13,6,54.0,81.0,508,20,1,0,2,7,True,100.0,46.15384615384615,15.384615384615385,33.33333333333333
+7175,2020,29,2021-01-13,21:30,Fluminense,Mandante,Neo Química Arena,5,0,5,Vitoria,3,V. Carmo Mancini,4-2-3-1,,19,8,58.0,85.0,522,17,1,0,1,3,True,100.0,42.10526315789473,26.31578947368421,62.5
+7164,2020,28,2021-01-18,19:00,Palmeiras,Visitante,Allianz Parque,0,4,-4,Derrota,0,V. Carmo Mancini,4-2-3-1,,10,4,43.0,77.0,327,11,3,1,0,7,True,0.0,40.0,0.0,0.0
+7195,2020,31,2021-01-21,21:00,Sport,Mandante,Neo Química Arena,3,0,3,Vitoria,3,V. Carmo Mancini,4-2-3-1,,20,12,62.0,83.0,545,9,1,0,2,6,True,100.0,60.0,15.0,25.0
+7205,2020,32,2021-01-25,20:00,Bragantino,Mandante,Neo Química Arena,0,2,-2,Derrota,0,V. Carmo Mancini,4-2-3-1,,13,5,60.0,77.0,546,16,5,0,2,8,True,0.0,38.46153846153847,0.0,0.0
+7185,2020,30,2021-01-28,18:59,Bahia,Visitante,Itaipava Arena Fonte Nova,1,2,-1,Derrota,0,V. Carmo Mancini,4-2-3-1,,15,5,59.0,77.0,382,19,1,0,1,10,True,0.0,33.33333333333333,6.666666666666667,20.0
+7218,2020,34,2021-02-03,21:30,Ceara,Mandante,Neo Química Arena,2,1,1,Vitoria,3,V. Carmo Mancini,4-2-3-1,,18,7,35.0,73.0,305,18,0,0,2,8,True,100.0,38.88888888888889,11.11111111111111,28.57142857142857
+7234,2020,35,2021-02-10,21:30,Athletico-PR,Mandante,Neo Química Arena,3,3,0,Empate,1,V. Carmo Mancini,4-2-3-1,,17,8,44.0,82.0,420,19,3,0,1,3,True,33.33333333333333,47.05882352941176,17.647058823529413,37.5
+7239,2020,36,2021-02-14,16:00,Flamengo,Visitante, Maracanã,1,2,-1,Derrota,0,V. Carmo Mancini,4-2-3-1,,11,3,34.0,73.0,307,16,5,0,1,3,True,0.0,27.27272727272727,9.090909090909092,33.33333333333333
+7215,2020,33,2021-02-17,18:59,Santos,Visitante,Estádio Urbano Caldeira,0,1,-1,Derrota,0,V. Carmo Mancini,4-2-3-1,,11,4,54.0,81.0,417,25,0,0,2,5,True,0.0,36.36363636363637,0.0,0.0
+7249,2020,37,2021-02-21,16:00,Vasco,Mandante,Neo Química Arena,0,0,0,Empate,1,V. Carmo Mancini,4-2-3-1,,14,4,68.0,85.0,587,23,1,0,1,7,True,33.33333333333333,28.57142857142857,0.0,0.0
+7260,2020,38,2021-02-25,21:31,Internacional,Visitante,Estádio José Pinheiro Borda,0,0,0,Empate,1,V. Carmo Mancini,4-2-3-1,,6,1,47.0,73.0,393,16,2,0,1,5,True,33.33333333333333,16.666666666666664,0.0,0.0
+7272,2020,1,2021-05-30,18:15,Atletico-GO,Mandante,Neo Química Arena,0,1,-1,Derrota,0,S. Campos Junior,4-2-3-1,,15,6,61.0,83.0,518,18,5,0,1,10,True,0.0,40.0,0.0,0.0
+7280,2020,2,2021-06-06,16:00,America-MG,Visitante,Estádio Raimundo Sampaio,1,0,1,Vitoria,3,S. Campos Junior,4-1-4-1,,6,4,44.0,77.0,386,19,3,0,0,4,True,100.0,66.66666666666666,16.666666666666664,25.0
+7287,2020,3,2021-06-12,19:00,Palmeiras,Visitante,Allianz Parque,1,1,0,Empate,1,S. Campos Junior,4-1-4-1,,9,4,48.0,85.0,458,14,0,0,2,4,True,33.33333333333333,44.44444444444444,11.11111111111111,25.0
+7298,2020,4,2021-06-16,20:30,Bragantino,Mandante,Neo Química Arena,1,2,-1,Derrota,0,S. Campos Junior,4-2-3-1,,5,2,42.0,77.0,367,13,2,0,2,9,True,0.0,40.0,20.0,50.0
+7308,2020,5,2021-06-20,15:59,Bahia,Visitante,Estádio de Pituaçu,0,0,0,Empate,1,S. Campos Junior,4-1-4-1,,10,3,48.0,83.0,505,18,3,0,2,8,True,33.33333333333333,30.0,0.0,0.0
+7322,2020,6,2021-06-24,18:59,Sport,Mandante,Neo Química Arena,2,1,1,Vitoria,3,S. Campos Junior,4-3-3,,16,3,51.0,86.0,502,8,0,0,1,4,True,100.0,18.75,12.5,66.66666666666666
+7327,2020,7,2021-06-27,16:00,Fluminense,Visitante,Estádio Vasco da Gama,1,1,0,Empate,1,S. Campos Junior,4-2-3-1,,10,4,54.0,86.0,535,11,1,0,0,5,True,33.33333333333333,40.0,10.0,25.0
+7341,2020,8,2021-06-30,21:30,Sao Paulo,Mandante,Neo Química Arena,0,0,0,Empate,1,S. Campos Junior,4-2-3-1,,10,3,41.0,78.0,388,15,1,0,1,5,True,33.33333333333333,30.0,0.0,0.0
+7348,2020,9,2021-07-03,21:00,Internacional,Mandante,Neo Química Arena,1,1,0,Empate,1,S. Campos Junior,4-2-3-1,,20,9,58.0,82.0,540,11,2,0,0,3,True,33.33333333333333,45.0,5.0,11.11111111111111
+7365,2020,10,2021-07-08,21:00,Chapecoense,Visitante,Arena Condá,1,0,1,Vitoria,3,S. Campos Junior,4-2-3-1,,12,5,58.0,87.0,549,10,0,0,0,8,True,100.0,41.66666666666667,8.333333333333332,20.0
+7375,2020,11,2021-07-11,20:30,Fortaleza,Visitante,Arena Castelão,0,1,-1,Derrota,0,S. Campos Junior,4-2-3-1,,7,1,57.0,88.0,529,14,3,0,1,6,True,0.0,14.285714285714285,0.0,0.0
+7378,2020,12,2021-07-17,19:00,Atletico-MG,Mandante,Neo Química Arena,1,2,-1,Derrota,0,S. Campos Junior,4-3-3,,12,2,37.0,75.0,363,9,0,0,0,2,True,0.0,16.666666666666664,8.333333333333332,50.0
+7395,2020,13,2021-07-26,19:59,Cuiaba,Visitante,Arena Pantanal,2,1,1,Vitoria,3,S. Campos Junior,4-3-3,,4,2,47.0,81.0,467,12,1,0,2,5,True,100.0,50.0,50.0,100.0
+7399,2020,14,2021-08-01,16:00,Flamengo,Mandante,Neo Química Arena,1,3,-2,Derrota,0,S. Campos Junior,4-1-4-1,,9,3,34.0,79.0,389,7,1,0,0,3,True,0.0,33.33333333333333,11.11111111111111,33.33333333333333
+7412,2020,15,2021-08-08,15:59,Santos,Visitante,Estádio Urbano Caldeira,0,0,0,Empate,1,S. Campos Junior,4-1-4-1,,9,5,43.0,84.0,426,9,1,0,1,3,True,33.33333333333333,55.55555555555556,0.0,0.0
+7420,2020,16,2021-08-15,16:00,Ceara,Mandante,Neo Química Arena,3,1,2,Vitoria,3,S. Campos Junior,4-3-3,,7,3,61.0,87.0,631,7,1,0,0,7,True,100.0,42.857142857142854,42.857142857142854,100.0
+7431,2020,17,2021-08-22,15:59,Athletico-PR,Visitante,Estádio Joaquim Américo Guimarães,1,0,1,Vitoria,3,S. Campos Junior,4-2-3-1,,8,2,56.0,86.0,599,7,0,0,1,2,True,100.0,25.0,12.5,50.0
+7438,2020,18,2021-08-28,21:00,Gremio,Visitante,Arena do Grêmio,1,0,1,Vitoria,3,S. Campos Junior,4-5-1,,6,1,56.0,87.0,593,7,2,0,0,4,True,100.0,16.666666666666664,16.666666666666664,100.0
+7449,2020,19,2021-09-07,21:30,Juventude,Mandante,Neo Química Arena,1,1,0,Empate,1,S. Campos Junior,4-5-1,,11,2,59.0,89.0,628,15,3,0,0,2,True,33.33333333333333,18.181818181818183,9.090909090909092,50.0
+7463,2020,20,2021-09-12,18:15,Atletico-GO,Visitante,Estádio Antônio Accioly,1,1,0,Empate,1,S. Campos Junior,4-5-1,,8,2,48.0,82.0,444,10,2,0,2,5,True,33.33333333333333,25.0,12.5,50.0
+7473,2020,21,2021-09-19,18:15,America-MG,Mandante,Neo Química Arena,1,1,0,Empate,1,S. Campos Junior,4-3-3,,15,8,65.0,86.0,656,8,1,1,1,5,True,33.33333333333333,53.333333333333336,6.666666666666667,12.5
+7477,2020,22,2021-09-25,19:00,Palmeiras,Mandante,Neo Química Arena,2,1,1,Vitoria,3,S. Campos Junior,4-3-3,,8,3,49.0,84.0,423,8,1,0,2,5,True,100.0,37.5,25.0,66.66666666666666
+7488,2020,23,2021-10-02,19:00,Bragantino,Visitante,Nabizão,2,2,0,Empate,1,S. Campos Junior,4-1-4-1,,11,7,62.0,90.0,595,6,0,0,1,8,True,33.33333333333333,63.63636363636363,18.181818181818183,28.57142857142857
+7496,2020,24,2021-10-05,21:30,Bahia,Mandante,Neo Química Arena,3,1,2,Vitoria,3,S. Campos Junior,4-1-4-1,,21,11,72.0,89.0,731,14,0,0,0,7,True,100.0,52.38095238095239,14.285714285714285,27.27272727272727
+7508,2020,25,2021-10-09,16:30,Sport,Visitante,Arena de Pernambuco,0,1,-1,Derrota,0,S. Campos Junior,4-1-4-1,,9,3,67.0,90.0,707,7,0,0,1,4,True,0.0,33.33333333333333,0.0,0.0
+7522,2020,26,2021-10-13,21:00,Fluminense,Mandante,Neo Química Arena,1,0,1,Vitoria,3,S. Campos Junior,4-1-4-1,,8,1,54.0,90.0,568,4,1,0,1,8,True,100.0,12.5,12.5,100.0
+7535,2020,27,2021-10-18,20:00,Sao Paulo,Visitante, Morumbi,0,1,-1,Derrota,0,S. Campos Junior,4-1-4-1,,10,2,55.0,86.0,500,8,2,0,2,5,True,0.0,20.0,0.0,0.0
+7540,2020,28,2021-10-24,16:00,Internacional,Visitante,Estádio José Pinheiro Borda,2,2,0,Empate,1,S. Campos Junior,4-3-3,,13,2,51.0,83.0,514,11,3,1,1,2,True,33.33333333333333,15.384615384615385,15.384615384615385,100.0
+7565,2021,29,2021-11-01,21:29,Chapecoense,Mandante,Neo Química Arena,1,0,1,Vitoria,3,S. Campos Junior,4-3-3,,18,5,80.0,90.0,746,12,1,0,0,14,True,100.0,27.77777777777778,5.555555555555555,20.0
+7576,2021,30,2021-11-06,17:00,Fortaleza,Mandante,Neo Química Arena,1,0,1,Vitoria,3,S. Campos Junior,4-2-3-1,,14,6,59.0,86.0,501,18,3,0,0,8,True,100.0,42.857142857142854,7.142857142857142,16.666666666666664
+7569,2021,31,2021-11-10,19:01,Atletico-MG,Visitante, Mineirão,0,3,-3,Derrota,0,S. Campos Junior,4-1-4-1,,7,0,54.0,88.0,493,4,2,0,1,5,True,0.0,0.0,0.0,
+7590,2021,32,2021-11-13,21:00,Cuiaba,Mandante,Neo Química Arena,3,2,1,Vitoria,3,S. Campos Junior,4-5-1,,12,4,55.0,88.0,536,15,1,0,1,4,True,100.0,33.33333333333333,25.0,75.0
+7604,2021,33,2021-11-17,21:30,Flamengo,Visitante, Maracanã,0,1,-1,Derrota,0,S. Campos Junior,4-3-3,,6,1,43.0,73.0,390,8,2,0,0,1,True,0.0,16.666666666666664,0.0,0.0
+7552,2021,34,2021-11-21,16:01,Santos,Mandante,Neo Química Arena,2,0,2,Vitoria,3,S. Campos Junior,4-3-3,,23,11,65.0,90.0,640,6,1,0,0,11,True,100.0,47.82608695652174,8.695652173913043,18.181818181818183
+7609,2021,35,2021-11-25,20:03,Ceara,Visitante,Arena Castelão,1,2,-1,Derrota,0,S. Campos Junior,4-2-3-1,,15,6,63.0,86.0,565,13,4,0,0,5,True,0.0,40.0,6.666666666666667,16.666666666666664
+7619,2021,36,2021-11-28,16:01,Athletico-PR,Mandante,Neo Química Arena,1,0,1,Vitoria,3,S. Campos Junior,4-3-3,,16,5,66.0,87.0,660,14,5,0,1,10,True,100.0,31.25,6.25,20.0
+7627,2021,37,2021-12-05,16:01,Gremio,Mandante,Neo Química Arena,1,1,0,Empate,1,S. Campos Junior,4-1-4-1,,11,3,72.0,90.0,633,7,1,0,3,2,True,33.33333333333333,27.27272727272727,9.090909090909092,33.33333333333333
+7643,2021,38,2021-12-09,21:33,Juventude,Visitante, Alfredo Jaconi,0,1,-1,Derrota,0,S. Campos Junior,4-3-3,,1,1,56.0,85.0,519,22,2,1,0,4,True,0.0,100.0,0.0,0.0
+7650,2022,1,2022-04-10,16:00,Botafogo-RJ,Visitante,Estádio Nilton Santos,3,1,2,Vitoria,3,V. de Oliveira Lopes Pereira,4-3-3,,15,8,44.0,79.0,382,18,4,0,1,4,True,100.0,53.333333333333336,20.0,37.5
+7658,2022,2,2022-04-16,19:00,Avai,Mandante,Neo Química Arena,3,0,3,Vitoria,3,V. de Oliveira Lopes Pereira,4-2-3-1,,14,4,55.0,86.0,597,22,1,0,1,7,True,100.0,28.57142857142857,21.428571428571427,75.0
+7678,2022,3,2022-04-23,19:00,Palmeiras,Visitante,Arena Barueri,0,3,-3,Derrota,0,V. de Oliveira Lopes Pereira,4-3-3,,7,1,56.0,84.0,426,14,2,0,0,3,True,0.0,14.285714285714285,0.0,0.0
+7672,2022,4,2022-05-01,16:00,Fortaleza,Mandante,Neo Química Arena,1,0,1,Vitoria,3,V. de Oliveira Lopes Pereira,4-3-3,,6,3,56.0,80.0,422,14,1,0,1,9,True,100.0,50.0,16.666666666666664,33.33333333333333
+7691,2022,5,2022-05-08,18:00,Bragantino,Visitante,Nabizão,1,0,1,Vitoria,3,V. de Oliveira Lopes Pereira,4-2-3-1,,4,1,42.0,80.0,416,9,2,0,1,1,True,100.0,25.0,25.0,100.0
+7708,2022,6,2022-05-14,19:01,Internacional,Visitante,Estádio José Pinheiro Borda,2,2,0,Empate,1,V. de Oliveira Lopes Pereira,4-3-1-2,,15,9,53.0,86.0,426,7,2,0,3,6,True,33.33333333333333,60.0,13.333333333333334,22.22222222222222
+7703,2022,7,2022-05-22,16:02,Sao Paulo,Mandante,Neo Química Arena,1,1,0,Empate,1,V. de Oliveira Lopes Pereira,3-4-1-2,,13,5,56.0,80.0,513,11,2,0,2,8,True,33.33333333333333,38.46153846153847,7.6923076923076925,20.0
+7722,2022,8,2022-05-29,18:01,America-MG,Mandante,Neo Química Arena,1,1,0,Empate,1,V. de Oliveira Lopes Pereira,4-3-3,,7,4,63.0,81.0,541,13,2,0,0,6,True,33.33333333333333,57.14285714285714,14.285714285714285,25.0
+7730,2022,9,2022-06-04,20:31,Atletico-GO,Visitante,Estádio do Governo do Estado de Goiás (Serra Dourada),1,0,1,Vitoria,3,V. de Oliveira Lopes Pereira,4-2-3-1,,10,1,43.0,83.0,435,11,3,0,0,0,True,100.0,10.0,10.0,100.0
+7736,2022,10,2022-06-07,21:30,Cuiaba,Visitante,Arena Pantanal,0,1,-1,Derrota,0,V. de Oliveira Lopes Pereira,3-4-3,,11,4,61.0,87.0,552,11,2,0,0,3,True,0.0,36.36363636363637,0.0,0.0
+7746,2022,11,2022-06-11,16:31,Juventude,Mandante,Neo Química Arena,2,0,2,Vitoria,3,V. de Oliveira Lopes Pereira,4-2-3-1,,13,3,58.0,86.0,573,15,1,0,3,4,True,100.0,23.076923076923077,15.384615384615385,66.66666666666666
+7761,2022,12,2022-06-15,21:32,Athletico-PR,Visitante,Estádio Joaquim Américo Guimarães,1,1,0,Empate,1,V. de Oliveira Lopes Pereira,4-2-3-1,,11,6,57.0,86.0,522,9,2,1,0,4,True,33.33333333333333,54.54545454545454,9.090909090909092,16.666666666666664
+7770,2022,13,2022-06-19,16:01,Goias,Mandante,Neo Química Arena,1,0,1,Vitoria,3,V. de Oliveira Lopes Pereira,4-2-3-1,,17,3,67.0,85.0,603,7,1,0,3,6,True,100.0,17.647058823529413,5.88235294117647,33.33333333333333
+7779,2022,14,2022-06-25,19:00,Santos,Mandante,Neo Química Arena,0,0,0,Empate,1,V. de Oliveira Lopes Pereira,4-1-4-1,,9,1,62.0,85.0,527,20,3,0,0,3,True,33.33333333333333,11.11111111111111,0.0,0.0
+7787,2022,15,2022-07-02,16:31,Fluminense,Visitante, Maracanã,0,4,-4,Derrota,0,V. de Oliveira Lopes Pereira,3-4-3,,3,2,42.0,82.0,374,12,3,0,0,4,True,0.0,66.66666666666666,0.0,0.0
+7800,2022,16,2022-07-10,16:01,Flamengo,Mandante,Neo Química Arena,1,0,1,Vitoria,3,V. de Oliveira Lopes Pereira,4-2-3-1,,7,2,49.0,81.0,433,7,2,0,3,6,True,100.0,28.57142857142857,14.285714285714285,50.0
+7809,2022,17,2022-07-16,21:00,Ceara,Visitante,Arena Castelão,1,3,-2,Derrota,0,F. J. Monteiro Almeida,4-2-3-1,,11,4,56.0,84.0,542,5,1,0,1,2,True,0.0,36.36363636363637,9.090909090909092,25.0
+7823,2022,18,2022-07-20,21:33,Coritiba,Mandante,Neo Química Arena,3,1,2,Vitoria,3,V. de Oliveira Lopes Pereira,4-2-3-1,,19,6,62.0,89.0,584,16,1,0,1,9,True,100.0,31.57894736842105,15.789473684210526,50.0
+7832,2022,19,2022-07-24,18:01,Atletico-MG,Visitante, Mineirão,2,1,1,Vitoria,3,V. de Oliveira Lopes Pereira,4-2-3-1,,7,3,47.0,79.0,474,12,1,0,0,0,True,100.0,42.857142857142854,28.57142857142857,66.66666666666666
+7838,2022,20,2022-07-30,19:01,Botafogo-RJ,Mandante,Neo Química Arena,1,0,1,Vitoria,3,V. de Oliveira Lopes Pereira,4-2-3-1,,16,4,49.0,78.0,484,6,0,0,1,3,True,100.0,25.0,6.25,25.0
+7848,2022,21,2022-08-06,19:01,Avai,Visitante,  Ressacada,1,1,0,Empate,1,V. de Oliveira Lopes Pereira,4-2-3-1,,14,4,59.0,81.0,522,12,1,0,2,8,True,33.33333333333333,28.57142857142857,7.142857142857142,25.0
+7857,2022,22,2022-08-13,19:02,Palmeiras,Mandante,Neo Química Arena,0,1,-1,Derrota,0,V. de Oliveira Lopes Pereira,4-3-3,,14,4,58.0,81.0,490,15,2,0,1,5,True,0.0,28.57142857142857,0.0,0.0
+7872,2022,23,2022-08-21,18:00,Fortaleza,Visitante,Arena Castelão,0,1,-1,Derrota,0,V. de Oliveira Lopes Pereira,4-2-3-1,,7,1,64.0,81.0,494,7,2,0,0,7,True,0.0,14.285714285714285,0.0,0.0
+7885,2022,24,2022-08-29,21:30,Bragantino,Mandante,Neo Química Arena,1,0,1,Vitoria,3,V. de Oliveira Lopes Pereira,4-3-3,,14,4,47.0,74.0,437,12,1,0,1,5,True,100.0,28.57142857142857,7.142857142857142,25.0
+7891,2022,25,2022-09-04,16:01,Internacional,Mandante,Neo Química Arena,2,2,0,Empate,1,V. de Oliveira Lopes Pereira,4-2-3-1,,12,4,49.0,82.0,493,10,2,0,2,2,True,33.33333333333333,33.33333333333333,16.666666666666664,50.0
+7903,2022,26,2022-09-11,16:03,Sao Paulo,Visitante, Morumbi,1,1,0,Empate,1,V. de Oliveira Lopes Pereira,4-1-4-1,,18,7,57.0,80.0,473,14,1,0,3,7,True,33.33333333333333,38.88888888888889,5.555555555555555,14.285714285714285
+7911,2022,27,2022-09-18,18:00,America-MG,Visitante,Estádio Raimundo Sampaio,0,1,-1,Derrota,0,V. de Oliveira Lopes Pereira,4-1-4-1,,11,3,55.0,81.0,462,12,3,0,1,8,True,0.0,27.27272727272727,0.0,0.0
+7919,2022,28,2022-09-28,19:00,Atletico-GO,Mandante,Neo Química Arena,2,1,1,Vitoria,3,V. de Oliveira Lopes Pereira,4-2-3-1,,19,8,65.0,87.0,611,5,0,0,1,5,True,100.0,42.10526315789473,10.526315789473683,25.0
+7933,2022,29,2022-10-01,21:01,Cuiaba,Mandante,Neo Química Arena,2,0,2,Vitoria,3,V. de Oliveira Lopes Pereira,4-1-4-1,,15,6,60.0,86.0,650,11,1,0,1,7,True,100.0,40.0,13.333333333333334,33.33333333333333
+7936,2022,30,2022-10-04,21:31,Juventude,Visitante, Alfredo Jaconi,2,2,0,Empate,1,V. de Oliveira Lopes Pereira,4-1-4-1,,12,6,66.0,87.0,650,7,2,0,1,5,True,33.33333333333333,50.0,16.666666666666664,33.33333333333333
+7947,2022,31,2022-10-08,21:02,Athletico-PR,Mandante,Neo Química Arena,2,1,1,Vitoria,3,V. de Oliveira Lopes Pereira,4-1-4-1,,7,3,51.0,78.0,412,10,1,0,4,5,True,100.0,42.857142857142854,28.57142857142857,66.66666666666666
+7968,2022,33,2022-10-22,19:00,Santos,Visitante,Estádio Urbano Caldeira,1,0,1,Vitoria,3,V. de Oliveira Lopes Pereira,4-3-3,,8,2,47.0,82.0,454,11,3,1,0,4,True,100.0,25.0,12.5,50.0
+7979,2022,34,2022-10-26,21:48,Fluminense,Mandante,Neo Química Arena,0,2,-2,Derrota,0,V. de Oliveira Lopes Pereira,4-2-3-1,,14,5,47.0,82.0,429,16,2,0,1,6,True,0.0,35.714285714285715,0.0,0.0
+7965,2022,32,2022-10-29,19:31,Goias,Visitante,Estádio da Serrinha,0,0,0,Empate,1,V. de Oliveira Lopes Pereira,4-3-3,,21,2,72.0,86.0,613,11,3,0,1,4,True,33.33333333333333,9.523809523809524,0.0,0.0
+7995,2022,35,2022-11-02,21:30,Flamengo,Visitante, Maracanã,2,1,1,Vitoria,3,F. J. Monteiro Almeida,4-2-3-1,,7,6,48.0,84.0,518,14,1,0,1,0,True,100.0,85.71428571428571,28.57142857142857,33.33333333333333
+8000,2022,36,2022-11-05,20:33,Ceara,Mandante,Neo Química Arena,1,0,1,Vitoria,3,V. de Oliveira Lopes Pereira,4-2-3-1,,15,2,64.0,85.0,566,10,4,0,4,9,True,100.0,13.333333333333334,6.666666666666667,50.0
+8007,2022,37,2022-11-09,19:02,Coritiba,Visitante, Couto Pereira,2,2,0,Empate,1,V. de Oliveira Lopes Pereira,4-1-4-1,,9,3,48.0,78.0,375,8,5,1,1,7,True,33.33333333333333,33.33333333333333,22.22222222222222,66.66666666666666
+8023,2022,38,2022-11-13,16:03,Atletico-MG,Mandante,Neo Química Arena,0,1,-1,Derrota,0,F. J. Monteiro Almeida,4-1-4-1,,17,4,59.0,84.0,494,11,3,0,1,5,True,0.0,23.52941176470588,0.0,0.0
+8033,2023,1,2023-04-16,16:03,Cruzeiro,Mandante,Neo Química Arena,2,1,1,Vitoria,3,F. Lázaro Rodrigues Alves,4-2-3-1,,12,7,41.0,77.0,405,14,4,0,4,7,True,100.0,58.333333333333336,16.666666666666664,28.57142857142857
+8044,2023,2,2023-04-23,19:00,Goias,Visitante,Estádio Hailé Pinheiro - Serrinha,1,3,-2,Derrota,0,A. Stival,4-2-3-1,,10,2,48.0,80.0,392,23,2,0,1,8,True,0.0,20.0,10.0,50.0
+8048,2023,3,2023-04-29,18:30,Palmeiras,Visitante,Allianz Parque,1,2,-1,Derrota,0,Danilo,4-2-3-1,,10,2,45.0,82.0,437,15,3,0,1,3,True,0.0,20.0,10.0,50.0
+8065,2023,4,2023-05-08,20:00,Fortaleza,Mandante,Neo Química Arena,1,1,0,Empate,1,V. Luxemburgo da Silva,4-2-3-1,,21,8,48.0,85.0,488,6,2,0,3,5,True,33.33333333333333,38.095238095238095,4.761904761904762,12.5
+8074,2023,5,2023-05-11,19:30,Botafogo-RJ,Visitante,Estádio Nilton Santos,0,3,-3,Derrota,0,V. Luxemburgo da Silva,4-1-4-1,,12,4,46.0,87.0,527,5,2,0,0,3,True,0.0,33.33333333333333,0.0,0.0
+8082,2023,6,2023-05-14,16:02,Sao Paulo,Mandante,Neo Química Arena,1,1,0,Empate,1,V. Luxemburgo da Silva,4-1-4-1,,7,3,33.0,80.0,344,16,2,0,0,5,True,33.33333333333333,42.857142857142854,14.285714285714285,33.33333333333333
+8093,2023,7,2023-05-21,16:00,Flamengo,Visitante, Maracanã,0,1,-1,Derrota,0,V. Luxemburgo da Silva,4-4-2,,15,3,35.0,81.0,356,12,2,0,2,9,True,0.0,20.0,0.0,0.0
+8101,2023,8,2023-05-28,16:04,Fluminense,Mandante,Neo Química Arena,2,0,2,Vitoria,3,V. Luxemburgo da Silva,4-4-2,,14,4,30.0,77.0,309,18,4,0,2,7,True,100.0,28.57142857142857,14.285714285714285,50.0
+8109,2023,9,2023-06-03,18:33,America-MG,Visitante,Estádio Raimundo Sampaio,0,2,-2,Derrota,0,V. Luxemburgo da Silva,3-4-2-1,,6,2,71.0,84.0,700,14,0,0,0,3,True,0.0,33.33333333333333,0.0,0.0
+8118,2023,10,2023-06-10,18:32,Cuiaba,Mandante,Neo Química Arena,1,1,0,Empate,1,V. Luxemburgo da Silva,3-4-1-2,,24,7,62.0,88.0,531,11,2,0,1,8,True,33.33333333333333,29.166666666666668,4.166666666666666,14.285714285714285
+8128,2023,11,2023-06-21,20:01,Santos,Visitante,Estádio Urbano Caldeira,2,0,2,Vitoria,3,V. Luxemburgo da Silva,4-1-4-1,,10,4,49.0,82.0,439,14,4,0,1,2,True,100.0,40.0,20.0,50.0
+8136,2023,12,2023-06-24,15:59,Athletico-PR,Visitante,Ligga Arena,0,1,-1,Derrota,0,V. Luxemburgo da Silva,4-1-4-1,,12,3,66.0,87.0,606,11,2,0,1,5,True,0.0,25.0,0.0,0.0
+8150,2023,13,2023-07-02,11:00,Bragantino,Mandante,Neo Química Arena,0,1,-1,Derrota,0,V. Luxemburgo da Silva,4-3-3,,12,4,40.0,70.0,367,15,3,0,5,4,True,0.0,33.33333333333333,0.0,0.0
+8158,2023,14,2023-07-08,18:30,Atletico-MG,Visitante, Mineirão,1,0,1,Vitoria,3,V. Luxemburgo da Silva,5-3-2,,8,2,40.0,75.0,397,7,2,0,0,2,True,100.0,25.0,12.5,50.0
+8179,2023,16,2023-07-22,18:31,Bahia,Visitante,Itaipava Arena Fonte Nova,0,0,0,Empate,1,V. Luxemburgo da Silva,3-4-2-1,,5,1,40.0,73.0,333,20,2,0,4,5,True,33.33333333333333,20.0,0.0,0.0
+8189,2023,17,2023-07-29,18:33,Vasco,Mandante,Neo Química Arena,3,1,2,Vitoria,3,V. Luxemburgo da Silva,4-3-3,,12,6,56.0,89.0,648,12,2,0,0,0,True,100.0,50.0,25.0,50.0
+8198,2023,18,2023-08-05,18:32,Internacional,Visitante,Estádio Beira-Rio,2,2,0,Empate,1,V. Luxemburgo da Silva,4-3-3,,9,3,44.0,84.0,445,7,3,0,2,4,True,33.33333333333333,33.33333333333333,22.22222222222222,66.66666666666666
+8209,2023,19,2023-08-13,16:01,Coritiba,Mandante,Neo Química Arena,3,1,2,Vitoria,3,V. Luxemburgo da Silva,4-2-3-1,,17,9,54.0,86.0,529,17,2,0,2,4,True,100.0,52.94117647058824,17.647058823529413,33.33333333333333
+8220,2023,20,2023-08-19,21:00,Cruzeiro,Visitante, Mineirão,1,1,0,Empate,1,V. Luxemburgo da Silva,4-3-3,,5,2,54.0,86.0,480,13,3,0,1,3,True,33.33333333333333,40.0,20.0,50.0
+8227,2023,21,2023-08-26,21:02,Goias,Mandante,Neo Química Arena,1,1,0,Empate,1,V. Luxemburgo da Silva,4-3-3,,20,7,65.0,89.0,626,16,3,0,0,7,True,33.33333333333333,35.0,5.0,14.285714285714285
+8240,2023,22,2023-09-03,16:03,Palmeiras,Mandante,Neo Química Arena,0,0,0,Empate,1,V. Luxemburgo da Silva,4-2-3-1,,6,2,43.0,86.0,380,13,1,1,2,2,True,33.33333333333333,33.33333333333333,0.0,0.0
+8249,2023,23,2023-09-14,19:02,Fortaleza,Visitante,Arena Castelão,1,2,-1,Derrota,0,V. Luxemburgo da Silva,3-4-1-2,,6,2,48.0,82.0,439,17,2,0,1,3,True,0.0,33.33333333333333,16.666666666666664,50.0
+8174,2023,15,2023-09-18,21:01,Gremio,Mandante,Neo Química Arena,4,4,0,Empate,1,V. Luxemburgo da Silva,4-1-4-1,,21,8,55.0,88.0,511,17,1,0,1,6,True,33.33333333333333,38.095238095238095,19.047619047619047,50.0
+8264,2023,24,2023-09-22,20:02,Botafogo-RJ,Mandante,Neo Química Arena,1,0,1,Vitoria,3,V. Luxemburgo da Silva,4-2-3-1,,19,5,67.0,89.0,668,18,4,0,2,6,True,100.0,26.31578947368421,5.263157894736842,20.0
+8268,2023,25,2023-09-30,18:30,Sao Paulo,Visitante, Morumbi,1,2,-1,Derrota,0,S. Lobo,4-2-3-1,,6,2,46.0,86.0,404,14,2,0,1,4,True,0.0,33.33333333333333,16.666666666666664,50.0
+8278,2023,26,2023-10-07,20:59,Flamengo,Mandante,Neo Química Arena,1,1,0,Empate,1,L. Venker de Menezes,4-2-3-1,,14,5,42.0,80.0,368,5,3,0,2,2,True,33.33333333333333,35.714285714285715,7.142857142857142,20.0
+8295,2023,27,2023-10-19,21:30,Fluminense,Visitante, Maracanã,3,3,0,Empate,1,L. Venker de Menezes,4-1-4-1,,7,3,24.0,74.0,234,15,3,0,2,1,True,33.33333333333333,42.857142857142854,42.857142857142854,100.0
+8305,2023,28,2023-10-22,18:30,America-MG,Mandante,Neo Química Arena,1,1,0,Empate,1,L. Venker de Menezes,4-1-4-1,,20,6,71.0,86.0,644,15,2,0,1,4,True,33.33333333333333,30.0,5.0,16.666666666666664
+8312,2023,29,2023-10-25,21:30,Cuiaba,Visitante,Arena Pantanal,1,0,1,Vitoria,3,L. Venker de Menezes,4-2-3-1,,9,5,51.0,84.0,500,13,3,0,0,5,True,100.0,55.55555555555556,11.11111111111111,20.0
+8322,2023,30,2023-10-29,18:33,Santos,Mandante,Neo Química Arena,1,1,0,Empate,1,L. Venker de Menezes,4-2-3-1,,17,7,62.0,80.0,446,22,6,0,3,10,True,33.33333333333333,41.17647058823529,5.88235294117647,14.285714285714285
+8328,2023,31,2023-11-01,19:01,Athletico-PR,Mandante,Neo Química Arena,1,0,1,Vitoria,3,L. Venker de Menezes,4-2-3-1,,12,4,44.0,80.0,423,4,1,0,2,1,True,100.0,33.33333333333333,8.333333333333332,25.0
+8340,2023,32,2023-11-05,16:01,Bragantino,Visitante,Nabizão,0,1,-1,Derrota,0,L. Venker de Menezes,4-2-3-1,,9,2,44.0,67.0,313,12,2,0,0,6,True,0.0,22.22222222222222,0.0,0.0
+8352,2023,33,2023-11-09,19:01,Atletico-MG,Mandante,Neo Química Arena,1,1,0,Empate,1,L. Venker de Menezes,4-2-3-1,,15,9,39.0,75.0,348,8,1,0,3,5,True,33.33333333333333,60.0,6.666666666666667,11.11111111111111
+8360,2023,34,2023-11-12,16:01,Gremio,Visitante,Arena do Grêmio,1,0,1,Vitoria,3,L. Venker de Menezes,3-4-1-2,,10,4,26.0,65.0,222,6,6,1,0,1,True,100.0,40.0,10.0,25.0
+8366,2023,35,2023-11-24,21:02,Bahia,Mandante,Neo Química Arena,1,5,-4,Derrota,0,L. Venker de Menezes,4-2-3-1,,14,4,66.0,86.0,604,9,2,0,1,3,True,0.0,28.57142857142857,7.142857142857142,25.0
+8376,2023,36,2023-11-28,21:30,Vasco,Visitante,Estádio São Januário,4,2,2,Vitoria,3,L. Venker de Menezes,4-2-3-1,,14,5,47.0,87.0,489,5,2,0,1,3,True,100.0,35.714285714285715,28.57142857142857,80.0
+8386,2023,37,2023-12-02,18:00,Internacional,Mandante,Neo Química Arena,1,2,-1,Derrota,0,L. Venker de Menezes,4-4-2,,9,2,48.0,87.0,491,4,2,1,2,5,True,0.0,22.22222222222222,11.11111111111111,50.0
+8398,2023,38,2023-12-06,21:32,Coritiba,Visitante, Couto Pereira,2,0,2,Vitoria,3,L. Venker de Menezes,4-3-3,,13,6,55.0,90.0,538,12,0,0,1,6,True,100.0,46.15384615384615,15.384615384615385,33.33333333333333
+8413,2024,1,2024-04-14,16:02,Atletico-MG,Mandante,Neo Química Arena,0,0,0,Empate,1,A. Cardoso de Oliveira,4-2-3-1,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+8422,2024,2,2024-04-17,20:01,Juventude,Visitante, Alfredo Jaconi,0,2,-2,Derrota,0,B. Lazaroni,4-3-3,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+8427,2024,3,2024-04-20,18:31,Bragantino,Visitante,Nabizão,0,1,-1,Derrota,0,A. Cardoso de Oliveira,4-2-3-1,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+8440,2024,4,2024-04-28,16:01,Fluminense,Mandante,Neo Química Arena,3,0,3,Vitoria,3,A. Cardoso de Oliveira,4-3-3,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8448,2024,5,2024-05-04,21:00,Fortaleza,Mandante,Neo Química Arena,0,0,0,Empate,1,A. Cardoso de Oliveira,4-2-3-1,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+8456,2024,6,2024-05-11,16:00,Flamengo,Visitante, Maracanã,0,2,-2,Derrota,0,A. Cardoso de Oliveira,3-4-3,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+8470,2024,7,2024-06-01,21:00,Botafogo-RJ,Mandante,Neo Química Arena,0,1,-1,Derrota,0,A. Cardoso de Oliveira,4-3-3,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+8476,2024,8,2024-06-11,19:00,Atletico-GO,Visitante,Estádio Antônio Accioly - Atlético Goianiense,2,2,0,Empate,1,A. Cardoso de Oliveira,4-3-3,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+8488,2024,9,2024-06-16,16:01,Sao Paulo,Mandante,Neo Química Arena,2,2,0,Empate,1,A. Cardoso de Oliveira,4-2-3-1,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+8502,2024,10,2024-06-19,21:33,Internacional,Visitante, Orlando Scarpelli,0,1,-1,Derrota,0,A. Cardoso de Oliveira,4-2-3-1,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+8511,2024,11,2024-06-23,16:00,Athletico-PR,Visitante,Ligga Arena,1,1,0,Empate,1,A. Cardoso de Oliveira,4-2-3-1,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+8519,2024,12,2024-06-26,20:02,Cuiaba,Mandante,Neo Química Arena,1,1,0,Empate,1,A. Cardoso de Oliveira,4-2-3-1,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+8535,2024,13,2024-07-01,20:00,Palmeiras,Visitante,Allianz Parque,0,2,-2,Derrota,0,A. Cardoso de Oliveira,4-2-3-1,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+8545,2024,14,2024-07-04,20:03,Vitoria,Mandante,Neo Química Arena,3,2,1,Vitoria,3,R. Laruccia,4-1-4-1,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8550,2024,15,2024-07-07,16:00,Cruzeiro,Visitante, Mineirão,0,3,-3,Derrota,0,R. Laruccia,4-2-3-1,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+8557,2024,16,2024-07-10,19:01,Vasco,Visitante,Estádio São Januário,0,2,-2,Derrota,0,R. Laruccia,4-2-3-1,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+8569,2024,17,2024-07-16,21:01,Criciuma,Mandante,Neo Química Arena,2,1,1,Vitoria,3,R. Díaz,4-2-3-1,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8581,2024,18,2024-07-21,16:02,Bahia,Visitante,Arena Fonte Nova,1,0,1,Vitoria,3,R. Díaz,3-4-1-2,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8591,2024,19,2024-07-25,20:00,Gremio,Mandante,Neo Química Arena,2,2,0,Empate,1,R. Díaz,3-4-1-2,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+8605,2024,20,2024-07-28,19:00,Atletico-MG,Visitante,Arena MRV,1,2,-1,Derrota,0,R. Díaz,3-4-1-2,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+8611,2024,21,2024-08-04,16:00,Juventude,Mandante,Neo Química Arena,1,1,0,Empate,1,R. Díaz,4-2-3-1,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+8619,2024,22,2024-08-10,21:30,Bragantino,Mandante,Neo Química Arena,1,1,0,Empate,1,R. Díaz,4-1-2-1-2,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+8629,2024,23,2024-08-17,21:00,Fluminense,Visitante, Maracanã,0,0,0,Empate,1,R. Díaz,3-4-2-1,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+8641,2024,24,2024-08-25,16:01,Fortaleza,Visitante,Arena Castelão,0,1,-1,Derrota,0,R. Díaz,3-4-2-1,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+8650,2024,25,2024-09-01,16:01,Flamengo,Mandante,Neo Química Arena,2,1,1,Vitoria,3,R. Díaz,3-4-2-1,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8658,2024,26,2024-09-14,21:04,Botafogo-RJ,Visitante,Estádio Nilton Santos,1,2,-1,Derrota,0,R. Díaz,3-4-1-2,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+8666,2024,27,2024-09-21,16:03,Atletico-GO,Mandante,Neo Química Arena,3,0,3,Vitoria,3,R. Díaz,4-3-1-2,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8679,2024,28,2024-09-29,16:02,Sao Paulo,Visitante,Arena BRB Mané Garrincha,1,3,-2,Derrota,0,R. Díaz,4-3-1-2,,0,0,,,0,0,0,0,0,0,False,0.0,,,
+8694,2024,29,2024-10-05,19:02,Internacional,Mandante,Neo Química Arena,2,2,0,Empate,1,R. Díaz,4-1-3-2,,0,0,,,0,0,0,0,0,0,False,33.33333333333333,,,
+8698,2024,30,2024-10-17,20:04,Athletico-PR,Mandante,Neo Química Arena,5,2,3,Vitoria,3,R. Díaz,4-1-3-2,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8714,2024,31,2024-10-28,19:01,Cuiaba,Visitante,Arena Pantanal,1,0,1,Vitoria,3,R. Díaz,4-3-1-2,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8720,2024,32,2024-11-04,20:03,Palmeiras,Mandante,Neo Química Arena,2,0,2,Vitoria,3,R. Díaz,3-4-1-2,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8728,2024,33,2024-11-09,16:32,Vitoria,Visitante, Barradão,2,1,1,Vitoria,3,R. Díaz,4-3-1-2,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8736,2024,34,2024-11-20,11:06,Cruzeiro,Mandante,Neo Química Arena,2,1,1,Vitoria,3,R. Díaz,4-3-1-2,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8750,2024,35,2024-11-24,16:02,Vasco,Mandante,Neo Química Arena,3,1,2,Vitoria,3,R. Díaz,4-3-1-2,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8758,2024,36,2024-11-30,19:34,Criciuma,Visitante,Estádio Heriberto Hülse,4,2,2,Vitoria,3,R. Díaz,4-3-1-2,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8766,2024,37,2024-12-03,20:04,Bahia,Mandante,Neo Química Arena,3,0,3,Vitoria,3,R. Díaz,4-3-1-2,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8785,2024,38,2024-12-08,16:05,Gremio,Visitante,Arena do Grêmio,3,0,3,Vitoria,3,R. Díaz,4-3-1-2,,0,0,,,0,0,0,0,0,0,False,100.0,,,
+8794,2025,1,2025-03-30,20:01,Bahia,Visitante,"Arena Fonte Nova, Salvador",1,1,0,Empate,1,D. Junior,4-3-3,1752529.0,8,2,52.0,94.0,561,15,2,0,1,5,True,33.33333333333333,25.0,12.5,50.0
+8797,2025,2,2025-04-05,18:31,Vasco,Mandante,"Neo Química Arena, São Paulo",3,0,3,Vitoria,3,D. Junior,4-3-1-2,2958819.7,4,2,54.0,92.0,505,19,3,0,1,1,True,100.0,50.0,75.0,150.0
+8808,2025,3,2025-04-12,18:31,Palmeiras,Visitante,"Allianz Parque, São Paulo",0,2,-2,Derrota,0,D. Junior,4-3-1-2,1172275.0,6,1,66.0,92.0,546,17,5,0,0,3,True,0.0,16.666666666666664,0.0,0.0
+8821,2025,4,2025-04-16,19:31,Fluminense,Mandante,"Neo Química Arena, São Paulo",0,2,-2,Derrota,0,D. Junior,4-3-3,2838164.2,8,2,58.0,89.0,474,7,2,0,0,7,True,0.0,25.0,0.0,0.0
+8826,2025,5,2025-04-19,16:00,Sport,Mandante,"Neo Química Arena, São Paulo",2,1,1,Vitoria,3,D. Junior,4-3-3,3041600.7,16,4,60.0,89.0,514,11,3,0,4,5,True,100.0,25.0,12.5,50.0
+8841,2025,6,2025-04-27,16:00,Flamengo,Visitante,"Maracanã, Rio de Janeiro",0,4,-4,Derrota,0,D. Junior,4-3-3,4472050.0,5,2,42.0,93.0,394,11,1,0,2,3,True,0.0,40.0,0.0,0.0
+8848,2025,7,2025-05-03,18:31,Internacional,Mandante,"Neo Química Arena, São Paulo",4,2,2,Vitoria,3,D. Junior,4-3-1-2,3041403.0,21,10,63.0,92.0,545,9,3,0,3,3,True,100.0,47.61904761904761,19.047619047619047,40.0
+8859,2025,8,2025-05-10,18:31,Mirassol,Visitante,"Campos Maia, Mirassol",1,2,-1,Derrota,0,D. Junior,4-4-2,1170660.0,10,3,56.0,91.0,473,17,5,0,0,5,True,0.0,30.0,10.0,33.33333333333333
+8869,2025,9,2025-05-18,16:00,Santos,Mandante,"Neo Química Arena, São Paulo",1,0,1,Vitoria,3,D. Junior,3-5-1-1,3429158.0,9,2,60.0,94.0,510,8,2,0,0,5,True,100.0,22.22222222222222,11.11111111111111,50.0
+8878,2025,10,2025-05-24,21:00,Atletico-MG,Visitante,"Arena MRV, Belo Horizonte",0,0,0,Empate,1,D. Junior,4-1-4-1,2045080.18,6,0,50.0,88.0,382,14,4,0,0,1,True,33.33333333333333,0.0,0.0,
+8893,2025,11,2025-06-01,18:29,Vitoria,Mandante,"Neo Química Arena, São Paulo",0,0,0,Empate,1,D. Junior,4-3-3,3062595.7,10,2,70.0,92.0,609,8,2,0,5,8,True,33.33333333333333,20.0,0.0,0.0
+8899,2025,12,2025-06-12,20:00,Gremio,Visitante,"Arena do Grêmio, Porto Alegre",1,1,0,Empate,1,D. Junior,4-2-3-1,1261576.0,11,5,59.0,90.0,489,12,3,0,3,6,True,33.33333333333333,45.45454545454545,9.090909090909092,20.0
+8910,2025,13,2025-07-13,19:00,Bragantino,Mandante,"Neo Química Arena, São Paulo",1,2,-1,Derrota,0,D. Junior,4-1-2-1-2,2356795.3,13,9,58.0,90.0,458,17,6,0,3,10,True,0.0,69.23076923076923,7.6923076923076925,11.11111111111111
+8917,2025,14,2025-07-16,19:30,Ceara,Visitante,"Arena Castelão, Fortaleza",1,0,1,Vitoria,3,D. Junior,4-2-3-1,985005.0,5,2,63.0,91.0,338,13,2,0,2,3,True,100.0,40.0,20.0,50.0
+8929,2025,15,2025-07-19,21:00,Sao Paulo,Visitante,"MorumBIS, São Paulo",0,2,-2,Derrota,0,D. Junior,4-3-1-2,2667868.0,9,4,47.0,90.0,470,9,2,0,0,5,True,0.0,44.44444444444444,0.0,0.0
+8938,2025,16,2025-07-23,19:31,Cruzeiro,Mandante,"Neo Química Arena, São Paulo",0,0,0,Empate,1,D. Junior,4-1-2-1-2,2289651.4,7,3,48.0,88.0,296,19,4,0,2,4,True,33.33333333333333,42.857142857142854,0.0,0.0
+8947,2025,17,2025-07-26,18:30,Botafogo-RJ,Visitante,"Estádio Nilton Santos, Rio de Janeiro",1,1,0,Empate,1,Dorival Silvestre Junior,4-3-1-2,1807000.0,9,5,45.0,91.0,422,15,2,0,1,2,True,33.33333333333333,55.55555555555556,11.11111111111111,20.0
+8959,2025,18,2025-08-03,15:59,Fortaleza,Mandante,"Neo Química Arena, São Paulo",1,1,0,Empate,1,D. Junior,4-2-3-1,2390031.8,15,4,68.0,91.0,614,10,0,0,3,5,True,33.33333333333333,26.666666666666668,6.666666666666667,25.0
+8975,2025,19,2025-08-11,20:01,Juventude,Visitante,"Alfredo Jaconi, Caxias do Sul",1,2,-1,Derrota,0,D. Junior,4-3-1-2,609810.0,15,5,58.0,92.0,523,10,5,1,1,2,True,0.0,33.33333333333333,6.666666666666667,20.0
+8980,2025,20,2025-08-16,21:01,Bahia,Mandante,"Neo Química Arena, São Paulo",1,2,-1,Derrota,0,D. Junior,4-3-1-2,2823725.0,19,7,66.0,91.0,481,14,2,0,6,9,True,0.0,36.84210526315789,5.263157894736842,14.285714285714285
+8990,2025,21,2025-08-24,16:00,Vasco,Visitante,"Estádio São Januário, Rio de Janeiro",3,2,1,Vitoria,3,D. Junior,4-1-3-2,1453977.0,12,7,40.0,89.0,235,18,2,0,2,5,True,100.0,58.333333333333336,25.0,42.857142857142854
+9001,2025,22,2025-08-31,18:30,Palmeiras,Mandante,"Neo Química Arena, São Paulo",1,1,0,Empate,1,D. Junior,3-4-1-2,3208887.3,9,1,42.0,87.0,286,16,2,0,1,3,True,33.33333333333333,11.11111111111111,11.11111111111111,100.0
+9009,2025,23,2025-09-13,21:00,Fluminense,Visitante,"Maracanã, Rio de Janeiro",1,0,1,Vitoria,3,D. Junior,3-4-2-1,965207.5,2,1,39.0,87.0,374,19,5,0,1,4,True,100.0,50.0,50.0,100.0
+9022,2025,24,2025-09-21,17:30,Sport,Visitante,"Adelmar da Costa Carvalho, Recife",0,1,-1,Derrota,0,D. Junior,3-5-2,1776835.0,19,3,55.0,92.0,291,8,1,0,1,7,True,0.0,15.789473684210526,0.0,0.0
+9034,2025,25,2025-09-28,20:31,Flamengo,Mandante,"Neo Química Arena, São Paulo",1,2,-1,Derrota,0,D. Junior,3-5-2,3003306.0,15,4,45.0,86.0,376,14,3,0,0,5,True,0.0,26.666666666666668,6.666666666666667,25.0
+9040,2025,26,2025-10-01,19:30,Internacional,Visitante,"Estádio Beira-Rio, Porto Alegre",1,1,0,Empate,1,D. Junior,3-5-2,709971.0,5,2,42.0,89.0,318,15,5,0,1,4,True,33.33333333333333,40.0,20.0,50.0
+9049,2025,27,2025-10-04,21:00,Mirassol,Mandante,"Neo Química Arena, São Paulo",3,0,3,Vitoria,3,D. Junior,4-3-1-2,2727985.4,10,3,36.0,81.0,213,16,3,0,0,2,True,100.0,30.0,30.0,100.0
+9060,2025,28,2025-10-15,21:30,Santos,Visitante,"Estádio Urbano Caldeira, Santos",1,3,-2,Derrota,0,D. Junior,3-4-1-2,665586.0,6,1,61.0,89.0,399,11,5,0,2,4,True,0.0,16.666666666666664,16.666666666666664,100.0
+9066,2025,29,2025-10-18,18:30,Atletico-MG,Mandante,"Neo Química Arena, São Paulo",1,0,1,Vitoria,3,D. Junior,3-4-1-2,2871647.8,9,1,65.0,92.0,519,15,3,0,3,5,True,100.0,11.11111111111111,11.11111111111111,100.0
+9076,2025,30,2025-10-25,16:01,Vitoria,Visitante,"Barradão, Salvador",1,0,1,Vitoria,3,D. Junior,3-4-1-2,1044996.0,9,4,60.0,90.0,365,13,4,1,2,6,True,100.0,44.44444444444444,11.11111111111111,25.0
+9092,2025,31,2025-11-02,16:01,Gremio,Mandante,"Neo Química Arena, São Paulo",2,0,2,Vitoria,3,D. Junior,3-5-2,3030958.4,14,4,57.0,92.0,515,13,3,0,0,5,True,100.0,28.57142857142857,14.285714285714285,50.0
+9098,2025,32,2025-11-05,19:01,Bragantino,Visitante,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",1,2,-1,Derrota,0,D. Junior,3-4-1-2,395515.0,5,3,43.0,87.0,236,13,4,2,0,1,True,0.0,60.0,20.0,33.33333333333333
+9112,2025,33,2025-11-09,16:01,Ceara,Mandante,"Neo Química Arena, São Paulo",0,1,-1,Derrota,0,D. Junior,3-4-1-2,2881918.0,15,5,77.0,92.0,655,7,1,0,2,9,True,0.0,33.33333333333333,0.0,0.0
+9132,2025,34,2025-11-20,19:30,Sao Paulo,Mandante,"Neo Química Arena, São Paulo",3,1,2,Vitoria,3,D. Junior,4-4-2,3539617.2,13,5,47.0,88.0,308,16,1,0,0,4,True,100.0,38.46153846153847,23.076923076923077,60.0
+9142,2025,35,2025-11-23,20:34,Cruzeiro,Visitante,"Mineirão, Belo Horizonte",0,3,-3,Derrota,0,D. Junior,5-3-2,1637835.5,3,0,53.0,91.0,332,7,2,1,3,3,True,0.0,0.0,0.0,
+9155,2025,36,2025-11-30,16:00,Botafogo-RJ,Mandante,"Neo Química Arena, São Paulo",2,2,0,Empate,1,Dorival Silvestre Junior,4-1-2-1-2,2694558.5,11,4,61.0,89.0,391,14,3,0,2,7,True,33.33333333333333,36.36363636363637,18.181818181818183,50.0
+9120,2025,37,2025-12-03,19:03,Fortaleza,Visitante,"Arena Castelão, Fortaleza",1,2,-1,Derrota,0,D. Junior,4-3-3,1433088.0,20,8,70.0,95.0,476,16,1,0,0,7,True,0.0,40.0,5.0,12.5
+9159,2025,38,2025-12-07,16:04,Juventude,Mandante,"Neo Química Arena, São Paulo",1,1,0,Empate,1,D. Junior,3-4-3,1888899.0,11,6,55.0,90.0,443,15,0,0,3,4,True,33.33333333333333,54.54545454545454,9.090909090909092,16.666666666666664

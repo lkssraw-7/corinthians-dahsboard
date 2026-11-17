@@ -1,0 +1,113 @@
+﻿ID,competicao,temporada,data,fase,instancia,adversario,local,arena,pais_sede,cidade_sede,gols_marcados,gols_sofridos,saldo_gols,resultado,pontos,penales,fonte_url
+LIB-19960313-corinthians-botafogo-de-futebol-e-regatas-36,Copa Libertadores,1996,1996-03-13,Fase de grupos,Grupo 4,Botafogo de Futebol e Regatas,Mandante,Neo Química Arena,Brasil,São Paulo,3,0,3,Vitoria,3,,
+LIB-19960319-universidad-catolica-corinthians-38,Copa Libertadores,1996,1996-03-19,Fase de grupos,Grupo 4,Universidad Católica,Visitante,San Carlos de Apoquindo,Chile,Santiago,3,2,1,Vitoria,3,,
+LIB-19960322-universidad-de-chile-corinthians-39,Copa Libertadores,1996,1996-03-22,Fase de grupos,Grupo 4,Universidad de Chile,Visitante,Nacional Julio Martínez Prádanos,Chile,Santiago,0,1,-1,Derrota,0,,
+LIB-19960329-corinthians-universidad-catolica-41,Copa Libertadores,1996,1996-03-29,Fase de grupos,Grupo 4,Universidad Católica,Mandante,Neo Química Arena,Brasil,São Paulo,3,1,2,Vitoria,3,,
+LIB-19960403-botafogo-de-futebol-e-regatas-corinthians-42,Copa Libertadores,1996,1996-04-03,Fase de grupos,Grupo 4,Botafogo de Futebol e Regatas,Visitante,Nilton Santos,Brasil,Río de Janeiro,1,1,0,Empate,1,,
+LIB-19960416-corinthians-universidad-de-chile-46,Copa Libertadores,1996,1996-04-16,Fase de grupos,Grupo 4,Universidad de Chile,Mandante,Neo Química Arena,Brasil,São Paulo,3,1,2,Vitoria,3,,
+LIB-19990226-palmeiras-corinthians-138,Copa Libertadores,1999,1999-02-26,Fase de grupos,Grupo 3,Palmeiras,Visitante,Allianz Parque,Brasil,São Paulo,0,1,-1,Derrota,0,,
+LIB-19990310-corinthians-cerro-porteno-141,Copa Libertadores,1999,1999-03-10,Fase de grupos,Grupo 3,Cerro Porteño,Mandante,Neo Química Arena,Brasil,São Paulo,8,2,6,Vitoria,3,,
+LIB-19990317-corinthians-palmeiras-143,Copa Libertadores,1999,1999-03-17,Fase de grupos,Grupo 3,Palmeiras,Mandante,Neo Química Arena,Brasil,São Paulo,2,1,1,Vitoria,3,,
+LIB-19990324-cerro-porteno-corinthians-145,Copa Libertadores,1999,1999-03-24,Fase de grupos,Grupo 3,Cerro Porteño,Visitante,General Pablo Rojas,Paraguay,Asunción,0,3,-3,Derrota,0,,
+LIB-19990326-olimpia-corinthians-146,Copa Libertadores,1999,1999-03-26,Fase de grupos,Grupo 3,Olimpia,Visitante,Manuel Ferreira,Paraguay,Asunción,2,1,1,Vitoria,3,,
+LIB-19990409-corinthians-olimpia-148,Copa Libertadores,1999,1999-04-09,Fase de grupos,Grupo 3,Olimpia,Mandante,Neo Química Arena,Brasil,São Paulo,4,0,4,Vitoria,3,,
+LIB-19990414-jorge-wilstermann-corinthians-2544,Copa Libertadores,1999,1999-04-14,Oitavas de final,Ida,Jorge Wilstermann,Visitante,,Bolivia,,1,1,0,Empate,1,,https://www.rsssf.org/sacups/copa99.html
+LIB-19990421-corinthians-jorge-wilstermann-2545,Copa Libertadores,1999,1999-04-21,Oitavas de final,Volta,Jorge Wilstermann,Mandante,,Brasil,,5,2,3,Vitoria,3,,https://www.rsssf.org/sacups/copa99.html
+LIB-19990505-palmeiras-corinthians-2566,Copa Libertadores,1999,1999-05-05,Quartas de final,Ida,Palmeiras,Visitante,,Brasil,,0,2,-2,Derrota,0,,https://www.rsssf.org/sacups/copa99.html
+LIB-19990512-corinthians-palmeiras-2567,Copa Libertadores,1999,1999-05-12,Quartas de final,Volta,Palmeiras,Mandante,,Brasil,,2,0,2,Vitoria,3,Penales: 2-4,https://www.rsssf.org/sacups/copa99.html
+LIB-20000217-america-de-cali-corinthians-208,Copa Libertadores,2000,2000-02-17,Fase de grupos,Grupo 3,América de Cali,Visitante,Pascual Guerrero,Colombia,Cali,0,2,-2,Derrota,0,,
+LIB-20000303-corinthians-ldu-quito-211,Copa Libertadores,2000,2000-03-03,Fase de grupos,Grupo 3,LDU Quito,Mandante,Neo Química Arena,Brasil,São Paulo,6,0,6,Vitoria,3,,
+LIB-20000314-olimpia-corinthians-213,Copa Libertadores,2000,2000-03-14,Fase de grupos,Grupo 3,Olimpia,Visitante,Manuel Ferreira,Paraguay,Asunción,2,2,0,Empate,1,,
+LIB-20000405-corinthians-america-de-cali-214,Copa Libertadores,2000,2000-04-05,Fase de grupos,Grupo 3,América de Cali,Mandante,Neo Química Arena,Brasil,São Paulo,2,1,1,Vitoria,3,,
+LIB-20000411-ldu-quito-corinthians-216,Copa Libertadores,2000,2000-04-11,Fase de grupos,Grupo 3,LDU Quito,Visitante,Rodrigo Paz Delgado,Ecuador,Quito,2,0,2,Vitoria,3,,
+LIB-20000419-corinthians-olimpia-218,Copa Libertadores,2000,2000-04-19,Fase de grupos,Grupo 3,Olimpia,Mandante,Neo Química Arena,Brasil,São Paulo,5,4,1,Vitoria,3,,
+LIB-20000503-rosario-central-corinthians-2574,Copa Libertadores,2000,2000-05-03,Oitavas de final,Ida,Rosario Central,Visitante,,Argentina,,2,3,-1,Derrota,0,,https://www.rsssf.org/sacups/copa00.html
+LIB-20000509-corinthians-rosario-central-2575,Copa Libertadores,2000,2000-05-09,Oitavas de final,Volta,Rosario Central,Mandante,,Brasil,,3,2,1,Vitoria,3,Penales: 4-3,https://www.rsssf.org/sacups/copa00.html
+LIB-20000518-atletico-mineiro-corinthians-2588,Copa Libertadores,2000,2000-05-18,Quartas de final,Ida,Atlético Mineiro,Visitante,,Brasil,,1,1,0,Empate,1,,https://www.rsssf.org/sacups/copa00.html
+LIB-20000523-corinthians-atletico-mineiro-2589,Copa Libertadores,2000,2000-05-23,Quartas de final,Volta,Atlético Mineiro,Mandante,,Brasil,,2,1,1,Vitoria,3,,https://www.rsssf.org/sacups/copa00.html
+LIB-20000530-corinthians-palmeiras-2596,Copa Libertadores,2000,2000-05-30,Semifinal,Ida,Palmeiras,Mandante,,Brasil,,4,3,1,Vitoria,3,,https://www.rsssf.org/sacups/copa00.html
+LIB-20000606-palmeiras-corinthians-2597,Copa Libertadores,2000,2000-06-06,Semifinal,Volta,Palmeiras,Visitante,,Brasil,,2,3,-1,Derrota,0,Penales: 5-4,https://www.rsssf.org/sacups/copa00.html
+LIB-20030205-corinthians-cruz-azul-577,Copa Libertadores,2003,2003-02-05,Fase de grupos,Grupo 8,Cruz Azul,Mandante,Neo Química Arena,Brasil,São Paulo,1,0,1,Vitoria,3,,
+LIB-20030219-fenix-corinthians-579,Copa Libertadores,2003,2003-02-19,Fase de grupos,Grupo 8,Fénix,Visitante,Parque Capurro,Uruguay,Montevideo,2,1,1,Vitoria,3,,
+LIB-20030311-corinthians-the-strongest-582,Copa Libertadores,2003,2003-03-11,Fase de grupos,Grupo 8,The Strongest,Mandante,Neo Química Arena,Brasil,São Paulo,4,1,3,Vitoria,3,,
+LIB-20030326-cruz-azul-corinthians-584,Copa Libertadores,2003,2003-03-26,Fase de grupos,Grupo 8,Cruz Azul,Visitante,Ciudad de los Deportes,México,Ciudad de México,0,3,-3,Derrota,0,,
+LIB-20030402-corinthians-fenix-585,Copa Libertadores,2003,2003-04-02,Fase de grupos,Grupo 8,Fénix,Mandante,Neo Química Arena,Brasil,São Paulo,6,1,5,Vitoria,3,,
+LIB-20030409-the-strongest-corinthians-588,Copa Libertadores,2003,2003-04-09,Fase de grupos,Grupo 8,The Strongest,Visitante,Hernando Siles,Bolivia,La Paz,2,0,2,Vitoria,3,,
+LIB-20030501-river-plate-corinthians-2676,Copa Libertadores,2003,2003-05-01,Oitavas de final,Ida,River Plate,Visitante,,Argentina,,1,2,-1,Derrota,0,,https://www.rsssf.org/sacups/copa03.html
+LIB-20030514-corinthians-river-plate-2677,Copa Libertadores,2003,2003-05-14,Oitavas de final,Volta,River Plate,Mandante,,Brasil,,1,2,-1,Derrota,0,,https://www.rsssf.org/sacups/copa03.html
+LIB-20060215-deportivo-cali-corinthians-823,Copa Libertadores,2006,2006-02-15,Fase de grupos,Grupo 4,Deportivo Cali,Visitante,Estadio Deportivo Cali,Colombia,Palmira,1,0,1,Vitoria,3,,
+LIB-20060222-corinthians-universidad-catolica-825,Copa Libertadores,2006,2006-02-22,Fase de grupos,Grupo 4,Universidad Católica,Mandante,Neo Química Arena,Brasil,São Paulo,2,2,0,Empate,1,,
+LIB-20060309-tigres-uanl-corinthians-826,Copa Libertadores,2006,2006-03-09,Fase de grupos,Grupo 4,Tigres UANL,Visitante,Universitario,México,San Nicolás de los Garza,0,2,-2,Derrota,0,,
+LIB-20060322-corinthians-tigres-uanl-828,Copa Libertadores,2006,2006-03-22,Fase de grupos,Grupo 4,Tigres UANL,Mandante,Neo Química Arena,Brasil,São Paulo,1,0,1,Vitoria,3,,
+LIB-20060406-universidad-catolica-corinthians-830,Copa Libertadores,2006,2006-04-06,Fase de grupos,Grupo 4,Universidad Católica,Visitante,San Carlos de Apoquindo,Chile,Santiago,3,2,1,Vitoria,3,,
+LIB-20060419-corinthians-deportivo-cali-832,Copa Libertadores,2006,2006-04-19,Fase de grupos,Grupo 4,Deportivo Cali,Mandante,Neo Química Arena,Brasil,São Paulo,3,0,3,Vitoria,3,,
+LIB-20060426-river-plate-corinthians-2762,Copa Libertadores,2006,2006-04-26,Oitavas de final,Ida,River Plate,Visitante,,Argentina,,2,3,-1,Derrota,0,,https://www.rsssf.org/sacups/copa06.html
+LIB-20060504-corinthians-river-plate-2763,Copa Libertadores,2006,2006-05-04,Oitavas de final,Volta,River Plate,Mandante,,Brasil,,1,3,-2,Derrota,0,,https://www.rsssf.org/sacups/copa06.html
+LIB-20100224-corinthians-racing-montevideo-1141,Copa Libertadores,2010,2010-02-24,Fase de grupos,Grupo 1,Racing (Montevideo),Mandante,Neo Química Arena,Brasil,São Paulo,2,1,1,Vitoria,3,,
+LIB-20100317-cerro-porteno-corinthians-1143,Copa Libertadores,2010,2010-03-17,Fase de grupos,Grupo 1,Cerro Porteño,Visitante,General Pablo Rojas,Paraguay,Asunción,1,0,1,Vitoria,3,,
+LIB-20100401-corinthians-cerro-porteno-1145,Copa Libertadores,2010,2010-04-01,Fase de grupos,Grupo 1,Cerro Porteño,Mandante,Neo Química Arena,Brasil,São Paulo,2,1,1,Vitoria,3,,
+LIB-20100422-corinthians-independiente-medellin-1148,Copa Libertadores,2010,2010-04-22,Fase de grupos,Grupo 1,Independiente Medellín,Mandante,Neo Química Arena,Brasil,São Paulo,1,0,1,Vitoria,3,,
+LIB-20100428-flamengo-corinthians-2876,Copa Libertadores,2010,2010-04-28,Oitavas de final,Ida,Flamengo,Visitante,,Brasil,,0,1,-1,Derrota,0,,https://www.rsssf.org/sacups/copa2010.html
+LIB-20100505-corinthians-flamengo-2877,Copa Libertadores,2010,2010-05-05,Oitavas de final,Volta,Flamengo,Mandante,,Brasil,,2,1,1,Vitoria,3,,https://www.rsssf.org/sacups/copa2010.html
+LIB-20110126-corinthians-deportes-tolima-1227,Copa Libertadores,2011,2011-01-26,Fase preliminar,Chave G2,Deportes Tolima,Mandante,,Brasil,,0,0,0,Empate,1,,https://www.rsssf.org/sacups/copa2011.html
+LIB-20110202-deportes-tolima-corinthians-1228,Copa Libertadores,2011,2011-02-02,Fase preliminar,Chave G2,Deportes Tolima,Visitante,,Colombia,,0,2,-2,Derrota,0,,https://www.rsssf.org/sacups/copa2011.html
+LIB-20120215-deportivo-tachira-corinthians-1424,Copa Libertadores,2012,2012-02-15,Fase de grupos,Grupo 6,Deportivo Táchira,Visitante,,Venezuela,,1,1,0,Empate,1,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20120307-corinthians-nacional-par-1426,Copa Libertadores,2012,2012-03-07,Fase de grupos,Grupo 6,Nacional (Par),Mandante,,Brasil,,2,0,2,Vitoria,3,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20120314-cruz-azul-corinthians-1428,Copa Libertadores,2012,2012-03-14,Fase de grupos,Grupo 6,Cruz Azul,Visitante,,México,,0,0,0,Empate,1,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20120321-corinthians-cruz-azul-1429,Copa Libertadores,2012,2012-03-21,Fase de grupos,Grupo 6,Cruz Azul,Mandante,,Brasil,,1,0,1,Vitoria,3,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20120411-nacional-par-corinthians-1432,Copa Libertadores,2012,2012-04-11,Fase de grupos,Grupo 6,Nacional (Par),Visitante,,Paraguay,,3,1,2,Vitoria,3,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20120418-corinthians-deportivo-tachira-1433,Copa Libertadores,2012,2012-04-18,Fase de grupos,Grupo 6,Deportivo Táchira,Mandante,,Brasil,,6,0,6,Vitoria,3,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20120502-emelec-corinthians-1471,Copa Libertadores,2012,2012-05-02,Oitavas de final,Ida,Emelec,Visitante,,Ecuador,,0,0,0,Empate,1,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20120509-corinthians-emelec-1472,Copa Libertadores,2012,2012-05-09,Oitavas de final,Volta,Emelec,Mandante,,Brasil,,3,0,3,Vitoria,3,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20120516-vasco-da-gama-corinthians-1475,Copa Libertadores,2012,2012-05-16,Quartas de final,Ida,Vasco da Gama,Visitante,,Brasil,,0,0,0,Empate,1,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20120523-corinthians-vasco-da-gama-1476,Copa Libertadores,2012,2012-05-23,Quartas de final,Volta,Vasco da Gama,Mandante,,Brasil,,1,0,1,Vitoria,3,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20120613-santos-corinthians-1483,Copa Libertadores,2012,2012-06-13,Semifinal,Ida,Santos,Visitante,,Brasil,,1,0,1,Vitoria,3,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20120620-corinthians-santos-1484,Copa Libertadores,2012,2012-06-20,Semifinal,Volta,Santos,Mandante,,Brasil,,1,1,0,Empate,1,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20120627-boca-juniors-corinthians-1487,Copa Libertadores,2012,2012-06-27,Final,Ida,Boca Juniors,Visitante,,Argentina,,1,1,0,Empate,1,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20120704-corinthians-boca-juniors-1488,Copa Libertadores,2012,2012-07-04,Final,Volta,Boca Juniors,Mandante,,Brasil,,2,0,2,Vitoria,3,,https://www.rsssf.org/sacups/copa2012.html
+LIB-20130220-san-jose-corinthians-1530,Copa Libertadores,2013,2013-02-20,Fase de grupos,Grupo 5,San José,Visitante,Jesús Bermúdez,Bolivia,Oruro,1,1,0,Empate,1,,
+LIB-20130227-corinthians-millonarios-1532,Copa Libertadores,2013,2013-02-27,Fase de grupos,Grupo 5,Millonarios,Mandante,Neo Química Arena,Brasil,São Paulo,2,0,2,Vitoria,3,,
+LIB-20130306-tijuana-corinthians-1534,Copa Libertadores,2013,2013-03-06,Fase de grupos,Grupo 5,Tijuana,Visitante,Caliente,México,Tijuana,0,1,-1,Derrota,0,,
+LIB-20130313-corinthians-tijuana-1535,Copa Libertadores,2013,2013-03-13,Fase de grupos,Grupo 5,Tijuana,Mandante,Neo Química Arena,Brasil,São Paulo,3,0,3,Vitoria,3,,
+LIB-20130410-corinthians-san-jose-1538,Copa Libertadores,2013,2013-04-10,Fase de grupos,Grupo 5,San José,Mandante,Neo Química Arena,Brasil,São Paulo,3,0,3,Vitoria,3,,
+LIB-20130501-boca-juniors-corinthians-2908,Copa Libertadores,2013,2013-05-01,Oitavas de final,Ida,Boca Juniors,Visitante,,Argentina,,0,1,-1,Derrota,0,,https://www.rsssf.org/sacups/copa2013.html
+LIB-20130515-corinthians-boca-juniors-2909,Copa Libertadores,2013,2013-05-15,Oitavas de final,Volta,Boca Juniors,Mandante,,Brasil,,1,1,0,Empate,1,,https://www.rsssf.org/sacups/copa2013.html
+LIB-20150218-corinthians-sao-paulo-1675,Copa Libertadores,2015,2015-02-18,Fase de grupos,Grupo 2,São Paulo,Mandante,Neo Química Arena,Brasil,São Paulo,2,0,2,Vitoria,3,,
+LIB-20150304-san-lorenzo-de-almagro-corinthians-1678,Copa Libertadores,2015,2015-03-04,Fase de grupos,Grupo 2,San Lorenzo de Almagro,Visitante,Pedro Bidegain,Argentina,Buenos Aires,1,0,1,Vitoria,3,,
+LIB-20150317-danubio-corinthians-1679,Copa Libertadores,2015,2015-03-17,Fase de grupos,Grupo 2,Danubio,Visitante,Jardines del Hipódromo,Uruguay,Montevideo,2,1,1,Vitoria,3,,
+LIB-20150401-corinthians-danubio-1682,Copa Libertadores,2015,2015-04-01,Fase de grupos,Grupo 2,Danubio,Mandante,Neo Química Arena,Brasil,São Paulo,4,0,4,Vitoria,3,,
+LIB-20150416-corinthians-san-lorenzo-de-almagro-1684,Copa Libertadores,2015,2015-04-16,Fase de grupos,Grupo 2,San Lorenzo de Almagro,Mandante,Neo Química Arena,Brasil,São Paulo,0,0,0,Empate,1,,
+LIB-20150422-sao-paulo-corinthians-1686,Copa Libertadores,2015,2015-04-22,Fase de grupos,Grupo 2,São Paulo,Visitante,MorumBIS,Brasil,São Paulo,0,2,-2,Derrota,0,,
+LIB-20150506-guarani-corinthians-2964,Copa Libertadores,2015,2015-05-06,Oitavas de final,Ida,Guaraní,Visitante,,Paraguay,,0,2,-2,Derrota,0,,https://www.rsssf.org/sacups/copa2015.html
+LIB-20150513-corinthians-guarani-2965,Copa Libertadores,2015,2015-05-13,Oitavas de final,Volta,Guaraní,Mandante,Neo Química Arena,Brasil,,0,1,-1,Derrota,0,,https://www.rsssf.org/sacups/copa2015.html
+LIB-20160217-cobresal-corinthians-1839,Copa Libertadores,2016,2016-02-17,Fase de grupos,Grupo 8,Cobresal,Visitante,El Cobre,Chile,El Salvador,1,0,1,Vitoria,3,,
+LIB-20160302-corinthians-independiente-santa-fe-1841,Copa Libertadores,2016,2016-03-02,Fase de grupos,Grupo 8,Independiente Santa Fe,Mandante,Neo Química Arena,Brasil,São Paulo,1,0,1,Vitoria,3,,
+LIB-20160309-cerro-porteno-corinthians-1843,Copa Libertadores,2016,2016-03-09,Fase de grupos,Grupo 8,Cerro Porteño,Visitante,General Pablo Rojas,Paraguay,Asunción,2,3,-1,Derrota,0,,
+LIB-20160316-corinthians-cerro-porteno-1845,Copa Libertadores,2016,2016-03-16,Fase de grupos,Grupo 8,Cerro Porteño,Mandante,Neo Química Arena,Brasil,São Paulo,2,0,2,Vitoria,3,,
+LIB-20160406-independiente-santa-fe-corinthians-1846,Copa Libertadores,2016,2016-04-06,Fase de grupos,Grupo 8,Independiente Santa Fe,Visitante,Nemesio Camacho El Campín,Colombia,Bogotá,1,1,0,Empate,1,,
+LIB-20160420-corinthians-cobresal-1849,Copa Libertadores,2016,2016-04-20,Fase de grupos,Grupo 8,Cobresal,Mandante,Neo Química Arena,Brasil,São Paulo,6,0,6,Vitoria,3,,
+LIB-20160427-nacional-corinthians-2996,Copa Libertadores,2016,2016-04-27,Oitavas de final,Ida,Nacional,Visitante,,Uruguay,,0,0,0,Empate,1,,https://www.rsssf.org/sacups/copa2016.html
+LIB-20160504-corinthians-nacional-2997,Copa Libertadores,2016,2016-05-04,Oitavas de final,Volta,Nacional,Mandante,Neo Química Arena,Brasil,,2,2,0,Empate,1,,https://www.rsssf.org/sacups/copa2016.html
+LIB-20180228-millonarios-corinthians-2014,Copa Libertadores,2018,2018-02-28,Fase de grupos,,Millonarios,Visitante,Nemesio Camacho El Campín,Colombia,Bogotá,0,0,0,Empate,1,,
+LIB-20180314-corinthians-deportivo-lara-2015,Copa Libertadores,2018,2018-03-14,Fase de grupos,,Deportivo Lara,Mandante,Neo Química Arena,Brasil,São Paulo,2,0,2,Vitoria,3,,
+LIB-20180418-independiente-corinthians-2018,Copa Libertadores,2018,2018-04-18,Fase de grupos,,Independiente,Visitante,Libertadores de América,Argentina,Avellaneda,1,0,1,Vitoria,3,,
+LIB-20180502-corinthians-independiente-2019,Copa Libertadores,2018,2018-05-02,Fase de grupos,,Independiente,Mandante,Neo Química Arena,Brasil,São Paulo,1,2,-1,Derrota,0,,
+LIB-20180524-corinthians-millonarios-2021,Copa Libertadores,2018,2018-05-24,Fase de grupos,,Millonarios,Mandante,Neo Química Arena,Brasil,São Paulo,0,1,-1,Derrota,0,,
+LIB-20180808-colo-colo-corinthians-3052,Copa Libertadores,2018,2018-08-08,Oitavas de final,Ida,Colo Colo,Visitante,,Chile,,0,1,-1,Derrota,0,,https://www.rsssf.org/sacups/copa2018.html
+LIB-20180829-corinthians-colo-colo-3053,Copa Libertadores,2018,2018-08-29,Oitavas de final,Volta,Colo Colo,Mandante,Neo Química Arena,Brasil,,2,1,1,Vitoria,3,,https://www.rsssf.org/sacups/copa2018.html
+LIB-20220405-always-ready-corinthians-2346,Copa Libertadores,2022,2022-04-05,Fase de grupos,,Always Ready,Visitante,Municipal de El Alto,Bolivia,El Alto,0,2,-2,Derrota,0,,
+LIB-20220413-corinthians-deportivo-cali-2349,Copa Libertadores,2022,2022-04-13,Fase de grupos,,Deportivo Cali,Mandante,Neo Química Arena,Brasil,São Paulo,1,0,1,Vitoria,3,,
+LIB-20220426-corinthians-boca-juniors-2350,Copa Libertadores,2022,2022-04-26,Fase de grupos,,Boca Juniors,Mandante,Neo Química Arena,Brasil,São Paulo,2,0,2,Vitoria,3,,
+LIB-20220504-deportivo-cali-corinthians-2353,Copa Libertadores,2022,2022-05-04,Fase de grupos,,Deportivo Cali,Visitante,Estadio Deportivo Cali,Colombia,Palmira,0,0,0,Empate,1,,
+LIB-20220517-boca-juniors-corinthians-2354,Copa Libertadores,2022,2022-05-17,Fase de grupos,,Boca Juniors,Visitante,Alberto J. Armando,Argentina,Buenos Aires,1,1,0,Empate,1,,
+LIB-20220526-corinthians-always-ready-2357,Copa Libertadores,2022,2022-05-26,Fase de grupos,,Always Ready,Mandante,Neo Química Arena,Brasil,São Paulo,1,1,0,Empate,1,,
+LIB-20220628-corinthians-boca-juniors-3171,Copa Libertadores,2022,2022-06-28,Oitavas de final,Ida,Boca Juniors,Mandante,Neo Química Arena,Brasil,,0,0,0,Empate,1,,https://www.rsssf.org/sacups/copa2022.html
+LIB-20220705-boca-juniors-corinthians-3172,Copa Libertadores,2022,2022-07-05,Oitavas de final,Volta,Boca Juniors,Visitante,,Argentina,,0,0,0,Empate,1,Penales: 5-6,https://www.rsssf.org/sacups/copa2022.html
+LIB-20220802-corinthians-flamengo-3183,Copa Libertadores,2022,2022-08-02,Quartas de final,Ida,Flamengo,Mandante,Neo Química Arena,Brasil,,0,2,-2,Derrota,0,,https://www.rsssf.org/sacups/copa2022.html
+LIB-20220809-flamengo-corinthians-3184,Copa Libertadores,2022,2022-08-09,Quartas de final,Volta,Flamengo,Visitante,,Brasil,,0,1,-1,Derrota,0,,https://www.rsssf.org/sacups/copa2022.html
+LIB-20230406-liverpool-corinthians-2440,Copa Libertadores,2023,2023-04-06,Fase de grupos,,Liverpool,Visitante,Belvedere,Uruguay,Montevideo,3,0,3,Vitoria,3,,
+LIB-20230419-corinthians-argentinos-juniors-2442,Copa Libertadores,2023,2023-04-19,Fase de grupos,,Argentinos Juniors,Mandante,Neo Química Arena,Brasil,São Paulo,0,1,-1,Derrota,0,,
+LIB-20230502-corinthians-independiente-del-valle-2444,Copa Libertadores,2023,2023-05-02,Fase de grupos,,Independiente del Valle,Mandante,Neo Química Arena,Brasil,São Paulo,1,2,-1,Derrota,0,,
+LIB-20230524-argentinos-juniors-corinthians-2445,Copa Libertadores,2023,2023-05-24,Fase de grupos,,Argentinos Juniors,Visitante,Diego Armando Maradona,Argentina,Buenos Aires,0,0,0,Empate,1,,
+LIB-20230607-independiente-del-valle-corinthians-2448,Copa Libertadores,2023,2023-06-07,Fase de grupos,,Independiente del Valle,Visitante,Banco Guayaquil,Ecuador,Sangolquí,0,3,-3,Derrota,0,,
+LIB-20230628-corinthians-liverpool-2450,Copa Libertadores,2023,2023-06-28,Fase de grupos,,Liverpool,Mandante,Neo Química Arena,Brasil,São Paulo,3,0,3,Vitoria,3,,
