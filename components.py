@@ -93,7 +93,7 @@ def _fonte_escudo():
     return f'data:image/png;base64,{escudo_base64}'
 
 
-def cabecalho_dashboard(periodo, temporadas, ultima_partida, competicao):
+def cabecalho_dashboard(periodo, temporadas, total_partidas, ultima_partida, competicao):
     """Exibe o escudo original junto ao título e à cobertura do acervo."""
     preposicao = 'no' if competicao.startswith('Brasileirão') else 'na'
     st.markdown(
@@ -109,6 +109,7 @@ def cabecalho_dashboard(periodo, temporadas, ultima_partida, competicao):
         '<div class="archive-label">ACERVO HISTÓRICO</div>'
         f'<div class="archive-period">{escape(periodo)}</div>'
         f'<div class="archive-detail">{temporadas} temporadas na base</div>'
+        f'<div class="archive-detail">{formatar_numero(total_partidas)} partidas no acervo</div>'
         f'<div class="archive-detail">Última partida: {escape(ultima_partida)}</div>'
         '</div></header>',
         unsafe_allow_html=True,

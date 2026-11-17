@@ -16,6 +16,16 @@ python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
+## Publicar no Streamlit Community Cloud
+
+Ao criar o aplicativo, abra **Advanced settings** e selecione **Python 3.12**.
+As versões fixadas em `requirements.txt` foram validadas nesse runtime. Evite
+Python 3.14 com essas dependências, pois `numpy==2.0.2` e
+`scikit-learn==1.6.1` podem ser compilados a partir do código-fonte em vez de
+usar pacotes binários, tornando o deploy lento ou fazendo a instalação falhar.
+
+Use `main` como branch e `app.py` como arquivo de entrada.
+
 ## Organização
 
 - `app.py`: filtros, navegação entre abas e visão geral.
